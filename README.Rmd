@@ -1,0 +1,51 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# fishbc
+
+<!-- badges: start -->
+[![Lifecycle: maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+[![R build status](https://github.com/poissonconsulting/fishbc/workflows/R-CMD-check/badge.svg)](https://github.com/poissonconsulting/fishbc/actions)
+[![License: CC0](https://img.shields.io/badge/License-CC0-green.svg)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
+<!-- badges: end -->
+
+## Introduction
+
+`fishbc` is an R package that provides provides raw and curated data on the codes, classification and conservation status of freshwater fishes in British Columbia. 
+Marine fishes will be added in a future release.
+
+## Installation
+
+To install the latest development version from [GitHub](https://github.com/poissonconsulting/fishbc)
+```r
+# install.packages("remotes")
+remotes::install_github("poissonconsulting/fishbc")
+```
+
+## Demonstration
+
+```{r example}
+library(tibble) # for tidy printing
+fishbc::freshwaterfish
+```
+
+## Contribution
+
+Please report any [issues](https://github.com/poissonconsulting/fishbc/issues).
+
+[Pull requests](https://github.com/poissonconsulting/fishbc/pulls) are always welcome.
+
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/poissonconsulting/fishbc/blob/master/CODE_OF_CONDUCT.md).
+By contributing, you agree to abide by its terms.
