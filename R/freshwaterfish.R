@@ -5,7 +5,7 @@
 #'
 #' The data includes estuarine fishes and excludes non-finned fishes such as clams.
 #'
-#' @format A tbl data frame with 16 columns and 165 rows:
+#' @format A tbl data frame with 16 columns and 161 rows:
 #' \describe{
 #'   \item{Code}{A character vector of the unique provincial fish code.}
 #'   \item{CommonName}{A character vector of the common name.}
@@ -27,7 +27,7 @@
 #'   \item{Red}{A logical vector indicating whether any of the fishes are red listed in British Columbia.}
 #'   \item{CDCode}{A character vector specifying the BC Conservation Data Centre species code.}
 #' }
-#' @seealso [cdc()]
+#' @seealso [cdc]
 #' @examples
 #' head(freshwaterfish)
 "freshwaterfish"

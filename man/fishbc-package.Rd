@@ -28,7 +28,12 @@ Authors:
 
 Other contributors:
 \itemize{
-  \item Poisson Consulting [copyright holder]
+  \item Bronwen Lewis [contributor]
+  \item Jesse Patterson [contributor]
+  \item Gordon Oliphant [contributor]
+  \item Seb Dalgarno [contributor]
+  \item Poisson Consulting [copyright holder, funder]
+  \item Province of British Columbia [copyright holder]
 }
 
 }

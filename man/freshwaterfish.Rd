@@ -5,7 +5,7 @@
 \alias{freshwaterfish}
 \title{BC Fish Data}
 \format{
-A tbl data frame with 16 columns and 165 rows:
+A tbl data frame with 16 columns and 161 rows:
 \describe{
 \item{Code}{A character vector of the unique provincial fish code.}
 \item{CommonName}{A character vector of the common name.}
@@ -42,6 +42,6 @@ The data includes estuarine fishes and excludes non-finned fishes such as clams.
 head(freshwaterfish)
 }
 \seealso{
-\code{\link[=cdc]{cdc()}}
+\link{cdc}
 }
 \keyword{datasets}

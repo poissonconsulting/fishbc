@@ -16,7 +16,7 @@
 #'  \item{Species Code}{A character vector of the unique data centre fish code.}
 #'  \item{BC List}{A character vector of the BC Conservation Listing.}
 #' }
-#' @seealso [freshwaterfish()]
+#' @seealso [freshwaterfish]
 #' @examples
 #' head(cdc)
 "cdc"

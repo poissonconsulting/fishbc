@@ -33,6 +33,6 @@ Available: \url{http://a100.gov.bc.ca/pub/eswp/}
 (accessed Aug 23, 2019).
 }
 \seealso{
-\code{\link[=freshwaterfish]{freshwaterfish()}}
+\link{freshwaterfish}
 }
 \keyword{datasets}

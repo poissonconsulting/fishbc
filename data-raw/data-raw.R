@@ -12,4 +12,3 @@ freshwaterfish <- freshwaterfish[order(freshwaterfish$Class, freshwaterfish$Orde
 
 usethis::use_data(cdc, overwrite = TRUE)
 usethis::use_data(freshwaterfish, overwrite = TRUE)
-usethis::use_data(whse_fish_species_cd, overwrite = TRUE, internal = TRUE)
