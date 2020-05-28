@@ -13,11 +13,13 @@ Authors@R:
              email = "joe@poissonconsulting.ca",
              comment = c(ORCID = "https://orcid.org/0000-0002-7683-4592")),
       person(given = "Poisson Consulting",
+             role = c("cph", "fnd")),
+      person(given = "Province of British Columbia",
              role = "cph"))
 Description: Provides raw and curated data on the codes,
     classification and conservation status of freshwater fishes in British
     Columbia. Marine fishes will be added in a future release.
-License: CC0
+License: CC BY 4.0
 URL: https://github.com/poissonconsulting/fishbc
 BugReports: https://github.com/poissonconsulting/fishbc/issues
 Depends: 
