@@ -11,6 +11,8 @@ maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www
 status](https://github.com/poissonconsulting/fishbc/workflows/R-CMD-check/badge.svg)](https://github.com/poissonconsulting/fishbc/actions)
 [![License:
 CC0](https://img.shields.io/badge/License-CC0-green.svg)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/fishbc)](https://CRAN.R-project.org/package=fishbc)
 <!-- badges: end -->
 
 ## Introduction
@@ -18,6 +20,10 @@ CC0](https://img.shields.io/badge/License-CC0-green.svg)](https://tldrlegal.com/
 `fishbc` is an R package that provides provides raw and curated data on
 the codes, classification and conservation status of freshwater fishes
 in British Columbia. Marine fishes will be added in a future release.
+
+It contains information licensed under the [Open Government Licence –
+British
+Columbia](https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc).
 
 ## Installation
 
@@ -59,6 +65,9 @@ Please report any
 [Pull requests](https://github.com/poissonconsulting/fishbc/pulls) are
 always welcome.
 
-Please note that this project is released with a [Contributor Code of
-Conduct](https://github.com/poissonconsulting/fishbc/blob/master/CODE_OF_CONDUCT.md).
-By contributing, you agree to abide by its terms.
+## Code of Conduct
+
+Please note that the fishbc project is released with a [Contributor Code
+of
+Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html).
+By contributing to this project, you agree to abide by its terms.
