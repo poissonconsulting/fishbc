@@ -1,4 +1,4 @@
-"   ","CODE","NAME","CDCGR_CODE","CDCLR_CODE","SCIENTIFIC_NAME","SPCTYPE_CODE","SPCGRP_CODE"
+"SPECIES_ID","CODE","NAME","CDCGR_CODE","CDCLR_CODE","SCIENTIFIC_NAME","SPCTYPE_CODE","SPCGRP_CODE"
 "1","AF","All Fish","","","","G","Other"
 "2","AO","All Salmon","","","Oncorhynchus sp","G","Salmon"
 "3","SH","American Shad","G5","SE","Alosa sapidissima","S","Other"
