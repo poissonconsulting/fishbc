@@ -10,5 +10,8 @@ freshwaterfish <- freshwaterfish[order(freshwaterfish$Class, freshwaterfish$Orde
   na.last = FALSE
 ), ]
 
+whse_fish_species_cd$SPECIES_ID <- as.integer(whse_fish_species_cd$SPECIES_ID)
+
 usethis::use_data(cdc, overwrite = TRUE)
 usethis::use_data(freshwaterfish, overwrite = TRUE)
+usethis::use_data(whse_fish_species_cd, overwrite = TRUE, internal = TRUE)
