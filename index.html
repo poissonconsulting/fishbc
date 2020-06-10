@@ -76,6 +76,7 @@
 <a href="#fishbc" class="anchor"></a>fishbc</h1></div>
 <!-- badges: start -->
 
+<!-- badges: end -->
 <div id="introduction" class="section level2">
 <h2 class="hasAnchor">
 <a href="#introduction" class="anchor"></a>Introduction</h2>
@@ -85,14 +86,16 @@
 <div id="installation" class="section level2">
 <h2 class="hasAnchor">
 <a href="#installation" class="anchor"></a>Installation</h2>
+<p>To install the latest release from <a href="https://cran.r-project.org">CRAN</a></p>
+<div class="sourceCode" id="cb1"><pre class="r"><span class="fu"><a href="https://rdrr.io/r/utils/install.packages.html">install.packages</a></span>(<span class="st">"fishbc"</span>)</pre></div>
 <p>To install the latest development version from <a href="https://github.com/poissonconsulting/fishbc">GitHub</a></p>
-<div class="sourceCode" id="cb1"><pre class="r"><span class="co"># install.packages("remotes")</span>
+<div class="sourceCode" id="cb2"><pre class="r"><span class="co"># install.packages("remotes")</span>
 <span class="kw pkg">remotes</span><span class="kw ns">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html">install_github</a></span>(<span class="st">"poissonconsulting/fishbc"</span>)</pre></div>
 </div>
 <div id="demonstration" class="section level2">
 <h2 class="hasAnchor">
 <a href="#demonstration" class="anchor"></a>Demonstration</h2>
-<div class="sourceCode" id="cb2"><pre class="r"><span class="fu"><a href="https://rdrr.io/r/base/library.html">library</a></span>(<span class="no">tibble</span>) <span class="co"># for tidy printing</span>
+<div class="sourceCode" id="cb3"><pre class="r"><span class="fu"><a href="https://rdrr.io/r/base/library.html">library</a></span>(<span class="no">tibble</span>) <span class="co"># for tidy printing</span>
 <span class="kw pkg">fishbc</span><span class="kw ns">::</span><span class="no"><a href="reference/freshwaterfish.html">freshwaterfish</a></span>
 <span class="co">#&gt; # A tibble: 161 x 16</span>
 <span class="co">#&gt;    Code  CommonName Class Order Family Genus Species Subspecies Species2 Extant</span>
@@ -109,6 +112,10 @@
 <span class="co">#&gt; 10 WSU   White Suc… Acti… Cypr… Catos… Cato… commer… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span>
 <span class="co">#&gt; # … with 151 more rows, and 6 more variables: Native &lt;lgl&gt;, Marine &lt;lgl&gt;,</span>
 <span class="co">#&gt; #   Yellow &lt;lgl&gt;, Blue &lt;lgl&gt;, Red &lt;lgl&gt;, CDCode &lt;chr&gt;</span></pre></div>
+<p>Get the common name for fish codes.</p>
+<div class="sourceCode" id="cb4"><pre class="r"><span class="kw pkg">fishbc</span><span class="kw ns">::</span><span class="fu"><a href="reference/sbf_common_name.html">sbf_common_name</a></span>(<span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span>(<span class="st">"AF"</span>, <span class="st">"WSG"</span>, <span class="fl">NA</span>, <span class="st">"AF"</span>, <span class="st">"NOTACODE"</span>))
+<span class="co">#&gt; [1] "All Fish"       "White Sturgeon" NA               "All Fish"      </span>
+<span class="co">#&gt; [5] NA</span></pre></div>
 </div>
 <div id="contribution" class="section level2">
 <h2 class="hasAnchor">
@@ -165,6 +172,7 @@
 <ul class="list-unstyled">
 <li><a href="https://www.tidyverse.org/lifecycle/#maturing"><img src="https://img.shields.io/badge/lifecycle-maturing-blue.svg" alt="Lifecycle: maturing"></a></li>
 <li><a href="https://github.com/poissonconsulting/fishbc/actions"><img src="https://github.com/poissonconsulting/fishbc/workflows/R-CMD-check/badge.svg" alt="R build status"></a></li>
+<li><a href="https://codecov.io/gh/poissonconsulting/fishbc?branch=master"><img src="https://codecov.io/gh/poissonconsulting/fishbc/branch/master/graph/badge.svg" alt="Codecov test coverage"></a></li>
 <li><a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/License-CCBY4-green.svg" alt="License: CCBY4"></a></li>
 <li><a href="https://CRAN.R-project.org/package=fishbc"><img src="https://tinyverse.netlify.com/badge/fishbc" alt="Tinyverse status"></a></li>
 <li><a href="https://CRAN.R-project.org/package=fishbc"><img src="https://www.r-pkg.org/badges/version/fishbc" alt="CRAN status"></a></li>
