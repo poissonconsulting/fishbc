@@ -56,7 +56,7 @@ fishbc::freshwaterfish
 Get the common name for fish codes.
 
 ```{r}
-fishbc::sbf_common_name(c("AF", "WSG", NA, "AF", "NOTACODE"))
+fishbc::fbc_common_name(c("AF", "WSG", NA, "AF", "NOTACODE"))
 ```
 
 ## Contribution

@@ -6,8 +6,8 @@
 #' @export
 #'
 #' @examples
-#' sbf_common_name(c("AF", "WSG", NA, "AF", "NOTACODE"))
-sbf_common_name <- function(x) {
+#' fbc_common_name(c("AF", "WSG", NA, "AF", "NOTACODE"))
+fbc_common_name <- function(x) {
   stopifnot(is.vector(x, "character"))
 
   if(!length(x)) return(character(0))
