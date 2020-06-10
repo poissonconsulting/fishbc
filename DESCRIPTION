@@ -24,6 +24,9 @@ Authors@R:
         person(given = "Seb",
              family = "Dalgarno",
              role = "ctb"),
+        person(given = "Simon",
+             family = "Norris",
+             role = "ctb"),
       person(given = "Poisson Consulting",
              role = c("cph", "fnd")),
       person(given = "Province of British Columbia",
@@ -38,7 +41,8 @@ Depends:
     R (>= 3.3)
 Suggests: 
     chk,
-    testthat
+    testthat,
+    covr
 Encoding: UTF-8
 Language: en-US
 LazyData: true

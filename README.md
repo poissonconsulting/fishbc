@@ -9,6 +9,8 @@
 maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 [![R build
 status](https://github.com/poissonconsulting/fishbc/workflows/R-CMD-check/badge.svg)](https://github.com/poissonconsulting/fishbc/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/poissonconsulting/fishbc/branch/master/graph/badge.svg)](https://codecov.io/gh/poissonconsulting/fishbc?branch=master)
 [![License:
 CCBY4](https://img.shields.io/badge/License-CCBY4-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Tinyverse
@@ -16,6 +18,7 @@ status](https://tinyverse.netlify.com/badge/fishbc)](https://CRAN.R-project.org/
 [![CRAN
 status](https://www.r-pkg.org/badges/version/fishbc)](https://CRAN.R-project.org/package=fishbc)
 ![CRAN downloads](https://cranlogs.r-pkg.org/badges/fishbc)
+
 <!-- badges: end -->
 
 ## Introduction
@@ -29,6 +32,12 @@ British
 Columbia](https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc).
 
 ## Installation
+
+To install the latest release from [CRAN](https://cran.r-project.org)
+
+``` r
+install.packages("fishbc")
+```
 
 To install the latest development version from
 [GitHub](https://github.com/poissonconsulting/fishbc)
@@ -58,6 +67,14 @@ fishbc::freshwaterfish
 #> 10 WSU   White Suc… Acti… Cypr… Catos… Cato… commer… <NA>       <NA>     TRUE  
 #> # … with 151 more rows, and 6 more variables: Native <lgl>, Marine <lgl>,
 #> #   Yellow <lgl>, Blue <lgl>, Red <lgl>, CDCode <chr>
+```
+
+Get the common name for fish codes.
+
+``` r
+fishbc::sbf_common_name(c("AF", "WSG", NA, "AF", "NOTACODE"))
+#> [1] "All Fish"       "White Sturgeon" NA               "All Fish"      
+#> [5] NA
 ```
 
 ## Contribution

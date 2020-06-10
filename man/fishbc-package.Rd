@@ -32,6 +32,7 @@ Other contributors:
   \item Jesse Patterson [contributor]
   \item Gordon Oliphant [contributor]
   \item Seb Dalgarno [contributor]
+  \item Simon Norris [contributor]
   \item Poisson Consulting [copyright holder, funder]
   \item Province of British Columbia [copyright holder]
 }
