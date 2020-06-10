@@ -1,3 +1,8 @@
+# fishbc 0.0.1.9003
+
+- Rename sbf_common_name() to fbc_common_name().
+
+
 # fishbc 0.0.1.9002
 
 - Internal changes only.
