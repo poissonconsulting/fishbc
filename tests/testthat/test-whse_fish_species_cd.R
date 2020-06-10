@@ -15,4 +15,7 @@ test_that("whse_fish_species_cd", {
 
   chk::check_key(fishbc:::whse_fish_species_cd, "CODE")
   chk::check_key(fishbc:::whse_fish_species_cd, "NAME")
+
+  chk::chk_join(fishbc::freshwaterfish, fishbc:::whse_fish_species_cd,
+                by = c(Code = "CODE"))
 })
