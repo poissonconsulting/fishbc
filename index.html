@@ -40,12 +40,6 @@
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
 <li>
-  <a href="index.html">
-    <span class="fas fa fas fa-home fa-lg"></span>
-     
-  </a>
-</li>
-<li>
   <a href="reference/index.html">Reference</a>
 </li>
 <li>
@@ -87,16 +81,19 @@
 <h2 class="hasAnchor">
 <a href="#installation" class="anchor"></a>Installation</h2>
 <p>To install the latest release from <a href="https://cran.r-project.org">CRAN</a></p>
-<div class="sourceCode" id="cb1"><pre class="r"><span class="fu"><a href="https://rdrr.io/r/utils/install.packages.html">install.packages</a></span>(<span class="st">"fishbc"</span>)</pre></div>
+<div class="sourceCode" id="cb1"><pre class="downlit">
+<span class="fu"><a href="https://rdrr.io/r/utils/install.packages.html">install.packages</a></span><span class="op">(</span><span class="st">"fishbc"</span><span class="op">)</span></pre></div>
 <p>To install the latest development version from <a href="https://github.com/poissonconsulting/fishbc">GitHub</a></p>
-<div class="sourceCode" id="cb2"><pre class="r"><span class="co"># install.packages("remotes")</span>
-<span class="kw pkg">remotes</span><span class="kw ns">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html">install_github</a></span>(<span class="st">"poissonconsulting/fishbc"</span>)</pre></div>
+<div class="sourceCode" id="cb2"><pre class="downlit">
+<span class="co"># install.packages("remotes")</span>
+<span class="fu">remotes</span><span class="fu">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html">install_github</a></span><span class="op">(</span><span class="st">"poissonconsulting/fishbc"</span><span class="op">)</span></pre></div>
 </div>
 <div id="demonstration" class="section level2">
 <h2 class="hasAnchor">
 <a href="#demonstration" class="anchor"></a>Demonstration</h2>
-<div class="sourceCode" id="cb3"><pre class="r"><span class="fu"><a href="https://rdrr.io/r/base/library.html">library</a></span>(<span class="no">tibble</span>) <span class="co"># for tidy printing</span>
-<span class="kw pkg">fishbc</span><span class="kw ns">::</span><span class="no"><a href="reference/freshwaterfish.html">freshwaterfish</a></span>
+<div class="sourceCode" id="cb3"><pre class="downlit">
+<span class="kw"><a href="https://rdrr.io/r/base/library.html">library</a></span><span class="op">(</span><span class="va"><a href="https://tibble.tidyverse.org/">tibble</a></span><span class="op">)</span> <span class="co"># for tidy printing</span>
+<span class="fu">fishbc</span><span class="fu">::</span><span class="va"><a href="reference/freshwaterfish.html">freshwaterfish</a></span>
 <span class="co">#&gt; # A tibble: 161 x 16</span>
 <span class="co">#&gt;    Code  CommonName Class Order Family Genus Species Subspecies Species2 Extant</span>
 <span class="co">#&gt;    &lt;chr&gt; &lt;chr&gt;      &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;  &lt;chr&gt; &lt;chr&gt;   &lt;chr&gt;      &lt;chr&gt;    &lt;lgl&gt; </span>
@@ -113,7 +110,8 @@
 <span class="co">#&gt; # … with 151 more rows, and 6 more variables: Native &lt;lgl&gt;, Marine &lt;lgl&gt;,</span>
 <span class="co">#&gt; #   Yellow &lt;lgl&gt;, Blue &lt;lgl&gt;, Red &lt;lgl&gt;, CDCode &lt;chr&gt;</span></pre></div>
 <p>Get the common name for fish codes.</p>
-<div class="sourceCode" id="cb4"><pre class="r"><span class="kw pkg">fishbc</span><span class="kw ns">::</span><span class="fu"><a href="reference/fbc_common_name.html">fbc_common_name</a></span>(<span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span>(<span class="st">"AF"</span>, <span class="st">"WSG"</span>, <span class="fl">NA</span>, <span class="st">"AF"</span>, <span class="st">"NOTACODE"</span>))
+<div class="sourceCode" id="cb4"><pre class="downlit">
+<span class="fu">fishbc</span><span class="fu">::</span><span class="fu"><a href="reference/fbc_common_name.html">fbc_common_name</a></span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span><span class="op">(</span><span class="st">"AF"</span>, <span class="st">"WSG"</span>, <span class="cn">NA</span>, <span class="st">"AF"</span>, <span class="st">"NOTACODE"</span><span class="op">)</span><span class="op">)</span>
 <span class="co">#&gt; [1] "All Fish"       "White Sturgeon" NA               "All Fish"      </span>
 <span class="co">#&gt; [5] NA</span></pre></div>
 </div>
@@ -187,7 +185,7 @@
 </div>
 
 <div class="pkgdown">
-  <p>Site built with <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.5.1.9000.</p>
+  <p>Site built with <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.6.1.9000.</p>
 </div>
 
       </footer>
