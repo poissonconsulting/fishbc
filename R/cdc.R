@@ -9,7 +9,7 @@
 #' @references B.C. Conservation Data Centre. 2019.
 #' BC Species and Ecosystems Explorer.
 #' B.C. Minist. of Environ. Victoria, B.C.
-#' Available: <http://a100.gov.bc.ca/pub/eswp/>
+#' Available: <https://a100.gov.bc.ca/pub/eswp/>
 #' (accessed Aug 23, 2019).
 #' @format A tbl data frame that includes:
 #' \describe{
