@@ -3,21 +3,21 @@
 \docType{data}
 \name{ab}
 \alias{ab}
-\title{Official ACIMS Fish Status
-Official Alberta Conservation Information Management System (ACIMS) fish data.}
+\title{Official FWMIS Fish Status
+Official Alberta Fisheries and Wildlife Management Information System (FWMIS) fish data.}
 \format{
 A tbl data frame that includes:
 \describe{
+\item{Species Common Name}{A character vector of the AB fish species common name.}
+\item{Scientific Name}{A character vector of the AB fish species scientific name.}
 \item{Species Code}{A character vector of the unique data centre fish code.}
-\item{AB List}{A character vector of the AB Conservation Listing.}
 }
 }
 \usage{
 ab
 }
 \description{
-The search criteria for status was \verb{Select all}
-and the class was \code{Fish}.
+Located under \verb{FWMIS fisheries loadforms}
 }
 \details{
 The data is released under the \href{https://open.alberta.ca/licence}{Open Government Licence - Alberta}
@@ -26,10 +26,9 @@ The data is released under the \href{https://open.alberta.ca/licence}{Open Gover
 head(ab)
 }
 \references{
-AB Conservation Information Management System (ACIMS). 2021.
-AB Fisheries and Wildlife Management Information System
+AB Fisheries and Wildlife Management Information System (FWMIS). 2021.
 AB Environ. and Parks Edmonton, AB
-Available: \url{https://extranet.gov.ab.ca/env/wild-species-status/default.aspx}
+Available: \url{https://www.alberta.ca/fisheries-loadforms.aspx}
 (accessed Feb 9, 2021).
 }
 \seealso{
