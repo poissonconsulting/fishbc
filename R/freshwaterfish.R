@@ -28,7 +28,7 @@
 #'   \item{CDCode}{A character vector specifying the BC Conservation Data Centre species code.}
 #'   \item{ABCode}{A character vector specifying the AB Fisheries and Wildlife Management Information System species code.}
 #' }
-#' @seealso [cdc]
+#' @family fishcodes
 #' @examples
 #' head(freshwaterfish)
 "freshwaterfish"

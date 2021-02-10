@@ -59,4 +59,7 @@ test_that("freshwaterfish", {
   expect_true(!anyDuplicated(unique(freshwaterfish[!is.na(freshwaterfish$Genus), c("Family", "Genus")])$Genus))
   expect_true(!anyDuplicated(unique(freshwaterfish[!is.na(freshwaterfish$Family), c("Order", "Family")])$Family))
   expect_true(!anyDuplicated(unique(freshwaterfish[!is.na(freshwaterfish$Order), c("Class", "Order")])$Order))
+
+  expect_null(chk::chk_join(freshwaterfish[!is.na(freshwaterfish$ABCode),], ab, by = c("ABCode" = "Species Code")))
+  expect_null(chk::chk_join(freshwaterfish[!is.na(freshwaterfish$CDCode),], cdc, by = c("CDCode" = "Species Code")))
 })

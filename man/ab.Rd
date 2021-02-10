@@ -3,8 +3,7 @@
 \docType{data}
 \name{ab}
 \alias{ab}
-\title{Official FWMIS Fish Status
-Official Alberta Fisheries and Wildlife Management Information System (FWMIS) fish data.}
+\title{Government of Alberta Fish Codes}
 \format{
 A tbl data frame that includes:
 \describe{
@@ -17,9 +16,11 @@ A tbl data frame that includes:
 ab
 }
 \description{
-Located under \verb{FWMIS fisheries loadforms}
+Official Alberta Fisheries and Wildlife Management Information System (FWMIS) fish data.
 }
 \details{
+Located under \verb{FWMIS fisheries loadforms}
+
 The data is released under the \href{https://open.alberta.ca/licence}{Open Government Licence - Alberta}
 }
 \examples{
@@ -32,6 +33,9 @@ Available: \url{https://www.alberta.ca/fisheries-loadforms.aspx}
 (accessed Feb 9, 2021).
 }
 \seealso{
-\link{freshwaterfish}
+Other fishcodes: 
+\code{\link{cdc}},
+\code{\link{freshwaterfish}}
 }
+\concept{fishcodes}
 \keyword{datasets}

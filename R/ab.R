@@ -1,4 +1,5 @@
-#' Official FWMIS Fish Status
+#' Government of Alberta Fish Codes
+#'
 #' Official Alberta Fisheries and Wildlife Management Information System (FWMIS) fish data.
 #'
 #' Located under `FWMIS fisheries loadforms`
@@ -15,7 +16,7 @@
 #'  \item{Scientific Name}{A character vector of the AB fish species scientific name.}
 #'  \item{Species Code}{A character vector of the unique data centre fish code.}
 #' }
-#' @seealso [freshwaterfish]
+#' @family fishcodes
 #' @examples
 #' head(ab)
 "ab"
