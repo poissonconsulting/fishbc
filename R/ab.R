@@ -1,20 +1,19 @@
-#' Official ACIMS Fish Status
-#' Official Alberta Conservation Information Management System (ACIMS) fish data.
+#' Official FWMIS Fish Status
+#' Official Alberta Fisheries and Wildlife Management Information System (FWMIS) fish data.
 #'
-#' The search criteria for status was `Select all`
-#' and the class was `Fish`.
+#' Located under `FWMIS fisheries loadforms`
 #'
 #' The data is released under the [Open Government Licence - Alberta](https://open.alberta.ca/licence)
 #'
-#' @references AB Conservation Information Management System (ACIMS). 2021.
-#' AB Fisheries and Wildlife Management Information System
+#' @references AB Fisheries and Wildlife Management Information System (FWMIS). 2021.
 #' AB Environ. and Parks Edmonton, AB
-#' Available: <https://extranet.gov.ab.ca/env/wild-species-status/default.aspx>
+#' Available: <https://www.alberta.ca/fisheries-loadforms.aspx>
 #' (accessed Feb 9, 2021).
 #' @format A tbl data frame that includes:
 #' \describe{
+#'  \item{Species Common Name}{A character vector of the AB fish species common name.}
+#'  \item{Scientific Name}{A character vector of the AB fish species scientific name.}
 #'  \item{Species Code}{A character vector of the unique data centre fish code.}
-#'  \item{AB List}{A character vector of the AB Conservation Listing.}
 #' }
 #' @seealso [freshwaterfish]
 #' @examples
