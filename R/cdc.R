@@ -1,5 +1,6 @@
-#' Official BC CDC Fish Status
-#' Official BC Conservation Data Centre (CDC) fish data.
+#' BC Conservation Data Centre Fish Codes
+#'
+#' Official raw BC Conservation Data Centre (CDC) fish data.
 #'
 #' The search criteria were `Fish, Freshwater OR Fish, Marine`
 #' and the sort order was `Scientific Name Ascending`.
@@ -16,7 +17,7 @@
 #'  \item{Species Code}{A character vector of the unique data centre fish code.}
 #'  \item{BC List}{A character vector of the BC Conservation Listing.}
 #' }
-#' @seealso [freshwaterfish]
+#' @family fishcodes
 #' @examples
 #' head(cdc)
 "cdc"

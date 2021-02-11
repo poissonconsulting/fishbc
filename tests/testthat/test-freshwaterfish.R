@@ -10,7 +10,8 @@ test_that("freshwaterfish", {
       "Family", "Genus",
       "Species", "Subspecies", "Species2", "Extant",
       "Native",
-      "Marine", "Yellow", "Blue", "Red", "CDCode"
+      "Marine", "Yellow", "Blue", "Red", "CDCode",
+      "ABCode"
     )
   ))
 
@@ -30,6 +31,7 @@ test_that("freshwaterfish", {
   expect_true(chk::vld_s3_class(freshwaterfish$Blue, "logical"))
   expect_true(chk::vld_s3_class(freshwaterfish$Red, "logical"))
   expect_true(chk::vld_s3_class(freshwaterfish$CDCode, "character"))
+  expect_true(chk::vld_s3_class(freshwaterfish$ABCode, "character"))
 
   expect_true(chk::vld_not_any_na(freshwaterfish$Code))
   expect_true(chk::vld_not_any_na(freshwaterfish$CommonName))
@@ -57,4 +59,7 @@ test_that("freshwaterfish", {
   expect_true(!anyDuplicated(unique(freshwaterfish[!is.na(freshwaterfish$Genus), c("Family", "Genus")])$Genus))
   expect_true(!anyDuplicated(unique(freshwaterfish[!is.na(freshwaterfish$Family), c("Order", "Family")])$Family))
   expect_true(!anyDuplicated(unique(freshwaterfish[!is.na(freshwaterfish$Order), c("Class", "Order")])$Order))
+
+  expect_null(chk::chk_join(freshwaterfish[!is.na(freshwaterfish$ABCode),], ab, by = c("ABCode" = "Species Code")))
+  expect_null(chk::chk_join(freshwaterfish[!is.na(freshwaterfish$CDCode),], cdc, by = c("CDCode" = "Species Code")))
 })

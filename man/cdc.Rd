@@ -3,8 +3,7 @@
 \docType{data}
 \name{cdc}
 \alias{cdc}
-\title{Official BC CDC Fish Status
-Official BC Conservation Data Centre (CDC) fish data.}
+\title{BC Conservation Data Centre Fish Codes}
 \format{
 A tbl data frame that includes:
 \describe{
@@ -16,10 +15,12 @@ A tbl data frame that includes:
 cdc
 }
 \description{
-The search criteria were \verb{Fish, Freshwater OR Fish, Marine}
-and the sort order was \verb{Scientific Name Ascending}.
+Official raw BC Conservation Data Centre (CDC) fish data.
 }
 \details{
+The search criteria were \verb{Fish, Freshwater OR Fish, Marine}
+and the sort order was \verb{Scientific Name Ascending}.
+
 The data is released under the \href{https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc}{Open Government Licence - British Columbia}
 }
 \examples{
@@ -33,6 +34,9 @@ Available: \url{https://a100.gov.bc.ca/pub/eswp/}
 (accessed Aug 23, 2019).
 }
 \seealso{
-\link{freshwaterfish}
+Other fishcodes: 
+\code{\link{ab}},
+\code{\link{freshwaterfish}}
 }
+\concept{fishcodes}
 \keyword{datasets}
