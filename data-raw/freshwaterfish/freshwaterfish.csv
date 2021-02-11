@@ -139,7 +139,7 @@ CCA,Sharpnose Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Clinocottus,acutic
 CAL,Coastrange Sculpin (formerly Aleutian Sculpin),Actinopterygii,Scorpaeniformes,Cottidae,Cottus,aleuticus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-COAL
 CCL,Cultus Lake Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,aleuticus,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-COSP-02
 CAS,Prickly Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,asper,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-COAS
-CBA,Mottled Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,bairdi,NA,NA,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,F-COHU
+CBA,Mottled Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,bairdi,NA,NA,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,NA
 CMM,Malheur Mottled Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,bendirei,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,NA
 CCG,Slimy Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,cognatus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-COCO
 CCN,Shorthead Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,confusus,NA,NA,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,F-COCN
