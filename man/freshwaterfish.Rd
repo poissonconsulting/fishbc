@@ -26,6 +26,7 @@ occur in saltwater in British Columbia.}
 \item{Blue}{A logical vector indicating whether any of the fishes are blue listed in British Columbia.}
 \item{Red}{A logical vector indicating whether any of the fishes are red listed in British Columbia.}
 \item{CDCode}{A character vector specifying the BC Conservation Data Centre species code.}
+\item{ABCode}{A character vector specifying the AB Fisheries and Wildlife Management Information System species code.}
 }
 }
 \usage{
@@ -42,6 +43,9 @@ The data includes estuarine fishes and excludes non-finned fishes such as clams.
 head(freshwaterfish)
 }
 \seealso{
-\link{cdc}
+Other fishcodes: 
+\code{\link{ab}},
+\code{\link{cdc}}
 }
+\concept{fishcodes}
 \keyword{datasets}

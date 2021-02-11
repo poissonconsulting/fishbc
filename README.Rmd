@@ -20,7 +20,6 @@ knitr::opts_chunk$set(
 [![R build status](https://github.com/poissonconsulting/fishbc/workflows/R-CMD-check/badge.svg)](https://github.com/poissonconsulting/fishbc/actions)
 [![codecov](https://codecov.io/gh/poissonconsulting/fishbc/branch/master/graph/badge.svg?token=2EvrLVvDcZ)](https://codecov.io/gh/poissonconsulting/fishbc)
 [![License: CCBY4](https://img.shields.io/badge/License-CCBY4-green.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Tinyverse status](https://tinyverse.netlify.com/badge/fishbc)](https://CRAN.R-project.org/package=fishbc)
 [![CRAN status](https://www.r-pkg.org/badges/version/fishbc)](https://CRAN.R-project.org/package=fishbc)
 ![CRAN downloads](https://cranlogs.r-pkg.org/badges/fishbc)
 
@@ -30,8 +29,9 @@ knitr::opts_chunk$set(
 
 `fishbc` is an R package that provides provides raw and curated data on the codes, classification and conservation status of freshwater fishes in British Columbia. 
 Marine fishes will be added in a future release.
+It also include raw fish codes for BC Conservation Data Centre and the Government of Alberta.
 
-It contains information licensed under the [Open Government Licence – British Columbia](https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc).
+It contains information licensed under the [Open Government Licence – British Columbia](https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc) and the [Open Government Licence - Alberta](https://open.alberta.ca/licence)
 
 ## Installation
 
@@ -48,12 +48,14 @@ remotes::install_github("poissonconsulting/fishbc")
 
 ## Demonstration
 
+Get the curated freshwater fish of BC fish codes.
+
 ```{r}
 library(tibble) # for tidy printing
 fishbc::freshwaterfish
 ```
 
-Get the common name for fish codes.
+Get the common names for fish codes.
 
 ```{r}
 fishbc::fbc_common_name(c("AF", "WSG", NA, "AF", "NOTACODE"))

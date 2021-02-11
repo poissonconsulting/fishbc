@@ -24,6 +24,7 @@ Useful links:
 Authors:
 \itemize{
   \item Joe Thorley \email{joe@poissonconsulting.ca} (\href{https://orcid.org/0000-0002-7683-4592}{ORCID})
+  \item Nadine Hussein \email{nadine@poissonconsulting.ca} (\href{https://orcid.org/0000-0003-4470-8361}{ORCID})
 }
 
 Other contributors:
