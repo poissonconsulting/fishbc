@@ -59,9 +59,15 @@ classification and conservation status of freshwater fishes in British Columbia.
 
 
 
+  
+
+  
+
   </head>
 
   <body data-spy="scroll" data-target="#toc">
+    
+
     <div class="container template-reference-topic">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -143,6 +149,7 @@ occur in saltwater in British Columbia.</p></dd>
 <dt>Blue</dt><dd><p>A logical vector indicating whether any of the fishes are blue listed in British Columbia.</p></dd>
 <dt>Red</dt><dd><p>A logical vector indicating whether any of the fishes are red listed in British Columbia.</p></dd>
 <dt>CDCode</dt><dd><p>A character vector specifying the BC Conservation Data Centre species code.</p></dd>
+<dt>ABCode</dt><dd><p>A character vector specifying the AB Fisheries and Wildlife Management Information System species code.</p></dd>
 
 </dl>
 
@@ -151,11 +158,13 @@ occur in saltwater in British Columbia.</p></dd>
     <p>The data includes estuarine fishes and excludes non-finned fishes such as clams.</p>
     <h2 class="hasAnchor" id="see-also"><a class="anchor" href="#see-also"></a>See also</h2>
 
-    <div class='dont-index'><p><a href='cdc.html'>cdc</a></p></div>
+    <div class='dont-index'><p>Other fishcodes: 
+<code><a href='ab.html'>ab</a></code>,
+<code><a href='cdc.html'>cdc</a></code></p></div>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
     <pre class="examples"><div class='input'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>freshwaterfish</span><span class='op'>)</span>
-</div><div class='output co'>#&gt; <span style='color: #555555;'># A tibble: 6 x 16</span><span>
+</div><div class='output co'>#&gt; <span style='color: #555555;'># A tibble: 6 x 17</span><span>
 #&gt;   Code  CommonName Class Order Family Genus Species Subspecies Species2 Extant
 #&gt;   </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span> </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>      </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span> </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span> </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>  </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span> </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>   </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>      </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>    </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span> 
 #&gt; </span><span style='color: #555555;'>1</span><span> AF    All Fish   </span><span style='color: #BB0000;'>NA</span><span>    </span><span style='color: #BB0000;'>NA</span><span>    </span><span style='color: #BB0000;'>NA</span><span>     </span><span style='color: #BB0000;'>NA</span><span>    </span><span style='color: #BB0000;'>NA</span><span>      </span><span style='color: #BB0000;'>NA</span><span>         </span><span style='color: #BB0000;'>NA</span><span>       TRUE  
@@ -164,8 +173,8 @@ occur in saltwater in British Columbia.</p></dd>
 #&gt; </span><span style='color: #555555;'>4</span><span> GSG   Green Stu… Acti… Acip… Acipe… Acip… mediro… </span><span style='color: #BB0000;'>NA</span><span>         </span><span style='color: #BB0000;'>NA</span><span>       TRUE  
 #&gt; </span><span style='color: #555555;'>5</span><span> WSG   White Stu… Acti… Acip… Acipe… Acip… transm… </span><span style='color: #BB0000;'>NA</span><span>         </span><span style='color: #BB0000;'>NA</span><span>       TRUE  
 #&gt; </span><span style='color: #555555;'>6</span><span> SH    American … Acti… Clup… Clupe… Alosa sapidi… </span><span style='color: #BB0000;'>NA</span><span>         </span><span style='color: #BB0000;'>NA</span><span>       TRUE  
-#&gt; </span><span style='color: #555555;'># … with 6 more variables: Native </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>, Marine </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>, Yellow </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>,</span><span>
-#&gt; </span><span style='color: #555555;'>#   Blue </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>, Red </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>, CDCode </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span></div></span></pre>
+#&gt; </span><span style='color: #555555;'># … with 7 more variables: Native </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>, Marine </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>, Yellow </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>,</span><span>
+#&gt; </span><span style='color: #555555;'>#   Blue </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>, Red </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>, CDCode </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span style='color: #555555;'>, ABCode </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span></div></span></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <nav id="toc" data-toggle="toc" class="sticky-top">
@@ -177,7 +186,7 @@ occur in saltwater in British Columbia.</p></dd>
 
       <footer>
       <div class="copyright">
-  <p>Developed by Evan Amies-Galonski, Joe Thorley, Poisson Consulting.</p>
+  <p>Developed by Evan Amies-Galonski, Joe Thorley, Nadine Hussein, Poisson Consulting.</p>
 </div>
 
 <div class="pkgdown">
@@ -189,6 +198,8 @@ occur in saltwater in British Columbia.</p></dd>
 
   
 
+
+  
 
   </body>
 </html>

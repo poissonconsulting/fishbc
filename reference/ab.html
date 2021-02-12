@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Function reference • fishbc</title>
+<title>Government of Alberta Fish Codes — ab • fishbc</title>
 
 
 <!-- jquery -->
@@ -39,7 +39,8 @@
 
 
 
-<meta property="og:title" content="Function reference" />
+<meta property="og:title" content="Government of Alberta Fish Codes — ab" />
+<meta property="og:description" content="Official Alberta Fisheries and Wildlife Management Information System (FWMIS) fish data." />
 
 
 
@@ -66,7 +67,7 @@
   <body data-spy="scroll" data-target="#toc">
     
 
-    <div class="container template-reference-index">
+    <div class="container template-reference-topic">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
@@ -110,60 +111,57 @@
       </header>
 
 <div class="row">
-  <div class="contents col-md-9">
+  <div class="col-md-9 contents">
     <div class="page-header">
-      <h1>Reference</h1>
+    <h1>Government of Alberta Fish Codes</h1>
+    <small class="dont-index">Source: <a href='https://github.com/poissonconsulting/fishbc/blob/master/R/ab.R'><code>R/ab.R</code></a></small>
+    <div class="hidden name"><code>ab.Rd</code></div>
     </div>
 
-    <table class="ref-index">
+    <div class="ref-description">
+    <p>Official Alberta Fisheries and Wildlife Management Information System (FWMIS) fish data.</p>
+    </div>
 
-    <colgroup>
-      
-      <col class="alias" />
-      <col class="title" />
-    </colgroup>
+    <pre class="usage"><span class='va'>ab</span></pre>
 
-    <tbody>
-      <tr>
-        <th colspan="2">
-          <h2 id="section-all-functions" class="hasAnchor"><a href="#section-all-functions" class="anchor"></a>All functions</h2>
-          <p class="section-desc"></p>
-        </th>
-      </tr>
-      
-      
-    </tbody><tbody>
-      
-      
-      <tr>
-        
-        <td>
-          <p><code><a href="ab.html">ab</a></code> </p>
-        </td>
-        <td><p>Government of Alberta Fish Codes</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="cdc.html">cdc</a></code> </p>
-        </td>
-        <td><p>BC Conservation Data Centre Fish Codes</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="fbc_common_name.html">fbc_common_name()</a></code> </p>
-        </td>
-        <td><p>Common Name</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="freshwaterfish.html">freshwaterfish</a></code> </p>
-        </td>
-        <td><p>BC Fish Data</p></td>
-      </tr>
-    </tbody>
-    </table>
+
+    <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
+
+    <p>A tbl data frame that includes:</p><dl>
+<dt>Species Common Name</dt><dd><p>A character vector of the AB fish species common name.</p></dd>
+<dt>Scientific Name</dt><dd><p>A character vector of the AB fish species scientific name.</p></dd>
+<dt>Species Code</dt><dd><p>A character vector of the unique data centre fish code.</p></dd>
+
+</dl>
+
+    <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
+
+    <p>Located under <code>FWMIS fisheries loadforms</code></p>
+<p>The data is released under the <a href='https://open.alberta.ca/licence'>Open Government Licence - Alberta</a></p>
+    <h2 class="hasAnchor" id="references"><a class="anchor" href="#references"></a>References</h2>
+
+    <p>AB Fisheries and Wildlife Management Information System (FWMIS). 2021.
+AB Environ. and Parks Edmonton, AB
+Available: <a href='https://www.alberta.ca/fisheries-loadforms.aspx'>https://www.alberta.ca/fisheries-loadforms.aspx</a>
+(accessed Feb 9, 2021).</p>
+    <h2 class="hasAnchor" id="see-also"><a class="anchor" href="#see-also"></a>See also</h2>
+
+    <div class='dont-index'><p>Other fishcodes: 
+<code><a href='cdc.html'>cdc</a></code>,
+<code><a href='freshwaterfish.html'>freshwaterfish</a></code></p></div>
+
+    <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
+    <pre class="examples"><div class='input'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>ab</span><span class='op'>)</span>
+</div><div class='output co'>#&gt; <span style='color: #555555;'># A tibble: 6 x 3</span><span>
+#&gt;   `Species Common Name`         `Scientific Name`           `Species Code`
+#&gt;   </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>                         </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>                       </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>         
+#&gt; </span><span style='color: #555555;'>1</span><span> AFRICAN JEWELFISH             HEMICHROMIS BIMACULATUS     AFJW          
+#&gt; </span><span style='color: #555555;'>2</span><span> ARCTIC CHAR                   SALVELINUS ALPINUS          ARCH          
+#&gt; </span><span style='color: #555555;'>3</span><span> ARCTIC GRAYLING               THYMALLUS ARCTICUS          ARGR          
+#&gt; </span><span style='color: #555555;'>4</span><span> ARCTIC GRAYLING (BELLY POPLN) THYMALLUS ARCTICUS MONTANUS AGMN          
+#&gt; </span><span style='color: #555555;'>5</span><span> ARCTIC LAMPREY                LAMPETRA JAPONICA           ARLM          
+#&gt; </span><span style='color: #555555;'>6</span><span> ATHABASCA RAINBOW TROUT       ONCORHYNCHUS MYKISS         ARTR          </div></span></pre>
   </div>
-
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <nav id="toc" data-toggle="toc" class="sticky-top">
       <h2 data-toc-skip>Contents</h2>
