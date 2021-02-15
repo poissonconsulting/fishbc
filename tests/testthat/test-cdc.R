@@ -1,5 +1,3 @@
-context("cdc")
-
 test_that("cdc", {
   expect_true(chk::vld_s3_class(cdc, "data.frame"))
   expect_true(chk::vld_subset(c("Species Code", "BC List"), colnames(cdc)))

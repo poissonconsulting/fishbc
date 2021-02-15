@@ -1,5 +1,3 @@
-context("freshwaterfish")
-
 test_that("freshwaterfish", {
   expect_true(chk::vld_s3_class(freshwaterfish, "data.frame"))
 
