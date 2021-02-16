@@ -34,6 +34,7 @@ Other contributors:
   \item Gordon Oliphant [contributor]
   \item Seb Dalgarno [contributor]
   \item Simon Norris [contributor]
+  \item Allan Irvine [contributor]
   \item Poisson Consulting [copyright holder, funder]
   \item Province of British Columbia [copyright holder]
 }
