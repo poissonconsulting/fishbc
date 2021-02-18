@@ -1,12 +1,8 @@
-# fishbc 0.1.0.9001
+# fishbc 0.2.0
 
-- Internal changes only.
-
-
-# fishbc 0.1.0.9000
-
+- Alberta fish codes added to freshwater fish data.
+- Remove cdc code duplicate for Columbia Sculpin.
 - Require R >= 3.4.
-
 
 # fishbc 0.1.0
 
