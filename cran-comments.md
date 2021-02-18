@@ -1,14 +1,3 @@
-## Resubmission
-
-   Found the following (possibly) invalid URLs:
-     URL: http://a100.gov.bc.ca/pub/eswp/ (moved to 
-  https://a100.gov.bc.ca/pub/eswp/)
-       From: man/cdc.Rd
-       Status: 200
-       Message: OK
-
-Fixed
-
 ## Test environments
 
 release 4.0.3
