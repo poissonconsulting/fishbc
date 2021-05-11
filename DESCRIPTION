@@ -48,9 +48,11 @@ BugReports: https://github.com/poissonconsulting/fishbc/issues
 Depends: 
     R (>= 3.4)
 Suggests: 
-    chk,
+    chk (>= 0.5.1.9002),
     testthat,
     covr
+Remotes:
+    poissonconsulting/chk
 Encoding: UTF-8
 Language: en-US
 LazyData: true
