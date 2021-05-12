@@ -1,3 +1,8 @@
+# fishbc 0.2.1
+
+- Same as previous version.
+
+
 # fishbc 0.2.0.9000
 
 - Internal changes only.
