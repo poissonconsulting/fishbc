@@ -59,6 +59,7 @@ classification and conservation status of freshwater fishes in British Columbia.
 
 
 
+
   
 
   
@@ -81,7 +82,7 @@ classification and conservation status of freshwater fishes in British Columbia.
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">fishbc</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">0.2.0</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">0.2.1.9000</span>
       </span>
     </div>
 
@@ -124,7 +125,7 @@ classification and conservation status of freshwater fishes in British Columbia.
 classification and conservation status of freshwater fishes in British Columbia.</p>
     </div>
 
-    <pre class="usage"><span class='va'>freshwaterfish</span></pre>
+    <div class="ref-usage sourceCode"><pre class='sourceCode r'><code><span class='va'>freshwaterfish</span></code></pre></div>
 
 
     <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
@@ -163,18 +164,19 @@ occur in saltwater in British Columbia.</p></dd>
 <code><a href='cdc.html'>cdc</a></code></p></div>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>freshwaterfish</span><span class='op'>)</span>
-</div><div class='output co'>#&gt; <span style='color: #555555;'># A tibble: 6 x 17</span><span>
-#&gt;   Code  CommonName Class Order Family Genus Species Subspecies Species2 Extant
-#&gt;   </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span> </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>      </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span> </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span> </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>  </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span> </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>   </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>      </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>    </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span> 
-#&gt; </span><span style='color: #555555;'>1</span><span> AF    All Fish   </span><span style='color: #BB0000;'>NA</span><span>    </span><span style='color: #BB0000;'>NA</span><span>    </span><span style='color: #BB0000;'>NA</span><span>     </span><span style='color: #BB0000;'>NA</span><span>    </span><span style='color: #BB0000;'>NA</span><span>      </span><span style='color: #BB0000;'>NA</span><span>         </span><span style='color: #BB0000;'>NA</span><span>       TRUE  
-#&gt; </span><span style='color: #555555;'>2</span><span> SP    Fish Unid… </span><span style='color: #BB0000;'>NA</span><span>    </span><span style='color: #BB0000;'>NA</span><span>    </span><span style='color: #BB0000;'>NA</span><span>     </span><span style='color: #BB0000;'>NA</span><span>    </span><span style='color: #BB0000;'>NA</span><span>      </span><span style='color: #BB0000;'>NA</span><span>         </span><span style='color: #BB0000;'>NA</span><span>       TRUE  
-#&gt; </span><span style='color: #555555;'>3</span><span> SG    Sturgeon … Acti… Acip… Acipe… Acip… </span><span style='color: #BB0000;'>NA</span><span>      </span><span style='color: #BB0000;'>NA</span><span>         </span><span style='color: #BB0000;'>NA</span><span>       TRUE  
-#&gt; </span><span style='color: #555555;'>4</span><span> GSG   Green Stu… Acti… Acip… Acipe… Acip… mediro… </span><span style='color: #BB0000;'>NA</span><span>         </span><span style='color: #BB0000;'>NA</span><span>       TRUE  
-#&gt; </span><span style='color: #555555;'>5</span><span> WSG   White Stu… Acti… Acip… Acipe… Acip… transm… </span><span style='color: #BB0000;'>NA</span><span>         </span><span style='color: #BB0000;'>NA</span><span>       TRUE  
-#&gt; </span><span style='color: #555555;'>6</span><span> SH    American … Acti… Clup… Clupe… Alosa sapidi… </span><span style='color: #BB0000;'>NA</span><span>         </span><span style='color: #BB0000;'>NA</span><span>       TRUE  
-#&gt; </span><span style='color: #555555;'># … with 7 more variables: Native </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>, Marine </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>, Yellow </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>,</span><span>
-#&gt; </span><span style='color: #555555;'>#   Blue </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>, Red </span><span style='color: #555555;font-style: italic;'>&lt;lgl&gt;</span><span style='color: #555555;'>, CDCode </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span style='color: #555555;'>, ABCode </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span></div></span></pre>
+    <div class="ref-examples sourceCode"><pre class='sourceCode r'><code><span class='r-in'><span class='fu'><a href='https://rdrr.io/r/utils/head.html'>head</a></span><span class='op'>(</span><span class='va'>freshwaterfish</span><span class='op'>)</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #949494;'># A tibble: 6 x 17</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span>   Code  CommonName  Class  Order Family Genus Species Subspecies Species2 Extant</span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span>   <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span> <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>       <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>  <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span> <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>  <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span> <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>   <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>      <span style='color: #949494; font-style: italic;'>&lt;chr&gt;</span>    <span style='color: #949494; font-style: italic;'>&lt;lgl&gt;</span> </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>1</span> AF    All Fish    <span style='color: #BB0000;'>NA</span>     <span style='color: #BB0000;'>NA</span>    <span style='color: #BB0000;'>NA</span>     <span style='color: #BB0000;'>NA</span>    <span style='color: #BB0000;'>NA</span>      <span style='color: #BB0000;'>NA</span>         <span style='color: #BB0000;'>NA</span>       TRUE  </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>2</span> SP    Fish Unide… <span style='color: #BB0000;'>NA</span>     <span style='color: #BB0000;'>NA</span>    <span style='color: #BB0000;'>NA</span>     <span style='color: #BB0000;'>NA</span>    <span style='color: #BB0000;'>NA</span>      <span style='color: #BB0000;'>NA</span>         <span style='color: #BB0000;'>NA</span>       TRUE  </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>3</span> SG    Sturgeon (… Actin… Acip… Acipe… Acip… <span style='color: #BB0000;'>NA</span>      <span style='color: #BB0000;'>NA</span>         <span style='color: #BB0000;'>NA</span>       TRUE  </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>4</span> GSG   Green Stur… Actin… Acip… Acipe… Acip… mediro… <span style='color: #BB0000;'>NA</span>         <span style='color: #BB0000;'>NA</span>       TRUE  </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>5</span> WSG   White Stur… Actin… Acip… Acipe… Acip… transm… <span style='color: #BB0000;'>NA</span>         <span style='color: #BB0000;'>NA</span>       TRUE  </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #BCBCBC;'>6</span> SH    American S… Actin… Clup… Clupe… Alosa sapidi… <span style='color: #BB0000;'>NA</span>         <span style='color: #BB0000;'>NA</span>       TRUE  </span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #949494;'># … with 7 more variables: Native &lt;lgl&gt;, Marine &lt;lgl&gt;, Yellow &lt;lgl&gt;,</span></span>
+<span class='r-out co'><span class='r-pr'>#&gt;</span> <span style='color: #949494;'>#   Blue &lt;lgl&gt;, Red &lt;lgl&gt;, CDCode &lt;chr&gt;, ABCode &lt;chr&gt;</span></span>
+</code></pre></div>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <nav id="toc" data-toggle="toc" class="sticky-top">
@@ -186,11 +188,11 @@ occur in saltwater in British Columbia.</p></dd>
 
       <footer>
       <div class="copyright">
-  <p>Developed by Evan Amies-Galonski, Joe Thorley, Nadine Hussein, Poisson Consulting.</p>
+  <p><p>Developed by Evan Amies-Galonski, Joe Thorley, Nadine Hussein, Poisson Consulting.</p></p>
 </div>
 
 <div class="pkgdown">
-  <p>Site built with <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.6.1.9000.</p>
+  <p><p>Site built with <a href="https://pkgdown.r-lib.org/" class="external-link">pkgdown</a> 1.6.1.9001.</p></p>
 </div>
 
       </footer>
