@@ -23,6 +23,7 @@ knitr::opts_chunk$set(
 [![CRAN status](https://www.r-pkg.org/badges/version/fishbc)](https://CRAN.R-project.org/package=fishbc)
 ![CRAN downloads](https://cranlogs.r-pkg.org/badges/fishbc)
 
+[![R-CMD-check](https://github.com/poissonconsulting/fishbc/workflows/R-CMD-check/badge.svg)](https://github.com/poissonconsulting/fishbc/actions)
 <!-- badges: end -->
 
 ## Introduction
