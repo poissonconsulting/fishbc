@@ -1,7 +1,8 @@
 library(readr)
 
 cdc <- readr::read_csv("data-raw/cdc/cdc.csv")
-freshwaterfish <- readr::read_csv("data-raw/freshwaterfish/freshwaterfish.csv")
+freshwaterfish <- readxl::read_xlsx("data-raw/freshwaterfish/freshwaterfish.xlsx",
+                                    na = c("", "NA"))
 whse_fish_species_cd <- readr::read_csv("data-raw/whse_fish_species_cd/whse_fish_species_cd.csv")
 ab <- readxl::read_excel("data-raw/ab/ep-fwmis-fisheries-loadform.xls", sheet = 11)
 

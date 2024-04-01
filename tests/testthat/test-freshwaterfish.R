@@ -3,7 +3,7 @@ test_that("freshwaterfish", {
   expect_true(chk::vld_data(freshwaterfish))
 
   expect_snapshot({
-    print(freshwaterfish, width = 200, n = 200)
+    print(freshwaterfish, width = 300, n = 200)
   })
 
   expect_true(chk::vld_identical(
@@ -14,7 +14,7 @@ test_that("freshwaterfish", {
       "Species", "Subspecies", "Species2", "Extant",
       "Native",
       "Marine", "Yellow", "Blue", "Red", "CDCode",
-      "ABCode"
+      "ABCode", "Ktunaxa"
     )
   ))
 
