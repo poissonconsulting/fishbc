@@ -6,9 +6,7 @@
 \alias{fishbc-package}
 \title{fishbc: Fishes of British Columbia}
 \description{
-Provides raw and curated data on the codes,
-    classification and conservation status of freshwater fishes in British
-    Columbia. Marine fishes will be added in a future release.
+Provides raw and curated data on the codes, classification and conservation status of freshwater fishes in British Columbia. Marine fishes will be added in a future release.
 }
 \seealso{
 Useful links:
