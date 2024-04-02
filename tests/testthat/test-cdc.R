@@ -1,5 +1,10 @@
 test_that("cdc", {
-  expect_true(chk::vld_s3_class(cdc, "data.frame"))
+  expect_true(chk::vld_data(cdc))
+
+  expect_snapshot({
+    print(cdc, width = 200, n = 200)
+  })
+
   expect_true(chk::vld_subset(c("Species Code", "BC List"), colnames(cdc)))
 
   expect_true(chk::vld_s3_class(cdc$`Species Code`, "character"))

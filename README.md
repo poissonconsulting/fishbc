@@ -7,15 +7,13 @@
 
 [![Lifecycle:
 stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-[![R build
-status](https://github.com/poissonconsulting/fishbc/workflows/R-CMD-check/badge.svg)](https://github.com/poissonconsulting/fishbc/actions)
+[![R-CMD-check](https://github.com/poissonconsulting/fishbc/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/poissonconsulting/fishbc/actions/workflows/R-CMD-check.yaml)
 [![codecov](https://codecov.io/gh/poissonconsulting/fishbc/branch/master/graph/badge.svg?token=2EvrLVvDcZ)](https://codecov.io/gh/poissonconsulting/fishbc)
 [![License:
 CCBY4](https://img.shields.io/badge/License-CCBY4-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/fishbc)](https://CRAN.R-project.org/package=fishbc)
 ![CRAN downloads](https://cranlogs.r-pkg.org/badges/fishbc)
-
 <!-- badges: end -->
 
 ## Introduction
@@ -55,21 +53,22 @@ Get the curated freshwater fish of BC fish codes.
 ``` r
 library(tibble) # for tidy printing
 fishbc::freshwaterfish
-#> # A tibble: 161 x 17
-#>    Code  CommonName Class Order Family Genus Species Subspecies Species2 Extant
-#>    <chr> <chr>      <chr> <chr> <chr>  <chr> <chr>   <chr>      <chr>    <lgl> 
-#>  1 AF    All Fish   <NA>  <NA>  <NA>   <NA>  <NA>    <NA>       <NA>     TRUE  
-#>  2 SP    Fish Unid… <NA>  <NA>  <NA>   <NA>  <NA>    <NA>       <NA>     TRUE  
-#>  3 SG    Sturgeon … Acti… Acip… Acipe… Acip… <NA>    <NA>       <NA>     TRUE  
-#>  4 GSG   Green Stu… Acti… Acip… Acipe… Acip… mediro… <NA>       <NA>     TRUE  
-#>  5 WSG   White Stu… Acti… Acip… Acipe… Acip… transm… <NA>       <NA>     TRUE  
-#>  6 SH    American … Acti… Clup… Clupe… Alosa sapidi… <NA>       <NA>     TRUE  
-#>  7 SU    Sucker (G… Acti… Cypr… Catos… <NA>  <NA>    <NA>       <NA>     TRUE  
-#>  8 LSU   Longnose … Acti… Cypr… Catos… Cato… catost… <NA>       <NA>     TRUE  
-#>  9 BSU   Bridgelip… Acti… Cypr… Catos… Cato… columb… <NA>       <NA>     TRUE  
-#> 10 WSU   White Suc… Acti… Cypr… Catos… Cato… commer… <NA>       <NA>     TRUE  
-#> # … with 151 more rows, and 7 more variables: Native <lgl>, Marine <lgl>,
-#> #   Yellow <lgl>, Blue <lgl>, Red <lgl>, CDCode <chr>, ABCode <chr>
+#> # A tibble: 161 × 18
+#>    Code  CommonName  Class Order Family Genus Species Subspecies Species2 Extant
+#>    <chr> <chr>       <chr> <chr> <chr>  <chr> <chr>   <chr>      <chr>    <lgl> 
+#>  1 AF    All Fish    <NA>  <NA>  <NA>   <NA>  <NA>    <NA>       <NA>     TRUE  
+#>  2 SP    Fish Unide… <NA>  <NA>  <NA>   <NA>  <NA>    <NA>       <NA>     TRUE  
+#>  3 SG    Sturgeon (… Acti… Acip… Acipe… Acip… <NA>    <NA>       <NA>     TRUE  
+#>  4 GSG   Green Stur… Acti… Acip… Acipe… Acip… mediro… <NA>       <NA>     TRUE  
+#>  5 WSG   White Stur… Acti… Acip… Acipe… Acip… transm… <NA>       <NA>     TRUE  
+#>  6 SH    American S… Acti… Clup… Clupe… Alosa sapidi… <NA>       <NA>     TRUE  
+#>  7 SU    Sucker (Ge… Acti… Cypr… Catos… <NA>  <NA>    <NA>       <NA>     TRUE  
+#>  8 LSU   Longnose S… Acti… Cypr… Catos… Cato… catost… <NA>       <NA>     TRUE  
+#>  9 BSU   Bridgelip … Acti… Cypr… Catos… Cato… columb… <NA>       <NA>     TRUE  
+#> 10 WSU   White Suck… Acti… Cypr… Catos… Cato… commer… <NA>       <NA>     TRUE  
+#> # ℹ 151 more rows
+#> # ℹ 8 more variables: Native <lgl>, Marine <lgl>, Yellow <lgl>, Blue <lgl>,
+#> #   Red <lgl>, CDCode <chr>, ABCode <chr>, Ktunaxa <chr>
 ```
 
 Get the common names for fish codes.

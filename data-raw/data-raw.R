@@ -16,6 +16,14 @@ whse_fish_species_cd$SPECIES_ID <- as.integer(whse_fish_species_cd$SPECIES_ID)
 # remove marked utf-8 character
 cdc$`COSEWIC Comments` <- gsub("†", "", cdc$`COSEWIC Comments`)
 
+chk::check_key(freshwaterfish, "Code")
+chk::check_key(cdc, "Species Code")
+chk::check_key(ab, "Species Code")
+chk::check_key(whse_fish_species_cd, "CODE")
+
+chk::chk_join(freshwaterfish[!is.na(freshwaterfish$ABCode),], ab, by = c("ABCode" = "Species Code"))
+chk::chk_join(freshwaterfish[!is.na(freshwaterfish$CDCode),], cdc, by = c("CDCode" = "Species Code"))
+
 usethis::use_data(cdc, overwrite = TRUE)
 usethis::use_data(freshwaterfish, overwrite = TRUE)
 usethis::use_data(whse_fish_species_cd, overwrite = TRUE, internal = TRUE)
