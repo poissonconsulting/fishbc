@@ -72,7 +72,6 @@
 </h1></div>
 <!-- badges: start -->
 
-<!-- badges: end -->
 <div class="section level2">
 <h2 id="introduction">Introduction<a class="anchor" aria-label="anchor" href="#introduction"></a>
 </h2>
@@ -84,39 +83,40 @@
 </h2>
 <p>To install the latest release from <a href="https://cran.r-project.org" class="external-link">CRAN</a></p>
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/utils/install.packages.html" class="external-link">install.packages</a></span><span class="op">(</span><span class="st">"fishbc"</span><span class="op">)</span></code></pre></div>
+<code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/utils/install.packages.html" class="external-link">install.packages</a></span><span class="op">(</span><span class="st">"fishbc"</span><span class="op">)</span></span></code></pre></div>
 <p>To install the latest development version from <a href="https://github.com/poissonconsulting/fishbc" class="external-link">GitHub</a></p>
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="co"># install.packages("remotes")</span>
-<span class="fu">remotes</span><span class="fu">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html" class="external-link">install_github</a></span><span class="op">(</span><span class="st">"poissonconsulting/fishbc"</span><span class="op">)</span></code></pre></div>
+<code class="sourceCode R"><span><span class="co"># install.packages("remotes")</span></span>
+<span><span class="fu">remotes</span><span class="fu">::</span><span class="fu">install_github</span><span class="op">(</span><span class="st">"poissonconsulting/fishbc"</span><span class="op">)</span></span></code></pre></div>
 </div>
 <div class="section level2">
 <h2 id="demonstration">Demonstration<a class="anchor" aria-label="anchor" href="#demonstration"></a>
 </h2>
 <p>Get the curated freshwater fish of BC fish codes.</p>
 <div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://tibble.tidyverse.org/" class="external-link">tibble</a></span><span class="op">)</span> <span class="co"># for tidy printing</span>
-<span class="fu">fishbc</span><span class="fu">::</span><span class="va"><a href="reference/freshwaterfish.html">freshwaterfish</a></span>
-<span class="co">#&gt; # A tibble: 161 x 17</span>
-<span class="co">#&gt;    Code  CommonName Class Order Family Genus Species Subspecies Species2 Extant</span>
-<span class="co">#&gt;    &lt;chr&gt; &lt;chr&gt;      &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;  &lt;chr&gt; &lt;chr&gt;   &lt;chr&gt;      &lt;chr&gt;    &lt;lgl&gt; </span>
-<span class="co">#&gt;  1 AF    All Fish   &lt;NA&gt;  &lt;NA&gt;  &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt;    &lt;NA&gt;       &lt;NA&gt;     TRUE  </span>
-<span class="co">#&gt;  2 SP    Fish Unid… &lt;NA&gt;  &lt;NA&gt;  &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt;    &lt;NA&gt;       &lt;NA&gt;     TRUE  </span>
-<span class="co">#&gt;  3 SG    Sturgeon … Acti… Acip… Acipe… Acip… &lt;NA&gt;    &lt;NA&gt;       &lt;NA&gt;     TRUE  </span>
-<span class="co">#&gt;  4 GSG   Green Stu… Acti… Acip… Acipe… Acip… mediro… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span>
-<span class="co">#&gt;  5 WSG   White Stu… Acti… Acip… Acipe… Acip… transm… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span>
-<span class="co">#&gt;  6 SH    American … Acti… Clup… Clupe… Alosa sapidi… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span>
-<span class="co">#&gt;  7 SU    Sucker (G… Acti… Cypr… Catos… &lt;NA&gt;  &lt;NA&gt;    &lt;NA&gt;       &lt;NA&gt;     TRUE  </span>
-<span class="co">#&gt;  8 LSU   Longnose … Acti… Cypr… Catos… Cato… catost… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span>
-<span class="co">#&gt;  9 BSU   Bridgelip… Acti… Cypr… Catos… Cato… columb… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span>
-<span class="co">#&gt; 10 WSU   White Suc… Acti… Cypr… Catos… Cato… commer… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span>
-<span class="co">#&gt; # … with 151 more rows, and 7 more variables: Native &lt;lgl&gt;, Marine &lt;lgl&gt;,</span>
-<span class="co">#&gt; #   Yellow &lt;lgl&gt;, Blue &lt;lgl&gt;, Red &lt;lgl&gt;, CDCode &lt;chr&gt;, ABCode &lt;chr&gt;</span></code></pre></div>
+<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://tibble.tidyverse.org/" class="external-link">tibble</a></span><span class="op">)</span> <span class="co"># for tidy printing</span></span>
+<span><span class="fu">fishbc</span><span class="fu">::</span><span class="va"><a href="reference/freshwaterfish.html">freshwaterfish</a></span></span>
+<span><span class="co">#&gt; # A tibble: 161 × 18</span></span>
+<span><span class="co">#&gt;    Code  CommonName  Class Order Family Genus Species Subspecies Species2 Extant</span></span>
+<span><span class="co">#&gt;    &lt;chr&gt; &lt;chr&gt;       &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;  &lt;chr&gt; &lt;chr&gt;   &lt;chr&gt;      &lt;chr&gt;    &lt;lgl&gt; </span></span>
+<span><span class="co">#&gt;  1 AF    All Fish    &lt;NA&gt;  &lt;NA&gt;  &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt;    &lt;NA&gt;       &lt;NA&gt;     TRUE  </span></span>
+<span><span class="co">#&gt;  2 SP    Fish Unide… &lt;NA&gt;  &lt;NA&gt;  &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt;    &lt;NA&gt;       &lt;NA&gt;     TRUE  </span></span>
+<span><span class="co">#&gt;  3 SG    Sturgeon (… Acti… Acip… Acipe… Acip… &lt;NA&gt;    &lt;NA&gt;       &lt;NA&gt;     TRUE  </span></span>
+<span><span class="co">#&gt;  4 GSG   Green Stur… Acti… Acip… Acipe… Acip… mediro… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span></span>
+<span><span class="co">#&gt;  5 WSG   White Stur… Acti… Acip… Acipe… Acip… transm… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span></span>
+<span><span class="co">#&gt;  6 SH    American S… Acti… Clup… Clupe… Alosa sapidi… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span></span>
+<span><span class="co">#&gt;  7 SU    Sucker (Ge… Acti… Cypr… Catos… &lt;NA&gt;  &lt;NA&gt;    &lt;NA&gt;       &lt;NA&gt;     TRUE  </span></span>
+<span><span class="co">#&gt;  8 LSU   Longnose S… Acti… Cypr… Catos… Cato… catost… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span></span>
+<span><span class="co">#&gt;  9 BSU   Bridgelip … Acti… Cypr… Catos… Cato… columb… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span></span>
+<span><span class="co">#&gt; 10 WSU   White Suck… Acti… Cypr… Catos… Cato… commer… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span></span>
+<span><span class="co">#&gt; # ℹ 151 more rows</span></span>
+<span><span class="co">#&gt; # ℹ 8 more variables: Native &lt;lgl&gt;, Marine &lt;lgl&gt;, Yellow &lt;lgl&gt;, Blue &lt;lgl&gt;,</span></span>
+<span><span class="co">#&gt; #   Red &lt;lgl&gt;, CDCode &lt;chr&gt;, ABCode &lt;chr&gt;, Ktunaxa &lt;chr&gt;</span></span></code></pre></div>
 <p>Get the common names for fish codes.</p>
 <div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="fu">fishbc</span><span class="fu">::</span><span class="fu"><a href="reference/fbc_common_name.html">fbc_common_name</a></span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="st">"AF"</span>, <span class="st">"WSG"</span>, <span class="cn">NA</span>, <span class="st">"AF"</span>, <span class="st">"NOTACODE"</span><span class="op">)</span><span class="op">)</span>
-<span class="co">#&gt; [1] "All Fish"       "White Sturgeon" NA               "All Fish"      </span>
-<span class="co">#&gt; [5] NA</span></code></pre></div>
+<code class="sourceCode R"><span><span class="fu">fishbc</span><span class="fu">::</span><span class="fu"><a href="reference/fbc_common_name.html">fbc_common_name</a></span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="st">"AF"</span>, <span class="st">"WSG"</span>, <span class="cn">NA</span>, <span class="st">"AF"</span>, <span class="st">"NOTACODE"</span><span class="op">)</span><span class="op">)</span></span>
+<span><span class="co">#&gt; [1] "All Fish"       "White Sturgeon" NA               "All Fish"      </span></span>
+<span><span class="co">#&gt; [5] NA</span></span></code></pre></div>
 </div>
 <div class="section level2">
 <h2 id="contribution">Contribution<a class="anchor" aria-label="anchor" href="#contribution"></a>
@@ -155,6 +155,7 @@
 <ul class="list-unstyled">
 <li><a href="CONTRIBUTING.html">Contributing guide</a></li>
 <li><a href="CODE_OF_CONDUCT.html">Code of conduct</a></li>
+<li><a href="SUPPORT.html">Getting help</a></li>
 </ul>
 </div>
 
@@ -180,7 +181,7 @@
 <h2 data-toc-skip>Dev status</h2>
 <ul class="list-unstyled">
 <li><a href="https://lifecycle.r-lib.org/articles/stages.html#stable" class="external-link"><img src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg" alt="Lifecycle: stable"></a></li>
-<li><a href="https://github.com/poissonconsulting/fishbc/actions" class="external-link"><img src="https://github.com/poissonconsulting/fishbc/workflows/R-CMD-check/badge.svg" alt="R build status"></a></li>
+<li><a href="https://github.com/poissonconsulting/fishbc/actions/workflows/R-CMD-check.yaml" class="external-link"><img src="https://github.com/poissonconsulting/fishbc/actions/workflows/R-CMD-check.yaml/badge.svg" alt="R-CMD-check"></a></li>
 <li><a href="https://codecov.io/gh/poissonconsulting/fishbc" class="external-link"><img src="https://codecov.io/gh/poissonconsulting/fishbc/branch/master/graph/badge.svg?token=2EvrLVvDcZ" alt="codecov"></a></li>
 <li><a href="https://creativecommons.org/licenses/by/4.0/" class="external-link"><img src="https://img.shields.io/badge/License-CCBY4-green.svg" alt="License: CCBY4"></a></li>
 <li><a href="https://CRAN.R-project.org/package=fishbc" class="external-link"><img src="https://www.r-pkg.org/badges/version/fishbc" alt="CRAN status"></a></li>
@@ -198,7 +199,7 @@
 
 <div class="pkgdown">
   <p></p>
-<p>Site built with <a href="https://pkgdown.r-lib.org/" class="external-link">pkgdown</a> 2.0.2.9000.</p>
+<p>Site built with <a href="https://pkgdown.r-lib.org/" class="external-link">pkgdown</a> 2.0.7.</p>
 </div>
 
       </footer>
