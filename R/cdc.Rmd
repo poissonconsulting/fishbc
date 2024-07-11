@@ -1,17 +1,10 @@
-
+to do:
+- remove last 4 rows
+- find missing species codes... 
 
 1. could determine which columns in `data-raw/cdc/cdc.csv` are needed to tie Species Code to Element Code. Make a new csv called `xref_sp_element_codes.csv` (or something) and burn just those columns to it
 
-```{r select-columns}
-
-## select species codes and elements codes from cdc.csv
-xref_sp_element_codes <- cdc |> 
-  select("Species Code", "Element Code")
-
-#burn to csv
-readr::write_csv(xref_sp_element_codes, "data-raw/cdc/xref_sp_element_codes.csv")
-
-```
+Not sure I understand this part but I know there are a bunch of columns in cdc.csv that we need to join to our updated cdc resutls because they are missing. Columns such as Kingdom, Phylumn, Class, Order, etc, and Species Code. This is done later.
 
 2. download both exports from the cdc website into data-raw.  keep their names as is if they are descriptive (can't remember)
 
@@ -39,51 +32,73 @@ cdc_prep1 <- left_join(results_raw, constat_raw,
 ```
 
 ## Some issues:
-- We need to remove all columns that are not present in cdc.csv
-- Then we need to rename all columns to match those in cdc.csv
+
+- We need to rename all columns to match those in cdc.csv
 - we need to separate the the Global review date in parentheses from the global ranking
-```{r}
 
-## lets compare columns names to see what we need to remove
-dplyr::setdiff(names(cdc_prep1), names(cdc))
-
-dplyr::setdiff(names(cdc), names(cdc_prep1))
-
-## START HERE. DATES ARE NOT BEING EXTRACTED
+```{r rename-cols}
 
 cdc_prep2 <- cdc_prep1 |> 
   ## We need to rename the columns to match those in the cdc.csv
   rename("Prov Status" = "Provincial Status",
-         "Prov Status Review Date" = "Date Status Last Reviewed",
-         "Global Status" = "Global") |> 
+         "Prov Status Review Date" = "Date Status Last Reviewed") |> 
   ## we need to separate the the Global review date in parentheses from the global ranking
-  mutate("Global Status Review Date" = case_when(
-      str_detect("Global Status", "\\(\\d{4}\\)") ~ str_extract("Global Status", "\\(\\d{4}\\)"),
-      TRUE ~ NA_character_
-    )
-  ##  "Global Status" = str_replace("Global Status", "\\s*\\(\\d{4}\\)", "")
-  ) |> 
-  relocate("Global Status Review Date", .after = "Global Status")
+    tidyr::separate("Global", into = c('Global Status', 'Global Status Review Date'), remove = T)
+```
 
+- We need to remove all columns that are not present in cdc.csv
+
+```{r remove-cols}
+## lets compare columns names to see what we need to remove
+remove_cols <- dplyr::setdiff(names(cdc_prep2), names(cdc))
+
+cdc_prep3 <- cdc_prep2 |> 
   ## We need to remove all columns that are not present in cdc.csv
-  select(-c())
-
+  select(-c(all_of(remove_cols)))
 
 ```
 
+- We need to add missing columns from cdc.csv (Ex: Kingdom, Phylumn, Class, Order, etc, and Species Code)
+```{r}
+## compare columns names to see what we need to add
+add_cols <- dplyr::setdiff(names(cdc), names(cdc_prep2))
 
-cdc_updated <- left_join(cdc_prep1, xref_sp_element_codes) |> 
-  select(names(cdc))
+## burn those columns to a csv, not sure this step is nessassary??
+xref_cdc <- cdc |> 
+  select(all_of(add_cols), 'Element Code') |> 
+  write_csv('data-raw/cdc/xref_cdc.csv')
 
-waldo::compare(cdc, cdc_prep1)
+## now join the missing columns from cdc.csv to our the updated data
+cdc_prep4 <- left_join(cdc_prep3, 
+                       xref_cdc, 
+            by = 'Element Code') |> 
+  ## Finally, lets rearrange the columns order to match cdc.csv
+  relocate(names(cdc))
+
 ```
+
 
 5. burn over data-raw/cdc/cdc.csv
+
+```{r burn}
+
+write_csv(cdc_prep4, 'data-raw/cdc/cdc.csv', append = F)
+
+```
+
 
 6. Run through `fishbc/data-raw/data-raw.R` and  run usethis::use_data(cdc, overwrite = TRUE)
 build the repo locally (just like fpr)
 
-Worst that can happen is we redo using new branch....
+```{r}
 
+test1 <- cdc |> 
+  group_by(`Species Code`) |> 
+  dplyr::filter(n() > 1)
+
+```
+
+
+Worst that can happen is we redo using new branch....
 
 
