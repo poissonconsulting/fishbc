@@ -236,7 +236,17 @@ write_csv(fwf_updated, 'data-raw/freshwaterfish/freshwaterfish.csv', append = F)
 ```
 
 
-## Use this
+## Test package 
 
-and run `usethis::use_data(cdc, overwrite = TRUE)` to build the repo locally (just like fpr)
+**This part still won't work for me! It just returns the old csv.**
+
+Now let's run `fishbc::cdc` and see if it pulls the new updated data. Run `usethis::use_data(cdc, overwrite = TRUE)` to build the repo locally. This is actually done in `data-raw.R`. 
+
+```{r run, include = T}
+usethis::use_data(cdc, overwrite = TRUE)
+
+fishbc::cdc
+
+```
+
 
