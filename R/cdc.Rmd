@@ -238,7 +238,7 @@ write_csv(fwf_updated, 'data-raw/freshwaterfish/freshwaterfish.csv', append = F)
 
 ## Test package 
 
-**This part still won't work for me! It just returns the old csv.**
+**This part still won't work for me! It just returns the old csv.** `usethis::use_data(cdc, overwrite = TRUE)` does say it is Setting active project to '/Users/lucyschick/Projects/repo/fishbc' though. Unsure of what's going on.
 
 Now let's run `fishbc::cdc` and see if it pulls the new updated data. Run `usethis::use_data(cdc, overwrite = TRUE)` to build the repo locally. This is actually done in `data-raw.R`. 
 
