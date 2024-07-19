@@ -10,7 +10,7 @@ LSU,Longnose Sucker,Actinopterygii,Cypriniformes,Catostomidae,Catostomus,catosto
 BSU,Bridgelip Sucker,Actinopterygii,Cypriniformes,Catostomidae,Catostomus,columbianus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-CACO,NA
 WSU,White Sucker,Actinopterygii,Cypriniformes,Catostomidae,Catostomus,commersonii,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-CACM,WHSC
 CSU,Largescale Sucker,Actinopterygii,Cypriniformes,Catostomidae,Catostomus,macrocheilus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-CAMA,LRSC
-MSU,Northern Mountain Sucker,Actinopterygii,Cypriniformes,Catostomidae,Catostomus,platyrhynchus,NA,NA,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,F-CAPL,MNSC
+MSU,Northern Mountain Sucker,Actinopterygii,Cypriniformes,Catostomidae,Catostomus,platyrhynchus,NA,NA,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,F-CABO,MNSC
 SSU,Salish Sucker,Actinopterygii,Cypriniformes,Catostomidae,Catostomus,sp. 4,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-CASP-04,NA
 OWF,Oriental Weatherfish,Actinopterygii,Cypriniformes,Cobitidae,Misgurnus,anguillicaudatus,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,FAMCATO
 C,Minnow (General),Actinopterygii,Cypriniformes,Cyprinidae,NA,NA,NA,NA,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,NA,FAMCYPR
