@@ -1,42 +1,19 @@
-# Al's Idea:
 
-Heres a thought of a short term hack that might work in the long term.  Hard to really visualize without doing it and seeing what pops up but...:
-
-1. could determine which columns in data-raw/cdc/cdc.csv are needed to tie Species Code to Element Code. Make a new csv called xref_sp_element_codes.csv (or something) and burn just those columns to it
-
-Not sure I understand this part but I know there are a bunch of columns in the old `cdc.csv` that we need to join to our updated cdc resutls because they are missing. Columns such as Kingdom, Phylumn, Class, Order, etc, and Species Code. This is done later.
-
-2. download both exports from the cdc website into data-raw.  keep their names as is if they are descriptive (can't remember)
-
-3. In a new data-raw/cdc.R file read in xl files with` readxl` (I think you need to open them first and close or some weird thing to avoid a  error - link to help url in your .R file  if you run into it) and export both of those as csvs with their original exported names in data-raw.
-
-4. In data-raw/cdc.R join  both exports from the cdc website together by Element Code excluding any duplicated columns - then join to  xref_sp_element_codes.  if there are missing Species Code entries in any rows we have new codes to find (don't know how yet) and if there are less unique(cdc$Species Code) than before we lost some. Can document that in data
-
-5. burn over data-raw/cdc/cdc.csv
-
-6. Run through `fishbc/data-raw/data-raw.R` and  run usethis::use_data(cdc, overwrite = TRUE)
-build the repo locally (just like fpr)
-Worst that can happen is we redo using new branch....
-
-
-# Lucy's workflow 
+So turns out Summary Data has all the info we need in one place. AHHHHHHHH
 
 ## Download data 
-Download both exports (Results and Conservation Status Data) from the cdc website into `data-raw`.
+Download the Summary Data from the cdc website into `data-raw`.
 
 ## Import data
-Read in both xl files and convert to csvs. The last 3 rows of the exported files are just NA's so lets remove them.
+Read in xl files and convert to csv. The last 4 rows of the exported file are NA or search criteria info so lets remove them.
 
 ```{r import-data}
-## Read in results from cdc website
-results_raw <- readr::read_csv("data-raw/cdc/resultsExport.csv") |> 
-  # the last 3 rows are NA so lets remove them
-  dplyr::filter(!is.na(`Element Code`))
 
-## Read in conservation status info from cdc website
-constat_raw <- readr::read_csv("data-raw/cdc/ConsStatusRptExport.csv") |> 
-  # the last 3 rows are NA so lets remove them
-  dplyr::filter(!is.na(`Element Code`))
+## Read in the summary results from cdc website
+results_summary_raw <- readr::read_csv("data-raw/cdc/summaryExport.csv") |> 
+  # the last 4 rows are NA or search criteria info so lets remove them
+  slice(1:(n() - 4))
+
 
 ## Rename cdc.csv to cdc_old.csv because we will burn over it at the end but still may want to compare to the original csv.
 ## read in old dataset
@@ -44,65 +21,85 @@ cdc_old <- readr::read_csv("data-raw/cdc/cdc_old.csv")
 
 ```
 
-## Join data
-Join both exports from the cdc website together by `Element Code` excluding any duplicated columns.
+## Join dates
 
-```{r join-data}
+We need to join the dates and classification for the COSEWIC and SARA columns. First we need to shorten the
+classifications to abbreviations and fix the date formats.
 
-#Join the two dataframe
-cdc_prep1 <- left_join(results_raw, constat_raw,
-                      by = c("Element Code",
-                         "Scientific Name",
-                         "English Name")) |> 
-  select(-Provincial) ## remove duplicated column
+```{r join-dates}
+
+cdc_prep1 <- results_summary_raw |> 
+  #First we need to shorten the COSEWIC and SARA classifications to abbreviations
+  dplyr::mutate(COSEWIC = case_when(COSEWIC == "Special Concern" ~ "SC",
+                                    COSEWIC == "Endangered / Threatened" ~ "E/T",
+                                    COSEWIC == "Endangered" ~ "E",
+                                    COSEWIC == "Threatened" ~ "T",
+                                    COSEWIC == "Not at Risk" ~ "NAR",
+                                    COSEWIC == "Data Deficient" ~ "DD",
+                                    COSEWIC == "Extinct" ~ "X",
+                                    COSEWIC == "Extirpated" ~ "XT",
+                                    COSEWIC == "Not Available" ~ "NA",
+                                    COSEWIC == "Endangered / Threatened / Special Concern / Data Deficient / Not at Risk" ~ "E/T/SC/DD/NAR",
+                                     T ~ COSEWIC),
+                `SARA Status` = case_when(`SARA Status` == "Special Concern" ~ "SC",
+                                    `SARA Status` == "Endangered / Threatened" ~ "E/T",
+                                    `SARA Status` == "Endangered" ~ "E",
+                                    `SARA Status` == "Threatened" ~ "T",
+                                    `SARA Status` == "Not at Risk" ~ "NAR",
+                                    `SARA Status` == "Data Deficient" ~ "DD",
+                                    `SARA Status` == "Extinct" ~ "XX",
+                                    `SARA Status` == "Extirpated" ~ "XT",
+                                    `SARA Status` == "Not Available" ~ "NA",
+                                    `SARA Status` == "Endangered / Threatened / Special Concern / Data Deficient / Not at Risk" ~ "E/T/SC/DD/NAR",
+                                     T ~ `SARA Status`)) |>
+  # Re-format the dates
+  dplyr::mutate(`COSEWIC Date` = format(lubridate::my(`COSEWIC Date`), "%b %Y"),
+                `SARA Date` = format(lubridate::my(`SARA Date`), "%b %Y"),
+                ## Now join the dates and classification
+                COSEWIC = case_when(!is.na(COSEWIC) ~ paste0(COSEWIC, " (", `COSEWIC Date`, ")"),
+                T ~ COSEWIC),
+                `SARA` = case_when(!is.na(`SARA Schedule`) ~ as.character(`SARA Schedule`),
+                                           TRUE ~ NA),
+                `SARA` = case_when(!is.na(`SARA Status`) ~ paste0(`SARA`, "-", `SARA Status`),
+                                           TRUE ~ `SARA`),
+                `SARA` = case_when(!is.na(`SARA Date`) ~ paste0(`SARA`, " (", `SARA Date`, ")"),
+                                           TRUE ~ `SARA`)) |> 
+  relocate(SARA, .after = `SARA Status`)
+              
 ```
 
-## Some issues
 
-- We need to rename all columns to match those in `cdc_old.csv`
-- we need to separate the the Global review date in parentheses from the global ranking
+## Remove unessissary columns
+
+- We need to rename and remove columns to match those in `cdc_old.csv`
 
 ```{r rename-cols}
 
+# See what columns are present in the new dataset but not in the old
+present_new <- dplyr::setdiff(names(cdc_prep1), names(cdc_old)) |> 
+  print()
+
+# See what columns are present in the old dataset but not in the new dataset
+# Most of these are actually present in the updated dataset but they are just renamed (Ex: Municipality = Municipalities)
+present_old <- dplyr::setdiff(names(cdc_old), names(cdc_prep1)) |> 
+  print()
+
+# Lets remove all columns that are present in the new dataset but not in the old, except for the columns that have just 
+# been renamed
+renamed_cols <- c("Municipalities", "Ecosections", "Migratory Bird Convention Act", "Classification Level", 
+                  "ENV Regional Boundaries", "Regional Districts", "Mapping Comment", "Habitats\n(Type / Subtype / Dependence)")
+
+cols_to_remove <- dplyr::setdiff(present_new, renamed_cols) |> 
+  print()
+
+
 cdc_prep2 <- cdc_prep1 |> 
-  ## We need to rename the columns to match those in the cdc.csv
-  rename("Prov Status" = "Provincial Status",
-         "Prov Status Review Date" = "Date Status Last Reviewed") |> 
-  ## we need to separate the the Global review date in parentheses from the global ranking
-    tidyr::separate("Global", into = c('Global Status', 'Global Status Review Date'), remove = T)
+  ## Remove all columns we don't want
+  select(-c(all_of(cols_to_remove))) |> 
+  # relocate element code
+  dplyr::relocate(`Element Code`, .after = `Species Code`)
 ```
 
-- We need to remove all columns that are not present in `cdc_old.csv`
-
-```{r remove-cols}
-## lets compare columns names to see what we need to remove
-remove_cols <- dplyr::setdiff(names(cdc_prep2), names(cdc_old))
-
-cdc_prep3 <- cdc_prep2 |> 
-  ## We need to remove all columns that are not present in cdc_old.csv
-  select(-c(all_of(remove_cols)))
-
-```
-
-- Finally, lets add the missing columns from `cdc_old.csv` (Ex: Kingdom, Phylumn, Class, Order, etc, and Species Code)
-
-```{r}
-## compare columns names to see what we need to add
-add_cols <- dplyr::setdiff(names(cdc_old), names(cdc_prep2))
-
-## burn those columns to a csv, not sure this step is nessassary??
-xref_cdc <- cdc_old |> 
-  select(all_of(add_cols), 'Element Code') |> 
-  write_csv('data-raw/cdc/xref_cdc.csv')
-
-## now join the missing columns from cdc.csv to our the updated data
-cdc_prep4 <- left_join(cdc_prep3, 
-                       xref_cdc, 
-            by = 'Element Code') |> 
-  ## Finally, lets rearrange the columns order to match cdc.csv
-  relocate(names(cdc_old))
-
-```
 
 
 ## Let's compare the new dataset to the old one
@@ -112,12 +109,14 @@ There are 550 species in the old dataset and 554 in the new dataset, let's see w
 ```{r compare-new-old}
 
 ## First lets see how many species are missing a `Species Code`
-missing_sc <- cdc_prep4 |> 
+missing_sc <- cdc_prep2 |> 
   dplyr::filter(is.na(`Species Code`))
+
+#none, sweet.
 
 ## see what species are only in the old dataset
 unique_in_old <- cdc_old |> 
-  dplyr::filter(`Element Code` %in% setdiff(cdc_old[['Element Code']], cdc_prep4[['Element Code']]))
+  dplyr::filter(`Element Code` %in% setdiff(cdc_old[['Element Code']], cdc_prep2[['Element Code']]))
 
 ## There are 6 species unique in the old dataset. They are:
 # Catostomus macrocheilus 
@@ -129,8 +128,8 @@ unique_in_old <- cdc_old |>
 
 
 ## see what species are only in the new dataset
-unique_in_new <- cdc_prep4 |> 
-  dplyr::filter(`Element Code` %in% setdiff(cdc_prep4[['Element Code']], cdc_old[['Element Code']]))
+unique_in_new <- cdc_prep2 |> 
+  dplyr::filter(`Element Code` %in% setdiff(cdc_prep2[['Element Code']], cdc_old[['Element Code']]))
 
 ## There are 10 species unique in the new dataset. They are:
 # Catostomus bondi
@@ -164,37 +163,7 @@ There are 6 new species that have been added, they are:
 
 Some quick math:
 
-old_cdc = 550 species - 2 species removed  + 6 new species = 552 = new cdc
-
-
-There are 10 entries that are missing `Species Codes` (6 new species, 2 name changes, 2 element code changes so species code was not joined), we need to hand bomb these. We will search the cdc using the scientific name, open the cdc report and get the `Species Code`. Its odd that the species code is available on the cdc website when you open the cdc report for a species, but that it doesn't get included in the summary results that we can export.
-
-```{r add-missing-sc}
-
-## Add the missing species codes
-
-cdc_prep5 <- cdc_prep4 |> 
-  dplyr::mutate(`Species Code` = case_when(`Scientific Name` == "Catostomus bondi" ~ "F-CABO",
-                                    `Scientific Name` == "Catostomus macrocheilus" ~ "F-CAMA",
-                                    `Scientific Name` == "Lampetra richardsoni" ~ "	F-LARC",
-                                    `Scientific Name` == "Sebastes diaconus" ~ "F-SEMY",
-                                    `Scientific Name` == "Mola tecta" ~ "F-MOTE",
-                                    `Scientific Name` == "Oncorhynchus mykiss - coastal lineage" ~ "F-ONMY-39",
-                                    `Scientific Name` == "Oncorhynchus mykiss - interior lineage" ~ "F-ONMY-38",
-                                    `Scientific Name` == "Thaleichthys pacificus pop. 1" ~ "F-THPA-01",
-                                    `Scientific Name` == "Thaleichthys pacificus pop. 2" ~ "F-THPA-02",
-                                    `Scientific Name` == "Thaleichthys pacificus pop. 3" ~ "F-THPA-03",
-                                   T ~ `Species Code`))
-
-# Check there are no missing species codes
-cdc_prep5 |> 
-  dplyr::filter(is.na(`Species Code`))
-
-# Check the column names are the same between the old and new datasets
-dplyr::setdiff(names(cdc_old), names(cdc_prep5))
-
-# yay!
-```
+old_cdc = 550 species - 2 species removed  + 6 new species = 554 = new cdc
 
 
 ## Burn
@@ -202,7 +171,7 @@ dplyr::setdiff(names(cdc_old), names(cdc_prep5))
 Finally, lets burn over the updated cdc file to `data-raw/cdc/cdc.csv`
 
 ```{r burn}
-write_csv(cdc_prep5, 'data-raw/cdc/cdc.csv', append = F)
+write_csv(cdc_prep2, 'data-raw/cdc/cdc.csv', append = F)
 
 ```
 
@@ -218,17 +187,19 @@ chk::chk_join(freshwaterfish[!is.na(freshwaterfish$CDCode),], cdc, by = c("CDCod
 
 ```
 
-Because Catostomus platyrhynchus (Species Code = F-CAPL) was changed to updated name Catostomus bondi (Species Code = F-CABO). We need to change Catostomus platyrhynchus to Catostomus bondi and update the CDCode accordingly. 
+Because Catostomus platyrhynchus (Species Code = F-CAPL) was changed to updated name Catostomus bondi (Species Code = F-CABO). We need to change Catostomus platyrhynchus to Catostomus bondi and update the CDCode accordingly. Same with the Cultus Lake Sculpin and Rocky Mountain Sculpin, the Species codes have changed
 
 ```{r fwf-update}
 
 ## Update the name and CDCode (Species Code) 
 fwf_updated <- freshwaterfish |> 
-  dplyr::mutate(CDCode = case_when(CDCode == 'F-CAPL' ~ 'F-CABO', T ~ CDCode)) |> 
-  dplyr::mutate(CommonName = case_when(CommonName == 'Catostomus platyrhynchus' ~ 'Catostomus bondi', T ~ CommonName))
+  dplyr::mutate(CDCode = case_when(CDCode == 'F-CAPL' ~ 'F-CABO', T ~ CDCode),
+                CommonName = case_when(CommonName == 'Catostomus platyrhynchus' ~ 'Catostomus bondi', T ~ CommonName),
+                CDCode = case_when(CDCode == 'F-COSP-02' ~ 'F-COAL-01', T ~ CDCode),
+                CDCode = case_when(CDCode == 'F-COSP-04' ~ 'F-COSP-09', T ~ CDCode))
 
 ## Lets check if the test passes with the updated freshwaterfish dataset
-chk::chk_join(freshwaterfish[!is.na(freshwaterfish$CDCode),], cdc, by = c("CDCode" = "Species Code"))
+chk::chk_join(fwf_updated[!is.na(fwf_updated$CDCode),], cdc, by = c("CDCode" = "Species Code"))
 
 ## Yup it does. Let's burn back to freshwaterfish.csv now
 write_csv(fwf_updated, 'data-raw/freshwaterfish/freshwaterfish.csv', append = F)
@@ -238,15 +209,13 @@ write_csv(fwf_updated, 'data-raw/freshwaterfish/freshwaterfish.csv', append = F)
 
 ## Test package 
 
-**This part still won't work for me! It just returns the old csv.** `usethis::use_data(cdc, overwrite = TRUE)` does say it is Setting active project to '/Users/lucyschick/Projects/repo/fishbc' though. Unsure of what's going on.
-
-Now let's run `fishbc::cdc` and see if it pulls the new updated data. Run `usethis::use_data(cdc, overwrite = TRUE)` to build the repo locally. This is actually done in `data-raw.R`. 
+Now let's rebuild the package and see if it pulls the new updated data. Run `Clean/Install`. 
 
 ```{r run, include = T}
-usethis::use_data(cdc, overwrite = TRUE)
 
-fishbc::cdc
+# Now test 
+test_cdc <- fishbc::cdc
+
+# Yup it works!
 
 ```
-
-

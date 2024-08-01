@@ -137,7 +137,7 @@ MG,Montana Grayling,Actinopterygii,Salmoniformes,Salmonidae,Thymallus,arcticus,m
 CC,Sculpin (General),Actinopterygii,Scorpaeniformes,Cottidae,NA,NA,NA,NA,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,NA,NA
 CCA,Sharpnose Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Clinocottus,acuticeps,NA,NA,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,F-CLAC,NA
 CAL,Coastrange Sculpin (formerly Aleutian Sculpin),Actinopterygii,Scorpaeniformes,Cottidae,Cottus,aleuticus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-COAL,NA
-CCL,Cultus Lake Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,aleuticus,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-COSP-02,NA
+CCL,Cultus Lake Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,aleuticus,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-COAL-01,NA
 CAS,Prickly Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,asper,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-COAS,PRSC
 CBA,Mottled Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,bairdi,NA,NA,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,NA,NA
 CMM,Malheur Mottled Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,bendirei,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,NA,NA
@@ -146,7 +146,7 @@ CCN,Shorthead Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,confusus,NA
 CCH,Columbia Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,hubbsi,NA,NA,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,F-COHU,NA
 CRH,Torrent Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,rhotheus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-CORH,NA
 CRI,Spoonhead Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,ricei,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-CORI,SPSC
-CRM,Rocky Mountain Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,sp. 9,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-COSP-04,RMSC
+CRM,Rocky Mountain Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,sp. 9,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-COSP-09,RMSC
 CLA,Staghorn Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Leptocottus,armatus,NA,NA,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,F-LEAR,NA
 CMT,Deepwater Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,thompsoni,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,NA,NA
 BH,Bullhead (General),Actinopterygii,Siluriformes,Ictaluridae,Ameiurus,NA,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA
