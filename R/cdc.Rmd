@@ -1,5 +1,5 @@
 
-So turns out Summary Data has all the info we need in one place. AHHHHHHHH
+So turns out Summary Data has all the info we need in one place.
 
 ## Download data 
 Download the Summary Data from the cdc website into `data-raw`.
@@ -56,7 +56,7 @@ cdc_prep1 <- results_summary_raw |>
   dplyr::mutate(`COSEWIC Date` = format(lubridate::my(`COSEWIC Date`), "%b %Y"),
                 `SARA Date` = format(lubridate::my(`SARA Date`), "%b %Y"),
                 ## Now join the dates and classification
-                COSEWIC = case_when(!is.na(COSEWIC) ~ paste0(COSEWIC, " (", `COSEWIC Date`, ")"),
+                COSEWIC = case_when(!is.na(`COSEWIC Date`) ~ paste0(COSEWIC, " (", `COSEWIC Date`, ")"),
                 T ~ COSEWIC),
                 `SARA` = case_when(!is.na(`SARA Schedule`) ~ as.character(`SARA Schedule`),
                                            TRUE ~ NA),
