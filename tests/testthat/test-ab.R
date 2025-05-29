@@ -1,11 +1,17 @@
 test_that("ab", {
+  skip_if_not_installed("chk")
+  skip_if_not_installed("tibble")
+
   expect_true(chk::vld_data(ab))
 
   expect_snapshot({
     print(ab, width = 200, n = 200)
   })
 
-  expect_true(chk::vld_subset(c("Species Common Name", "Scientific Name", "Species Code"), colnames(ab)))
+  expect_true(chk::vld_subset(
+    c("Species Common Name", "Scientific Name", "Species Code"),
+    colnames(ab)
+  ))
 
   expect_true(chk::vld_s3_class(ab$`Species Common Name`, "character"))
   expect_true(chk::vld_s3_class(ab$`Scientific Name`, "character"))
@@ -16,6 +22,4 @@ test_that("ab", {
   expect_true(chk::vld_not_any_na(ab$`Species Code`))
 
   expect_true(chk::vld_unique(ab$`Species Code`))
-}
-)
-
+})
