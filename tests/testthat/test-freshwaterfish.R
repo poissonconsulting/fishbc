@@ -1,4 +1,7 @@
 test_that("freshwaterfish", {
+  skip_if_not_installed("chk")
+  skip_if_not_installed("tibble")
+
 
   expect_true(chk::vld_data(freshwaterfish))
 
