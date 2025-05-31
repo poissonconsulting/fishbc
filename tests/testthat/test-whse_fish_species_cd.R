@@ -1,4 +1,7 @@
 test_that("whse_fish_species_cd", {
+  skip_if_not_installed("chk")
+  skip_if_not_installed("tibble")
+
   expect_error(chk::check_data(
     fishbc:::whse_fish_species_cd,
     values = list(SPECIES_ID = c(1L, 192L),
