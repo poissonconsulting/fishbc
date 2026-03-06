@@ -33,7 +33,7 @@ Available: \url{https://www.alberta.ca/fisheries-loadforms.aspx}
 (accessed Feb 9, 2021).
 }
 \seealso{
-Other fishcodes: 
+Other fishcodes:
 \code{\link{cdc}},
 \code{\link{freshwaterfish}}
 }
