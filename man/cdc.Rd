@@ -34,7 +34,7 @@ Available: \url{https://a100.gov.bc.ca/pub/eswp/}
 (accessed Aug 23, 2019).
 }
 \seealso{
-Other fishcodes: 
+Other fishcodes:
 \code{\link{ab}},
 \code{\link{freshwaterfish}}
 }

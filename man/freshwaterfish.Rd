@@ -43,7 +43,7 @@ The data includes estuarine fishes and excludes non-finned fishes such as clams.
 head(freshwaterfish)
 }
 \seealso{
-Other fishcodes: 
+Other fishcodes:
 \code{\link{ab}},
 \code{\link{cdc}}
 }
