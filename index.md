@@ -19,6 +19,7 @@ Alberta](https://open.alberta.ca/licence)
 To install the latest release from [CRAN](https://cran.r-project.org)
 
 ``` r
+
 install.packages("fishbc")
 ```
 
@@ -26,6 +27,7 @@ To install the latest development version from
 [GitHub](https://github.com/poissonconsulting/fishbc)
 
 ``` r
+
 # install.packages("remotes")
 remotes::install_github("poissonconsulting/fishbc")
 ```
@@ -35,6 +37,7 @@ remotes::install_github("poissonconsulting/fishbc")
 Get the curated freshwater fish of BC fish codes.
 
 ``` r
+
 library(tibble) # for tidy printing
 fishbc::freshwaterfish
 #> # A tibble: 161 × 18
@@ -58,6 +61,7 @@ fishbc::freshwaterfish
 Get the common names for fish codes.
 
 ``` r
+
 fishbc::fbc_common_name(c("AF", "WSG", NA, "AF", "NOTACODE"))
 #> [1] "All Fish"       "White Sturgeon" NA               "All Fish"      
 #> [5] NA
