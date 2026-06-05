@@ -24,6 +24,7 @@ Authors:
   \item Evan Amies-Galonski \email{evan@poissonconsulting.ca} (\href{https://orcid.org/0000-0003-1096-2089}{ORCID})
   \item Joe Thorley \email{joe@poissonconsulting.ca} (\href{https://orcid.org/0000-0002-7683-4592}{ORCID})
   \item Nadine Hussein \email{nadine@poissonconsulting.ca} (\href{https://orcid.org/0000-0003-4470-8361}{ORCID})
+  \item Kirill Müller (\href{https://orcid.org/0000-0002-1416-3412}{ORCID})
 }
 
 Other contributors:
