@@ -14,12 +14,12 @@ Useful links:
 
 ## Author
 
-**Maintainer**: Evan Amies-Galonski <evan@poissonconsulting.ca>
+**Maintainer**: Evan Amies-Galonski <evanamiesgalonski@gmail.com>
 ([ORCID](https://orcid.org/0000-0003-1096-2089))
 
 Authors:
 
-- Evan Amies-Galonski <evan@poissonconsulting.ca>
+- Evan Amies-Galonski <evanamiesgalonski@gmail.com>
   ([ORCID](https://orcid.org/0000-0003-1096-2089))
 
 - Joe Thorley <joe@poissonconsulting.ca>
