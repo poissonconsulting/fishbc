@@ -17,11 +17,11 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Evan Amies-Galonski \email{evan@poissonconsulting.ca} (\href{https://orcid.org/0000-0003-1096-2089}{ORCID})
+\strong{Maintainer}: Evan Amies-Galonski \email{evanamiesgalonski@gmail.com} (\href{https://orcid.org/0000-0003-1096-2089}{ORCID})
 
 Authors:
 \itemize{
-  \item Evan Amies-Galonski \email{evan@poissonconsulting.ca} (\href{https://orcid.org/0000-0003-1096-2089}{ORCID})
+  \item Evan Amies-Galonski \email{evanamiesgalonski@gmail.com} (\href{https://orcid.org/0000-0003-1096-2089}{ORCID})
   \item Joe Thorley \email{joe@poissonconsulting.ca} (\href{https://orcid.org/0000-0002-7683-4592}{ORCID})
   \item Nadine Hussein \email{nadine@poissonconsulting.ca} (\href{https://orcid.org/0000-0003-4470-8361}{ORCID})
 }
