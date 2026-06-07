@@ -4,16 +4,15 @@
 
 - **[Evan
   Amies-Galonski](https://www.poissonconsulting.ca/author/evan-amies-galonski/)**.
-  Author, maintainer.
-  [](https://orcid.org/https://orcid.org/0000-0003-1096-2089)
+  Author, maintainer. [](https://orcid.org/0000-0003-1096-2089)
 
 - **[Joe
   Thorley](https://www.poissonconsulting.ca/author/joe-thorley/)**.
-  Author. [](https://orcid.org/https://orcid.org/0000-0002-7683-4592)
+  Author. [](https://orcid.org/0000-0002-7683-4592)
 
 - **[Nadine
   Hussein](https://www.poissonconsulting.ca/author/nadine-hussein/)**.
-  Author. [](https://orcid.org/https://orcid.org/0000-0003-4470-8361)
+  Author. [](https://orcid.org/0000-0003-4470-8361)
 
 - **Bronwen Lewis**. Contributor.
 
@@ -23,7 +22,7 @@
 
 - **[Seb
   Dalgarno](https://www.poissonconsulting.ca/author/seb-dalgarno/)**.
-  Contributor.
+  Contributor. [](https://orcid.org/0000-0002-3658-4517)
 
 - **Simon Norris**. Contributor.
 
