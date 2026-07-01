@@ -36,8 +36,7 @@ Other contributors:
 
 - Gordon Oliphant \[contributor\]
 
-- Seb Dalgarno ([ORCID](https://orcid.org/0000-0002-3658-4517))
-  \[contributor\]
+- Seb Dalgarno \[contributor\]
 
 - Simon Norris \[contributor\]
 
