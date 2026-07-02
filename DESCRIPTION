@@ -1,48 +1,28 @@
 Package: fishbc
 Title: Fishes of British Columbia
 Version: 0.2.1.9000
-Authors@R: 
-    c(person(given = "Evan",
-             family = "Amies-Galonski",
-             role = c("aut", "cre"),
-             email = "evanamiesgalonski@gmail.com",
-             comment = c(ORCID = "0000-0003-1096-2089")),
-      person(given = "Joe",
-             family = "Thorley",
-             role = "aut",
-             email = "joe@poissonconsulting.ca",
-             comment = c(ORCID = "0000-0002-7683-4592")),
-      person(given = "Nadine",
-             family = "Hussein",
-             role = "aut",
-             email = "nadine@poissonconsulting.ca",
-             comment = c(ORCID = "0000-0003-4470-8361")),
-        person(given = "Bronwen",
-             family = "Lewis",
-             role = "ctb"),
-        person(given = "Jesse",
-             family = "Patterson",
-             role = "ctb"),
-        person(given = "Gordon",
-             family = "Oliphant",
-             role = "ctb"),
-        person(given = "Seb",
-             family = "Dalgarno",
-             role = "ctb",
-             comment = c(ORCID = "0000-0002-3658-4517")),
-        person(given = "Simon",
-             family = "Norris",
-             role = "ctb"),
-        person(given = "Allan",
-             family = "Irvine",
-             role = "ctb"),
-      person(given = "Poisson Consulting",
-             role = c("cph", "fnd")),
-      person(given = "Province of British Columbia",
-             role = "cph"))
-Description: Provides raw and curated data on the codes,
-    classification and conservation status of freshwater fishes in British
-    Columbia. Marine fishes will be added in a future release.
+Authors@R: c(
+    person("Evan", "Amies-Galonski", , "evanamiesgalonski@gmail.com", role = "aut",
+           comment = c(ORCID = "0000-0003-1096-2089")),
+    person("Joe", "Thorley", , "joe@poissonconsulting.ca", role = "aut",
+           comment = c(ORCID = "0000-0002-7683-4592")),
+    person("Nadine", "Hussein", , "nadine@poissonconsulting.ca", role = "aut",
+           comment = c(ORCID = "0000-0003-4470-8361")),
+    person("Sarah", "Lyons", , "sarah@poissonconsulting.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-6745-6796")),
+    person("Bronwen", "Lewis", role = "ctb"),
+    person("Jesse", "Patterson", role = "ctb"),
+    person("Gordon", "Oliphant", role = "ctb"),
+    person("Seb", "Dalgarno", role = "ctb",
+           comment = c(ORCID = "0000-0002-3658-4517")),
+    person("Simon", "Norris", role = "ctb"),
+    person("Allan", "Irvine", role = "ctb"),
+    person("Poisson Consulting", role = c("cph", "fnd")),
+    person("Province of British Columbia", role = "cph")
+  )
+Description: Provides raw and curated data on the codes, classification
+    and conservation status of freshwater fishes in British Columbia.
+    Marine fishes will be added in a future release.
 License: CC BY 4.0
 URL: https://github.com/poissonconsulting/fishbc
 BugReports: https://github.com/poissonconsulting/fishbc/issues
@@ -50,13 +30,13 @@ Depends:
     R (>= 3.4)
 Suggests: 
     chk,
+    covr,
     testthat (>= 3.0.0),
-    tibble,
-    covr
+    tibble
+Config/Needs/website: poissonconsulting/poissontemplate
+Config/roxygen2/version: 8.0.0.9000
+Config/testthat/edition: 3
 Encoding: UTF-8
 Language: en-US
 LazyData: true
 Roxygen: list(markdown = TRUE)
-Config/testthat/edition: 3
-Config/Needs/website: poissonconsulting/poissontemplate
-Config/roxygen2/version: 8.0.0.9000
