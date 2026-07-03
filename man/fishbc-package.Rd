@@ -17,10 +17,11 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Evan Amies-Galonski \email{evanamiesgalonski@gmail.com} (\href{https://orcid.org/0000-0003-1096-2089}{ORCID})
+\strong{Maintainer}: Sarah Lyons \email{sarah@poissonconsulting.ca} (\href{https://orcid.org/0000-0002-6745-6796}{ORCID})
 
 Authors:
 \itemize{
+  \item Sarah Lyons \email{sarah@poissonconsulting.ca} (\href{https://orcid.org/0000-0002-6745-6796}{ORCID})
   \item Evan Amies-Galonski \email{evanamiesgalonski@gmail.com} (\href{https://orcid.org/0000-0003-1096-2089}{ORCID})
   \item Joe Thorley \email{joe@poissonconsulting.ca} (\href{https://orcid.org/0000-0002-7683-4592}{ORCID})
   \item Nadine Hussein \email{nadine@poissonconsulting.ca} (\href{https://orcid.org/0000-0003-4470-8361}{ORCID})
@@ -31,7 +32,7 @@ Other contributors:
   \item Bronwen Lewis [contributor]
   \item Jesse Patterson [contributor]
   \item Gordon Oliphant [contributor]
-  \item Seb Dalgarno [contributor]
+  \item Seb Dalgarno (\href{https://orcid.org/0000-0002-3658-4517}{ORCID}) [contributor]
   \item Simon Norris [contributor]
   \item Allan Irvine [contributor]
   \item Poisson Consulting [copyright holder, funder]
