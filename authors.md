@@ -4,7 +4,7 @@
 
 - **[Evan
   Amies-Galonski](https://www.poissonconsulting.ca/author/evan-amies-galonski/)**.
-  Author, maintainer. [](https://orcid.org/0000-0003-1096-2089)
+  Author. [](https://orcid.org/0000-0003-1096-2089)
 
 - **[Joe
   Thorley](https://www.poissonconsulting.ca/author/joe-thorley/)**.
@@ -13,6 +13,10 @@
 - **[Nadine
   Hussein](https://www.poissonconsulting.ca/author/nadine-hussein/)**.
   Author. [](https://orcid.org/0000-0003-4470-8361)
+
+- **[Sarah
+  Lyons](https://www.poissonconsulting.ca/author/sarah-lyons/)**.
+  Author, maintainer. [](https://orcid.org/0000-0002-6745-6796)
 
 - **Bronwen Lewis**. Contributor.
 
@@ -38,13 +42,13 @@
 Source:
 [`DESCRIPTION`](https://github.com/poissonconsulting/fishbc/blob/main/DESCRIPTION)
 
-Amies-Galonski E, Thorley J, Hussein N (2026). *fishbc: Fishes of
-British Columbia*. R package version 0.2.1.9000,
+Amies-Galonski E, Thorley J, Hussein N, Lyons S (2026). *fishbc: Fishes
+of British Columbia*. R package version 0.2.1.9000,
 <https://github.com/poissonconsulting/fishbc>.
 
     @Manual{,
       title = {fishbc: Fishes of British Columbia},
-      author = {Evan Amies-Galonski and Joe Thorley and Nadine Hussein},
+      author = {Evan Amies-Galonski and Joe Thorley and Nadine Hussein and Sarah Lyons},
       year = {2026},
       note = {R package version 0.2.1.9000},
       url = {https://github.com/poissonconsulting/fishbc},

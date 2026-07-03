@@ -14,10 +14,13 @@ Useful links:
 
 ## Author
 
-**Maintainer**: Evan Amies-Galonski <evanamiesgalonski@gmail.com>
-([ORCID](https://orcid.org/0000-0003-1096-2089))
+**Maintainer**: Sarah Lyons <sarah@poissonconsulting.ca>
+([ORCID](https://orcid.org/0000-0002-6745-6796))
 
 Authors:
+
+- Sarah Lyons <sarah@poissonconsulting.ca>
+  ([ORCID](https://orcid.org/0000-0002-6745-6796))
 
 - Evan Amies-Galonski <evanamiesgalonski@gmail.com>
   ([ORCID](https://orcid.org/0000-0003-1096-2089))
@@ -36,7 +39,8 @@ Other contributors:
 
 - Gordon Oliphant \[contributor\]
 
-- Seb Dalgarno \[contributor\]
+- Seb Dalgarno ([ORCID](https://orcid.org/0000-0002-3658-4517))
+  \[contributor\]
 
 - Simon Norris \[contributor\]
 
