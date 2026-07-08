@@ -7,11 +7,6 @@
 - Add CODEOWNERS assigning @SarahLy9
 
 
-# fishbc 0.2.1
-
-- Internal changes only.
-
-
 # fishbc 0.2.0
 
 - Alberta fish codes added to freshwater fish data.
