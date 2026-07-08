@@ -1,5 +1,11 @@
 # Changelog
 
+## fishbc 0.3.0
+
+- Update Evan Amies-Galonski email to personal address
+- Add/correct author ORCID(s) in DESCRIPTION
+- Add CODEOWNERS assigning [@SarahLy9](https://github.com/SarahLy9)
+
 ## fishbc 0.2.1.9000
 
 - Same as previous version.
