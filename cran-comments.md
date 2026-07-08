@@ -1,13 +1,19 @@
 ## Test environments
 
-release 4.0.5
+release 4.6.1
 
 * OSX (local) - release
 * OSX (actions) - release
-* Ubuntu (actions) - 3.4 to 3.6, oldrel, release and devel
+* Ubuntu (actions) - 4.5.3 to 4.6.1, oldrel, release and devel
 * Windows (actions) - release
 * Windows (winbuilder) - devel
 
 ## R CMD check results
 
 0 errors | 0 warnings | 0 notes
+
+## Notes
+
+New maintainer: Sarah Lyons Sarah@poissonconsulting.ca 
+Old maintainer: Evan Amies-Galonski, the email address Evan@poissonconsulting.ca is no longer active, Evan can be reached at evanamiesgalonski@gmail.com
+
