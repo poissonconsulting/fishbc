@@ -7,11 +7,6 @@
 - Add CODEOWNERS assigning @SarahLy9
 
 
-# fishbc 0.2.1.9000
-
-- Same as previous version.
-
-
 # fishbc 0.2.1
 
 - Internal changes only.
