@@ -6,12 +6,6 @@
 - Add/correct author ORCID(s) in DESCRIPTION
 - Add CODEOWNERS assigning [@SarahLy9](https://github.com/SarahLy9)
 
-## fishbc 0.2.1
-
-CRAN release: 2021-05-12
-
-- Internal changes only.
-
 ## fishbc 0.2.0
 
 CRAN release: 2021-02-18
