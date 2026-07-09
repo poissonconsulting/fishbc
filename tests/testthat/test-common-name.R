@@ -4,6 +4,8 @@ test_that("common_name", {
   expect_error(fbc_common_name(factor("AF")))
   expect_identical(fbc_common_name("AF"), "All Fish")
   expect_identical(fbc_common_name("A"), NA_character_)
-  expect_identical(fbc_common_name(c("AF", "WSG", NA, "AF", "NOTACODE")),
-                   c("All Fish", "White Sturgeon", NA, "All Fish", NA))
+  expect_identical(
+    fbc_common_name(c("AF", "WSG", NA, "AF", "NOTACODE")),
+    c("All Fish", "White Sturgeon", NA, "All Fish", NA)
+  )
 })
