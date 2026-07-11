@@ -1,6 +1,6 @@
 Package: fishbc
 Title: Fishes of British Columbia
-Version: 0.3.0
+Version: 0.2.2
 Authors@R: c(
     person("Evan", "Amies-Galonski", , "evanamiesgalonski@gmail.com", role = "aut",
            comment = c(ORCID = "0000-0003-1096-2089")),
@@ -8,7 +8,7 @@ Authors@R: c(
            comment = c(ORCID = "0000-0002-7683-4592")),
     person("Nadine", "Hussein", , "nadine@poissonconsulting.ca", role = "aut",
            comment = c(ORCID = "0000-0003-4470-8361")),
-    person("Sarah", "Lyons", , "sarah@poissonconsulting.ca", role = c("aut", "cre"),
+    person("Sarah", "Lyons", , "sarah@poissonconsulting.ca", role = c("cre"),
            comment = c(ORCID = "0000-0002-6745-6796")),
     person("Bronwen", "Lewis", role = "ctb"),
     person("Jesse", "Patterson", role = "ctb"),
@@ -31,6 +31,7 @@ Depends:
 Suggests: 
     chk,
     covr,
+    spelling,
     testthat (>= 3.0.0),
     tibble
 Config/Needs/website: poissonconsulting/poissontemplate

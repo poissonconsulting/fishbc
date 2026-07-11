@@ -16,3 +16,4 @@
 ^\.ccache$
 ^[.]?air[.]toml$
 ^\.vscode$
+^CRAN-SUBMISSION$
