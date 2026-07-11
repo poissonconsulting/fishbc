@@ -16,7 +16,7 @@
 
 - **[Sarah
   Lyons](https://www.poissonconsulting.ca/author/sarah-lyons/)**.
-  Author, maintainer. [](https://orcid.org/0000-0002-6745-6796)
+  Maintainer. [](https://orcid.org/0000-0002-6745-6796)
 
 - **Bronwen Lewis**. Contributor.
 
@@ -42,13 +42,13 @@
 Source:
 [`DESCRIPTION`](https://github.com/poissonconsulting/fishbc/blob/main/DESCRIPTION)
 
-Amies-Galonski E, Thorley J, Hussein N, Lyons S (2026). *fishbc: Fishes
-of British Columbia*. R package version 0.2.2,
+Amies-Galonski E, Thorley J, Hussein N (2026). *fishbc: Fishes of
+British Columbia*. R package version 0.2.2,
 <https://github.com/poissonconsulting/fishbc>.
 
     @Manual{,
       title = {fishbc: Fishes of British Columbia},
-      author = {Evan Amies-Galonski and Joe Thorley and Nadine Hussein and Sarah Lyons},
+      author = {Evan Amies-Galonski and Joe Thorley and Nadine Hussein},
       year = {2026},
       note = {R package version 0.2.2},
       url = {https://github.com/poissonconsulting/fishbc},
