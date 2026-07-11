@@ -12,8 +12,7 @@ release 4.6.1
 
 0 errors | 0 warnings | 0 notes
 
-## Notes
+## Updates
 
 New maintainer: Sarah Lyons Sarah@poissonconsulting.ca 
 Old maintainer: Evan Amies-Galonski, the email address Evan@poissonconsulting.ca is no longer active, Evan can be reached at evanamiesgalonski@gmail.com
-
