@@ -29,7 +29,7 @@ head(ab)
 \references{
 AB Fisheries and Wildlife Management Information System (FWMIS). 2021.
 AB Environ. and Parks Edmonton, AB
-Available: \url{https://www.alberta.ca/fisheries-loadforms.aspx}
+Available: \url{https://www.alberta.ca/fisheries-loadforms}
 (accessed Feb 9, 2021).
 }
 \seealso{

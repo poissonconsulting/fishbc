@@ -8,7 +8,7 @@
 [![Lifecycle:
 stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![R-CMD-check](https://github.com/poissonconsulting/fishbc/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/poissonconsulting/fishbc/actions/workflows/R-CMD-check.yaml)
-[![codecov](https://codecov.io/gh/poissonconsulting/fishbc/branch/master/graph/badge.svg?token=2EvrLVvDcZ)](https://codecov.io/gh/poissonconsulting/fishbc)
+[![codecov](https://app.codecov.io/gh/poissonconsulting/fishbc/branch/master/graph/badge.svg?token=2EvrLVvDcZ)](https://app.codecov.io/gh/poissonconsulting/fishbc)
 [![License:
 CCBY4](https://img.shields.io/badge/License-CCBY4-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![CRAN
@@ -26,7 +26,7 @@ Government of Alberta.
 
 It contains information licensed under the [Open Government Licence –
 British
-Columbia](https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc)
+Columbia](https://www2.gov.bc.ca/gov/content/data/policy-standards/data-policies/open-data/open-government-licence-bc)
 and the [Open Government Licence -
 Alberta](https://open.alberta.ca/licence)
 
