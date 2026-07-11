@@ -1,6 +1,6 @@
 # Changelog
 
-## fishbc 0.3.0
+## fishbc 0.2.2
 
 - Update Evan Amies-Galonski email to personal address
 - Add/correct author ORCID(s) in DESCRIPTION
