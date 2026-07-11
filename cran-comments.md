@@ -4,7 +4,7 @@ release 4.6.1
 
 * OSX (local) - release
 * OSX (actions) - release
-* Ubuntu (actions) - 4.5.3 to 4.6.1, oldrel, release and devel
+* Ubuntu (actions) - oldrel, release and devel
 * Windows (actions) - release
 * Windows (winbuilder) - devel
 
