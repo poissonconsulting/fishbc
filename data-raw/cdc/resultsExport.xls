@@ -1,0 +1,14452 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+<head>
+<base href="https://a100.gov.bc.ca/pub/eswp/jsp/resultsExport.jsp"><title>BC Species and Ecosystems Explorer Search Results Export</title>
+
+<style type="text/css">
+    br {mso-data-placement:same-cell;}
+    ol {mso-data-placement:same-cell;}
+    li {mso-data-placement:same-cell;}
+    p	{mso-data-placement:same-cell;}
+</style>
+
+</head>
+<body>
+
+<table>
+<thead>
+<tr>
+<th>Element Code</th>
+<th>Scientific Name</th>
+<th>English Name</th>
+<th>Biogeoclimatic Units</th>
+<th>Provincial</th>
+<th>BC List</th>
+<th>Global</th>
+<th>COSEWIC</th>
+<th>SARA</th>
+<th>Provincial FRPA</th>
+<th>Land Use Objectives</th>
+<th>CDC Mapped Locations - Public</th>
+<th>CDC Mapped Locations - Confidential</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G21020">AFC4G21020</a></td>
+<td>
+<i>Acantholiparis caecus</i></td>
+<td>
+Fanged Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G21010">AFC4G21010</a></td>
+<td>
+<i>Acantholiparis opercularis</i></td>
+<td>
+Spiny Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCAA01030">AFCAA01030</a></td>
+<td>
+<i>Acipenser medirostris</i></td>
+<td>
+Green Sturgeon</td>
+<td>
+CDF; CWH</td>
+<td>
+S2S3N (2019)</td>
+<td>
+Blue</td>
+<td>
+G2 (2022)</td>
+<td>
+SC</td>
+<td>
+1-SC (2006)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCAA01050">AFCAA01050</a></td>
+<td>
+<i>Acipenser transmontanus</i></td>
+<td>
+White Sturgeon</td>
+<td>
+BG; CDF; CWH; ICH; IDF; MS; PP; SBS</td>
+<td>
+S2 (2018)</td>
+<td>
+No Status</td>
+<td>
+G4 (2024)</td>
+<td>
+E/T</td>
+<td>
+1-E</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCAA01051">AFCAA01051</a></td>
+<td>
+<i>Acipenser transmontanus</i> pop. 1</td>
+<td>
+White Sturgeon (Upper Kootenay River Population)</td>
+<td>
+ICH</td>
+<td>
+S1 (2018)</td>
+<td>
+Red</td>
+<td>
+G4T1Q (2006)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCAA01052">AFCAA01052</a></td>
+<td>
+<i>Acipenser transmontanus</i> pop. 2</td>
+<td>
+White Sturgeon (Upper Columbia River Population)</td>
+<td>
+ICH</td>
+<td>
+S1 (2018)</td>
+<td>
+Red</td>
+<td>
+G4T3T4Q (2024)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCAA01054">AFCAA01054</a></td>
+<td>
+<i>Acipenser transmontanus</i> pop. 4</td>
+<td>
+White Sturgeon (Lower Fraser River Population)</td>
+<td>
+CDF; CWH; IDF</td>
+<td>
+S1S2 (2018)</td>
+<td>
+Red</td>
+<td>
+G4T2Q (2002)</td>
+<td>
+T</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCAA01055">AFCAA01055</a></td>
+<td>
+<i>Acipenser transmontanus</i> pop. 5</td>
+<td>
+White Sturgeon (Upper Fraser River Population)</td>
+<td>
+ICH; SBS</td>
+<td>
+S2 (2018)</td>
+<td>
+Red</td>
+<td>
+G4T1Q (2001)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB01010">AFCJB01010</a></td>
+<td>
+<i>Acrocheilus alutaceus</i></td>
+<td>
+Chiselmouth</td>
+<td>
+ </td>
+<td>
+S4 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2011)</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F02020">AFC4F02020</a></td>
+<td>
+<i>Agonopsis vulsa</i></td>
+<td>
+Northern Spearnose Poacher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMC05010">AFCMC05010</a></td>
+<td>
+<i>Albatrossia pectoralis</i></td>
+<td>
+Giant Grenadier</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC8E01020">AFC8E01020</a></td>
+<td>
+<i>Alepisaurus ferox</i></td>
+<td>
+Longnose Lancetfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHH02010">AFCHH02010</a></td>
+<td>
+<i>Alepocephalus tenebrosus</i></td>
+<td>
+California Slickhead</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC1D01010">AFC1D01010</a></td>
+<td>
+<i>Allocyttus folletti</i></td>
+<td>
+Oxeye Oreo</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC04010">AFCSC04010</a></td>
+<td>
+<i>Allolumpenus hypochromus</i></td>
+<td>
+Y-prickleback</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHB05010">AFCHB05010</a></td>
+<td>
+<i>Allosmerus elongatus</i></td>
+<td>
+Whitebait Smelt</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDDC01020">AFDDC01020</a></td>
+<td>
+<i>Alopias vulpinus</i></td>
+<td>
+Thresher Shark</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCFA01060">AFCFA01060</a></td>
+<td>
+<i>Alosa sapidissima</i></td>
+<td>
+American Shad</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDFD01180">AFDFD01180</a></td>
+<td>
+<i>Amblyraja badia</i></td>
+<td>
+Broad Skate</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCKA06030">AFCKA06030</a></td>
+<td>
+<i>Ameiurus melas</i></td>
+<td>
+Black Bullhead</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCKA06040">AFCKA06040</a></td>
+<td>
+<i>Ameiurus natalis</i></td>
+<td>
+Yellow Bullhead</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (2011)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCKA06050">AFCKA06050</a></td>
+<td>
+<i>Ameiurus nebulosus</i></td>
+<td>
+Brown Bullhead</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS601030">AFCS601030</a></td>
+<td>
+<i>Ammodytes hexapterus</i></td>
+<td>
+Pacific Sand Lance</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQK03030">AFCQK03030</a></td>
+<td>
+<i>Amphistichus rhodoterus</i></td>
+<td>
+Redtail Surfperch</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSD02010">AFCSD02010</a></td>
+<td>
+<i>Anarrhichthys ocellatus</i></td>
+<td>
+Wolf-eel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F05010">AFC4F05010</a></td>
+<td>
+<i>Anoplagonus inermis</i></td>
+<td>
+Smooth Alligatorfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC05010">AFCSC05010</a></td>
+<td>
+<i>Anoplarchus insignis</i></td>
+<td>
+Slender Cockscomb</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC05020">AFCSC05020</a></td>
+<td>
+<i>Anoplarchus purpurescens</i></td>
+<td>
+High Cockscomb</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCZD02010">AFCZD02010</a></td>
+<td>
+<i>Anoplogaster cornuta</i></td>
+<td>
+Longhorn Fangtooth</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4C01010">AFC4C01010</a></td>
+<td>
+<i>Anoplopoma fimbria</i></td>
+<td>
+Sablefish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC8F01020">AFC8F01020</a></td>
+<td>
+<i>Anotopterus nikparini</i></td>
+<td>
+North Pacific Daggertooth</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMH01020">AFCMH01020</a></td>
+<td>
+<i>Antimora microlepis</i></td>
+<td>
+Pacific Flatnose</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS211010">AFCS211010</a></td>
+<td>
+<i>Aphanopus carbo</i></td>
+<td>
+Black Scabbardfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQR03020">AFCQR03020</a></td>
+<td>
+<i>Apodichthys flavidus</i></td>
+<td>
+Penpoint Gunnel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQR03010">AFCQR03010</a></td>
+<td>
+<i>Apodichthys fucorum</i></td>
+<td>
+Rockweed Gunnel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDDF01010">AFDDF01010</a></td>
+<td>
+<i>Apristurus brunneus</i></td>
+<td>
+Brown Cat Shark</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+DD</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G08010">AFC4G08010</a></td>
+<td>
+<i>Aptocyclus ventricosus</i></td>
+<td>
+Smooth Lumpsucker</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC8D02010">AFC8D02010</a></td>
+<td>
+<i>Arctozenus risso</i></td>
+<td>
+White Barracudina</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC7C01020">AFC7C01020</a></td>
+<td>
+<i>Argyropelecus sladeni</i></td>
+<td>
+Lowcrest Hatchetfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2009)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC7B04010">AFC7B04010</a></td>
+<td>
+<i>Aristostomias scintillans</i></td>
+<td>
+Shining Loosejaw</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E23020">AFC4E23020</a></td>
+<td>
+<i>Artedius fenestralis</i></td>
+<td>
+Padded Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E23030">AFC4E23030</a></td>
+<td>
+<i>Artedius harringtoni</i></td>
+<td>
+Scalyhead Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E23040">AFC4E23040</a></td>
+<td>
+<i>Artedius lateralis</i></td>
+<td>
+Smoothhead Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E24010">AFC4E24010</a></td>
+<td>
+<i>Ascelichthys rhodorus</i></td>
+<td>
+Rosylip Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E25010">AFC4E25010</a></td>
+<td>
+<i>Asemichthys taylori</i></td>
+<td>
+Spinynose Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+DD</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB19020">AFCTB19020</a></td>
+<td>
+<i>Atheresthes stomias</i></td>
+<td>
+Arrowtooth</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCND04010">AFCND04010</a></td>
+<td>
+<i>Atherinops affinis</i></td>
+<td>
+Topsmelt</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQH10010">AFCQH10010</a></td>
+<td>
+<i>Atractoscion nobilis</i></td>
+<td>
+White Seabass</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA05010">AFCPA05010</a></td>
+<td>
+<i>Aulorhynchus flavidus</i></td>
+<td>
+Tube-snout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCEJ02010">AFCEJ02010</a></td>
+<td>
+<i>Avocettina infans</i></td>
+<td>
+Closespine Snipe Eel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC3B03020">AFC3B03020</a></td>
+<td>
+<i>Balistes polylepis</i></td>
+<td>
+Finescale Triggerfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC9B02010">AFC9B02010</a></td>
+<td>
+<i>Barbourisia rufa</i></td>
+<td>
+Velvet Whalefish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC7B05010">AFC7B05010</a></td>
+<td>
+<i>Bathophilus flemingi</i></td>
+<td>
+Highfin Dragonfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F06010">AFC4F06010</a></td>
+<td>
+<i>Bathyagonus alascanus</i></td>
+<td>
+Gray Starsnout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F06020">AFC4F06020</a></td>
+<td>
+<i>Bathyagonus infraspinatus</i></td>
+<td>
+Spinycheek Starsnout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F06030">AFC4F06030</a></td>
+<td>
+<i>Bathyagonus nigripinnis</i></td>
+<td>
+Blackfin Poacher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F06040">AFC4F06040</a></td>
+<td>
+<i>Bathyagonus pentacanthus</i></td>
+<td>
+Bigeye Poacher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHF02020">AFCHF02020</a></td>
+<td>
+<i>Bathylagus pacificus</i></td>
+<td>
+Slender Blacksmelt</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHG02010">AFCHG02010</a></td>
+<td>
+<i>Bathylychnops exilis</i></td>
+<td>
+Javelin Spookfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCRY01010">AFCRY01010</a></td>
+<td>
+<i>Bathymaster caeruleofasciatus</i></td>
+<td>
+Alaskan Ronquil</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCRY01020">AFCRY01020</a></td>
+<td>
+<i>Bathymaster signatus</i></td>
+<td>
+Searcher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDFD02080">AFDFD02080</a></td>
+<td>
+<i>Bathyraja abyssicola</i></td>
+<td>
+Abyssal Skate</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDFD02010">AFDFD02010</a></td>
+<td>
+<i>Bathyraja aleutica</i></td>
+<td>
+Aleutian Skate</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDFD02030">AFDFD02030</a></td>
+<td>
+<i>Bathyraja interrupta</i></td>
+<td>
+Sandpaper Skate</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDFD02140">AFDFD02140</a></td>
+<td>
+<i>Bathyraja minispinosa</i></td>
+<td>
+Whitebrow Skate</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2008)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDFD02040">AFDFD02040</a></td>
+<td>
+<i>Bathyraja parmifera</i></td>
+<td>
+Alaska Skate</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDFD02060">AFDFD02060</a></td>
+<td>
+<i>Bathyraja trachura</i></td>
+<td>
+Roughtail Skate</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC8G01010">AFC8G01010</a></td>
+<td>
+<i>Benthalbella dentata</i></td>
+<td>
+Northern Pearleye</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC8G01020">AFC8G01020</a></td>
+<td>
+<i>Benthalbella linguidens</i></td>
+<td>
+Longfin Pearleye</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS202020">AFCS202020</a></td>
+<td>
+<i>Benthodesmus pacificus</i></td>
+<td>
+Frostfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS202040">AFCS202040</a></td>
+<td>
+<i>Benthodesmus tenuis</i></td>
+<td>
+Javelinfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E26010">AFC4E26010</a></td>
+<td>
+<i>Blepsias bilobus</i></td>
+<td>
+Crested Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E26020">AFC4E26020</a></td>
+<td>
+<i>Blepsias cirrhosus</i></td>
+<td>
+Silverspotted Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F07010">AFC4F07010</a></td>
+<td>
+<i>Bothragonus swanii</i></td>
+<td>
+Rockhead</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS802020">AFCS802020</a></td>
+<td>
+<i>Bothrocara brunneum</i></td>
+<td>
+Twoline Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS802030">AFCS802030</a></td>
+<td>
+<i>Bothrocara molle</i></td>
+<td>
+Soft Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG02010">AFCMG02010</a></td>
+<td>
+<i>Bothrocara pusillum</i></td>
+<td>
+Alaska Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQK04010">AFCQK04010</a></td>
+<td>
+<i>Brachyistius frenatus</i></td>
+<td>
+Kelp Perch</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCRH01040">AFCRH01040</a></td>
+<td>
+<i>Brama japonica</i></td>
+<td>
+Pacific Pomfret</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCME01010">AFCME01010</a></td>
+<td>
+<i>Brosmophycis marginata</i></td>
+<td>
+Red Brotula</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC06020">AFCSC06020</a></td>
+<td>
+<i>Bryozoichthys marjorius</i></td>
+<td>
+Pearly Prickleback</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB04010">AFCJB04010</a></td>
+<td>
+<i>Carassius auratus</i></td>
+<td>
+Goldfish</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (1996)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDDE01010">AFDDE01010</a></td>
+<td>
+<i>Carcharodon carcharias</i></td>
+<td>
+White Shark</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G2 (2014)</td>
+<td>
+DD</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G09150">AFC4G09150</a></td>
+<td>
+<i>Careproctus cypselurus</i></td>
+<td>
+Falcate Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G09070">AFC4G09070</a></td>
+<td>
+<i>Careproctus gilberti</i></td>
+<td>
+Longfin Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G09020">AFC4G09020</a></td>
+<td>
+<i>Careproctus melanurus</i></td>
+<td>
+Blacktail Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G09120">AFC4G09120</a></td>
+<td>
+<i>Careproctus oregonensis</i></td>
+<td>
+Smallfin Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G09130">AFC4G09130</a></td>
+<td>
+<i>Careproctus ovigerum</i></td>
+<td>
+Abyssal Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQ101010">AFCQ101010</a></td>
+<td>
+<i>Caristius macropus</i></td>
+<td>
+Manefish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJC02310">AFCJC02310</a></td>
+<td>
+<i>Catostomus bondi</i></td>
+<td>
+Cordilleran Sucker</td>
+<td>
+BG; CWH; IDF; PP</td>
+<td>
+S3? (2019)</td>
+<td>
+Blue</td>
+<td>
+GNR</td>
+<td>
+T</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJC02030">AFCJC02030</a></td>
+<td>
+<i>Catostomus catostomus</i></td>
+<td>
+Longnose Sucker</td>
+<td>
+ </td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJC02050">AFCJC02050</a></td>
+<td>
+<i>Catostomus columbianus</i></td>
+<td>
+Bridgelip Sucker</td>
+<td>
+ </td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJC02060">AFCJC02060</a></td>
+<td>
+<i>Catostomus commersonii</i></td>
+<td>
+White Sucker</td>
+<td>
+ </td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJC02280">AFCJC02280</a></td>
+<td>
+<i>Catostomus macrocheilus</i></td>
+<td>
+Largescale Sucker</td>
+<td>
+ </td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJC02260">AFCJC02260</a></td>
+<td>
+<i>Catostomus</i> sp. 4</td>
+<td>
+Salish Sucker</td>
+<td>
+CWH</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G1 (2011)</td>
+<td>
+E</td>
+<td>
+1-T (2005)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCRE01050">AFCRE01050</a></td>
+<td>
+<i>Caulolatilus princeps</i></td>
+<td>
+Ocean Whitefish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCYE02010">AFCYE02010</a></td>
+<td>
+<i>Ceratias holboelli</i></td>
+<td>
+Deepsea Angler</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCVH01010">AFCVH01010</a></td>
+<td>
+<i>Ceratoscopelus townsendi</i></td>
+<td>
+Dogtooth Lanternfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDDD01010">AFDDD01010</a></td>
+<td>
+<i>Cetorhinus maximus</i></td>
+<td>
+Basking Shark</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G2G3 (2014)</td>
+<td>
+E</td>
+<td>
+1-E (2010)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCYH01010">AFCYH01010</a></td>
+<td>
+<i>Chaenophryne melanorhabdus</i></td>
+<td>
+Smooth Dreamer</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC7B01010">AFC7B01010</a></td>
+<td>
+<i>Chauliodus macouni</i></td>
+<td>
+Pacific Viperfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F09030">AFC4F09030</a></td>
+<td>
+<i>Chesnonia verrucosa</i></td>
+<td>
+Warty Poacher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC08020">AFCSC08020</a></td>
+<td>
+<i>Chirolophis decoratus</i></td>
+<td>
+Decorated Warbonnet</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC08030">AFCSC08030</a></td>
+<td>
+<i>Chirolophis nugator</i></td>
+<td>
+Mosshead Warbonnet</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC08040">AFCSC08040</a></td>
+<td>
+<i>Chirolophis tarsodes</i></td>
+<td>
+Matcheek Warbonnet</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E27010">AFC4E27010</a></td>
+<td>
+<i>Chitonotus pugetensis</i></td>
+<td>
+Roughback Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB31020">AFCJB31020</a></td>
+<td>
+<i>Chrosomus eos</i></td>
+<td>
+Northern Redbelly Dace</td>
+<td>
+ </td>
+<td>
+S4 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB31X10">AFCJB31X10</a></td>
+<td>
+<i>Chrosomus eos</i> x <i>Chrosomus neogaeus</i></td>
+<td>
+Northern Redbelly Dace X Finescale Dace</td>
+<td>
+BWBS</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+GNA (2002)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB31040">AFCJB31040</a></td>
+<td>
+<i>Chrosomus neogaeus</i></td>
+<td>
+Finescale Dace</td>
+<td>
+ </td>
+<td>
+S4S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTA01080">AFCTA01080</a></td>
+<td>
+<i>Citharichthys sordidus</i></td>
+<td>
+Pacific Sanddab</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTA01090">AFCTA01090</a></td>
+<td>
+<i>Citharichthys stigmaeus</i></td>
+<td>
+Speckled Sanddab</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQN03010">AFCQN03010</a></td>
+<td>
+<i>Clevelandia ios</i></td>
+<td>
+Arrow Goby</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (1996)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB23010">AFCTB23010</a></td>
+<td>
+<i>Clidoderma asperrimum</i></td>
+<td>
+Roughscale Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E01010">AFC4E01010</a></td>
+<td>
+<i>Clinocottus acuticeps</i></td>
+<td>
+Sharpnose Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (1997)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E01030">AFC4E01030</a></td>
+<td>
+<i>Clinocottus embryum</i></td>
+<td>
+Calico Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E01040">AFC4E01040</a></td>
+<td>
+<i>Clinocottus globiceps</i></td>
+<td>
+Mosshead Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCFA07030">AFCFA07030</a></td>
+<td>
+<i>Clupea pallasii</i></td>
+<td>
+Pacific Herring</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCNF01010">AFCNF01010</a></td>
+<td>
+<i>Cololabis saira</i></td>
+<td>
+Pacific Saury</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA01020">AFCHA01020</a></td>
+<td>
+<i>Coregonus artedi</i></td>
+<td>
+Cisco</td>
+<td>
+BWBS</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA01030">AFCHA01030</a></td>
+<td>
+<i>Coregonus autumnalis</i></td>
+<td>
+Arctic Cisco</td>
+<td>
+BWBS</td>
+<td>
+S1S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G5 (2011)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA01040">AFCHA01040</a></td>
+<td>
+<i>Coregonus clupeaformis</i></td>
+<td>
+Lake Whitefish</td>
+<td>
+ </td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA01090">AFCHA01090</a></td>
+<td>
+<i>Coregonus nasus</i></td>
+<td>
+Broad Whitefish</td>
+<td>
+BWBS</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA01130">AFCHA01130</a></td>
+<td>
+<i>Coregonus sardinella</i></td>
+<td>
+Least Cisco</td>
+<td>
+BWBS</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMC06010">AFCMC06010</a></td>
+<td>
+<i>Coryphaenoides acrolepis</i></td>
+<td>
+Roughscale Grenadier</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMC06020">AFCMC06020</a></td>
+<td>
+<i>Coryphaenoides armatus</i></td>
+<td>
+Russet Grenadier</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMC06030">AFCMC06030</a></td>
+<td>
+<i>Coryphaenoides cinereus</i></td>
+<td>
+Popeye</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMC06040">AFCMC06040</a></td>
+<td>
+<i>Coryphaenoides filifer</i></td>
+<td>
+Filamented Rattail</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMC06050">AFCMC06050</a></td>
+<td>
+<i>Coryphaenoides leptolepis</i></td>
+<td>
+Ghostly Grenadier</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMC06080">AFCMC06080</a></td>
+<td>
+<i>Coryphaenoides yaquinae</i></td>
+<td>
+Rough Abyssal Grendier</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E02010">AFC4E02010</a></td>
+<td>
+<i>Cottus aleuticus</i></td>
+<td>
+Coastrange Sculpin</td>
+<td>
+ </td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E02270">AFC4E02270</a></td>
+<td>
+<i>Cottus aleuticus</i> pop. 1</td>
+<td>
+Coastrange Sculpin, Cultus Population</td>
+<td>
+CWH</td>
+<td>
+S1S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G5T1T2Q (2010)</td>
+<td>
+E</td>
+<td>
+1-T (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E02020">AFC4E02020</a></td>
+<td>
+<i>Cottus asper</i></td>
+<td>
+Prickly Sculpin</td>
+<td>
+ </td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E02080">AFC4E02080</a></td>
+<td>
+<i>Cottus cognatus</i></td>
+<td>
+Slimy Sculpin</td>
+<td>
+ </td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E02090">AFC4E02090</a></td>
+<td>
+<i>Cottus confusus</i></td>
+<td>
+Shorthead Sculpin</td>
+<td>
+ICH; IDF</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G5 (2011)</td>
+<td>
+SC</td>
+<td>
+1-SC</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E02053">AFC4E02053</a></td>
+<td>
+<i>Cottus hubbsi</i></td>
+<td>
+Columbia Sculpin</td>
+<td>
+BG; ICH; IDF; PP</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G4Q (2011)</td>
+<td>
+SC</td>
+<td>
+1-SC (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E02220">AFC4E02220</a></td>
+<td>
+<i>Cottus rhotheus</i></td>
+<td>
+Torrent Sculpin</td>
+<td>
+ </td>
+<td>
+S4S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E02230">AFC4E02230</a></td>
+<td>
+<i>Cottus ricei</i></td>
+<td>
+Spoonhead Sculpin</td>
+<td>
+ </td>
+<td>
+S4 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E02380">AFC4E02380</a></td>
+<td>
+<i>Cottus </i>sp. 9</td>
+<td>
+Rocky Mountain Sculpin</td>
+<td>
+ </td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+GNRT3T4Q (2021)</td>
+<td>
+SC</td>
+<td>
+1-SC (2017)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB06010">AFCJB06010</a></td>
+<td>
+<i>Couesius plumbeus</i></td>
+<td>
+Lake Chub</td>
+<td>
+BG; BWBS; CDF; CWH; ESSF; ICH; IDF; MH; MS; PP; SBPS; SBS; SWB</td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+DD</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB06012">AFCJB06012</a></td>
+<td>
+<i>Couesius plumbeus</i> pop. 2</td>
+<td>
+Lake Chub - Liard Hot Springs Populations</td>
+<td>
+BWBS</td>
+<td>
+S1S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G5TNRQ</td>
+<td>
+T</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB06013">AFCJB06013</a></td>
+<td>
+<i>Couesius plumbeus</i> pop. 3</td>
+<td>
+Lake Chub - Atlin Warm Springs Populations</td>
+<td>
+BWBS; SWB</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G5TNRQ</td>
+<td>
+T</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSF01020">AFCSF01020</a></td>
+<td>
+<i>Cryptacanthodes aleutensis</i></td>
+<td>
+Dwarf Wrymouth</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSF01030">AFCSF01030</a></td>
+<td>
+<i>Cryptacanthodes giganteus</i></td>
+<td>
+Giant Wrymouth</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA02010">AFCPA02010</a></td>
+<td>
+<i>Culaea inconstans</i></td>
+<td>
+Brook Stickleback</td>
+<td>
+ </td>
+<td>
+S5 (2018)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC7A01020">AFC7A01020</a></td>
+<td>
+<i>Cyclothone atraria</i></td>
+<td>
+Yellow Bristlemouth</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC7A01030">AFC7A01030</a></td>
+<td>
+<i>Cyclothone pallida</i></td>
+<td>
+Tan Bristlemouth</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC7A01040">AFC7A01040</a></td>
+<td>
+<i>Cyclothone pseudopallida</i></td>
+<td>
+Slender Bristlemouth</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC7A01050">AFC7A01050</a></td>
+<td>
+<i>Cyclothone signata</i></td>
+<td>
+Showy Bristlemouth</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQK01010">AFCQK01010</a></td>
+<td>
+<i>Cymatogaster aggregata</i></td>
+<td>
+Shiner Perch</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB08010">AFCJB08010</a></td>
+<td>
+<i>Cyprinus carpio</i></td>
+<td>
+Common Carp</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (1996)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC7D03010">AFC7D03010</a></td>
+<td>
+<i>Danaphos oculatus</i></td>
+<td>
+Bottlelight</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E28010">AFC4E28010</a></td>
+<td>
+<i>Dasycottus setiger</i></td>
+<td>
+Spinyhead Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS812010">AFCS812010</a></td>
+<td>
+<i>Derepodichthys alepidotus</i></td>
+<td>
+Cuskpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCVH02010">AFCVH02010</a></td>
+<td>
+<i>Diaphus theta</i></td>
+<td>
+California Headlightfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G10070">AFC4G10070</a></td>
+<td>
+<i>Elassodiscus caudatus</i></td>
+<td>
+Humpback Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB03010">AFCTB03010</a></td>
+<td>
+<i>Embassichthys bathybius</i></td>
+<td>
+Deepsea Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQK05020">AFCQK05020</a></td>
+<td>
+<i>Embiotoca lateralis</i></td>
+<td>
+Striped Seaperch</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCFB04020">AFCFB04020</a></td>
+<td>
+<i>Engraulis mordax</i></td>
+<td>
+Northern Anchovy</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E29010">AFC4E29010</a></td>
+<td>
+<i>Enophrys bison</i></td>
+<td>
+Buffalo Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E29030">AFC4E29030</a></td>
+<td>
+<i>Enophrys lucasi</i></td>
+<td>
+Leister Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFBAA02120">AFBAA02120</a></td>
+<td>
+<i>Entosphenus macrostomus</i></td>
+<td>
+Cowichan Lake Lamprey</td>
+<td>
+CWH</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G2 (2019)</td>
+<td>
+T</td>
+<td>
+1-T (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFBAA02100">AFBAA02100</a></td>
+<td>
+<i>Entosphenus tridentatus</i></td>
+<td>
+Pacific Lamprey</td>
+<td>
+ </td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G4 (2012)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB04010">AFCTB04010</a></td>
+<td>
+<i>Eopsetta jordani</i></td>
+<td>
+Petrale Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFABA01010">AFABA01010</a></td>
+<td>
+<i>Eptatretus deani</i></td>
+<td>
+Black Hagfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFABA01020">AFABA01020</a></td>
+<td>
+<i>Eptatretus stoutii</i></td>
+<td>
+Pacific Hagfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4C02010">AFC4C02010</a></td>
+<td>
+<i>Erilepis zonifer</i></td>
+<td>
+Skilfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHD01020">AFCHD01020</a></td>
+<td>
+<i>Esox lucius</i></td>
+<td>
+Northern Pike</td>
+<td>
+ </td>
+<td>
+S5 (2004)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G13030">AFC4G13030</a></td>
+<td>
+<i>Eumicrotremus orbis</i></td>
+<td>
+Pacific Spiny Lumpsucker</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMA08010">AFCMA08010</a></td>
+<td>
+<i>Gadus macrocephalus</i></td>
+<td>
+Pacific Cod</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDDG02030">AFDDG02030</a></td>
+<td>
+<i>Galeorhinus galeus</i></td>
+<td>
+Soupfin Shark</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+SC</td>
+<td>
+1-SC (2009)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03010">AFCPA03010</a></td>
+<td>
+<i>Gasterosteus aculeatus</i></td>
+<td>
+Threespine Stickleback</td>
+<td>
+ </td>
+<td>
+S5 (2018)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03014">AFCPA03014</a></td>
+<td>
+<i>Gasterosteus aculeatus</i> pop. 1</td>
+<td>
+Charlotte Unarmoured Threespine Stickleback</td>
+<td>
+CWH</td>
+<td>
+S1S2 (2018)</td>
+<td>
+Red</td>
+<td>
+G5T1T2Q (2019)</td>
+<td>
+E</td>
+<td>
+1-SC (2019)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03016">AFCPA03016</a></td>
+<td>
+<i>Gasterosteus aculeatus</i> pop. 2</td>
+<td>
+Little Quarry Lake Benthic Threespine Stickleback</td>
+<td>
+CWHxm</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G5TNRQ</td>
+<td>
+T</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03017">AFCPA03017</a></td>
+<td>
+<i>Gasterosteus aculeatus</i> pop. 3</td>
+<td>
+Little Quarry Limnetic Threespine Stickleback</td>
+<td>
+CWHxm</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G5TNRQ</td>
+<td>
+T</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03X10">AFCPA03X10</a></td>
+<td>
+<i>Gasterosteus</i> sp. 1</td>
+<td>
+Giant Threespine Stickleback</td>
+<td>
+CWH</td>
+<td>
+S1S2 (2018)</td>
+<td>
+Red</td>
+<td>
+G1G2 (2019)</td>
+<td>
+SC</td>
+<td>
+1-SC (2019)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03140">AFCPA03140</a></td>
+<td>
+<i>Gasterosteus</i> sp. 12</td>
+<td>
+Hadley Lake Limnetic Stickleback</td>
+<td>
+CDF</td>
+<td>
+SX (2018)</td>
+<td>
+Extinct</td>
+<td>
+GX (2018)</td>
+<td>
+XX</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03150">AFCPA03150</a></td>
+<td>
+<i>Gasterosteus</i> sp. 13</td>
+<td>
+Hadley Lake Benthic Stickleback</td>
+<td>
+CDF</td>
+<td>
+SX (2018)</td>
+<td>
+Extinct</td>
+<td>
+GX (2018)</td>
+<td>
+XX</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03180">AFCPA03180</a></td>
+<td>
+<i>Gasterosteus</i> sp. 16</td>
+<td>
+Vananda Creek Limnetic Stickleback</td>
+<td>
+CDF</td>
+<td>
+S1 (2018)</td>
+<td>
+Red</td>
+<td>
+G1 (2018)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+Y</td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03190">AFCPA03190</a></td>
+<td>
+<i>Gasterosteus</i> sp. 17</td>
+<td>
+Vananda Creek Benthic Stickleback</td>
+<td>
+CDF</td>
+<td>
+S1 (2018)</td>
+<td>
+Red</td>
+<td>
+G1 (2018)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+Y</td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03200">AFCPA03200</a></td>
+<td>
+<i>Gasterosteus sp. 18</i></td>
+<td>
+Misty Lake "Lake" Stickleback</td>
+<td>
+CWH</td>
+<td>
+S1 (2018)</td>
+<td>
+Red</td>
+<td>
+G1 (2018)</td>
+<td>
+E</td>
+<td>
+1-E (2010)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03210">AFCPA03210</a></td>
+<td>
+<i>Gasterosteus sp. 19</i></td>
+<td>
+Misty Lake "Stream" Stickleback</td>
+<td>
+CWH</td>
+<td>
+S1 (2018)</td>
+<td>
+Red</td>
+<td>
+G1 (2018)</td>
+<td>
+E</td>
+<td>
+1-E (2010)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03040">AFCPA03040</a></td>
+<td>
+<i>Gasterosteus</i> sp. 2</td>
+<td>
+Enos Lake Limnetic Stickleback</td>
+<td>
+CDF</td>
+<td>
+SX (2018)</td>
+<td>
+Red</td>
+<td>
+GX (2019)</td>
+<td>
+XX</td>
+<td>
+1-E (2005)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03050">AFCPA03050</a></td>
+<td>
+<i>Gasterosteus</i> sp. 3</td>
+<td>
+Enos Lake Benthic Stickleback</td>
+<td>
+CDF</td>
+<td>
+SX (2018)</td>
+<td>
+Red</td>
+<td>
+GX (2019)</td>
+<td>
+XX</td>
+<td>
+1-E (2005)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03060">AFCPA03060</a></td>
+<td>
+<i>Gasterosteus</i> sp. 4</td>
+<td>
+Paxton Lake Limnetic Stickleback</td>
+<td>
+CDF</td>
+<td>
+S1 (2018)</td>
+<td>
+Red</td>
+<td>
+G1 (2018)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA03070">AFCPA03070</a></td>
+<td>
+<i>Gasterosteus</i> sp. 5</td>
+<td>
+Paxton Lake Benthic Stickleback</td>
+<td>
+CDF</td>
+<td>
+S1 (2018)</td>
+<td>
+Red</td>
+<td>
+G1 (2016)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQH13010">AFCQH13010</a></td>
+<td>
+<i>Genyonemus lineatus</i></td>
+<td>
+White Croaker</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQQ08030">AFCQQ08030</a></td>
+<td>
+<i>Gibbonsia metzi</i></td>
+<td>
+Striped Kelpfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQQ08040">AFCQQ08040</a></td>
+<td>
+<i>Gibbonsia montereyensis</i></td>
+<td>
+Crevice Kelpfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB21010">AFCTB21010</a></td>
+<td>
+<i>Glyptocephalus zachirus</i></td>
+<td>
+Rex Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCXA02020">AFCXA02020</a></td>
+<td>
+<i>Gobiesox maeandricus</i></td>
+<td>
+Northern Clingfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E19020">AFC4E19020</a></td>
+<td>
+<i>Gymnocanthus galeatus</i></td>
+<td>
+Armorhead Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC9B01010">AFC9B01010</a></td>
+<td>
+<i>Gyrinomimus grahami</i></td>
+<td>
+Flabby Whalefish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMH04010">AFCMH04010</a></td>
+<td>
+<i>Halargyreus johnsonii</i></td>
+<td>
+Slender Codling</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E31010">AFC4E31010</a></td>
+<td>
+<i>Hemilepidotus hemilepidotus</i></td>
+<td>
+Red Irish Lord</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E31040">AFC4E31040</a></td>
+<td>
+<i>Hemilepidotus spinosus</i></td>
+<td>
+Brown Irish Lord</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E20020">AFC4E20020</a></td>
+<td>
+<i>Hemitripterus bolini</i></td>
+<td>
+Bigmouth Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQQ10010">AFCQQ10010</a></td>
+<td>
+<i>Heterostichus rostratus</i></td>
+<td>
+Giant Kelpfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4D01010">AFC4D01010</a></td>
+<td>
+<i>Hexagrammos decagrammus</i></td>
+<td>
+Kelp Greenling</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4D01020">AFC4D01020</a></td>
+<td>
+<i>Hexagrammos lagocephalus</i></td>
+<td>
+Rock Greenling</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4D01030">AFC4D01030</a></td>
+<td>
+<i>Hexagrammos octogrammus</i></td>
+<td>
+Masked Greenling</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4D01040">AFC4D01040</a></td>
+<td>
+<i>Hexagrammos stelleri</i></td>
+<td>
+Whitespotted Greenling</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDBB01010">AFDBB01010</a></td>
+<td>
+<i>Hexanchus griseus</i></td>
+<td>
+Bluntnose Sixgill Shark</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+SC</td>
+<td>
+1-SC (2009)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCGA01010">AFCGA01010</a></td>
+<td>
+<i>Hiodon alosoides</i></td>
+<td>
+Goldeye</td>
+<td>
+BWBS</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB06010">AFCTB06010</a></td>
+<td>
+<i>Hippoglossoides elassodon</i></td>
+<td>
+Flathead Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB07020">AFCTB07020</a></td>
+<td>
+<i>Hippoglossus stenolepis</i></td>
+<td>
+Pacific Halibut</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHK01020">AFCHK01020</a></td>
+<td>
+<i>Holtbyrnia latifrons</i></td>
+<td>
+Teardrop Tubeshoulder</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB16020">AFCJB16020</a></td>
+<td>
+<i>Hybognathus hankinsoni</i></td>
+<td>
+Brassy Minnow</td>
+<td>
+ </td>
+<td>
+S4 (2011)</td>
+<td>
+No Status</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB16022">AFCJB16022</a></td>
+<td>
+<i>Hybognathus hankinsoni - Pacific group</i></td>
+<td>
+Brassy Minnow - Pacific Group</td>
+<td>
+CDFmm; CWHdm; CWHxm</td>
+<td>
+S2S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G5TNRQ</td>
+<td>
+SC</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB16021">AFCJB16021</a></td>
+<td>
+<i>Hybognathus hankinsoni - western Arctic group</i></td>
+<td>
+Brassy Minnow - Western Arctic Group</td>
+<td>
+ </td>
+<td>
+S3S4 (2012)</td>
+<td>
+Blue</td>
+<td>
+G5TNRQ</td>
+<td>
+SC</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDAA01010">AFDAA01010</a></td>
+<td>
+<i>Hydrolagus colliei</i></td>
+<td>
+Spotted Ratfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQK06020">AFCQK06020</a></td>
+<td>
+<i>Hyperprosopon argenteum</i></td>
+<td>
+Walleye Surfperch</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQK06030">AFCQK06030</a></td>
+<td>
+<i>Hyperprosopon ellipticum</i></td>
+<td>
+Silver Surfperch</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHB01030">AFCHB01030</a></td>
+<td>
+<i>Hypomesus pretiosus</i></td>
+<td>
+Surf Smelt</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (1996)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F01010">AFC4F01010</a></td>
+<td>
+<i>Hypsagonus mozinoi</i></td>
+<td>
+Kelp Poacher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F08010">AFC4F08010</a></td>
+<td>
+<i>Hypsagonus quadricornis</i></td>
+<td>
+Fourhorn Poacher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E32010">AFC4E32010</a></td>
+<td>
+<i>Icelinus borealis</i></td>
+<td>
+Northern Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E32020">AFC4E32020</a></td>
+<td>
+<i>Icelinus burchami</i></td>
+<td>
+Dusky Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E32040">AFC4E32040</a></td>
+<td>
+<i>Icelinus filamentosus</i></td>
+<td>
+Threadfin Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E32050">AFC4E32050</a></td>
+<td>
+<i>Icelinus fimbriatus</i></td>
+<td>
+Fringed Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E32080">AFC4E32080</a></td>
+<td>
+<i>Icelinus tenuis</i></td>
+<td>
+Spotfin Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E21050">AFC4E21050</a></td>
+<td>
+<i>Icelus spiniger</i></td>
+<td>
+Thorny Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC7A04010">AFC7A04010</a></td>
+<td>
+<i>Ichthyococcus elongatus</i></td>
+<td>
+Slim Lightfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS406010">AFCS406010</a></td>
+<td>
+<i>Icichthys lockingtoni</i></td>
+<td>
+Medusafish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSQ01010">AFCSQ01010</a></td>
+<td>
+<i>Icosteus aenigmaticus</i></td>
+<td>
+Ragfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC7B08010">AFC7B08010</a></td>
+<td>
+<i>Idiacanthus antrostomus</i></td>
+<td>
+Pacific Dragonfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB16090">AFCTB16090</a></td>
+<td>
+<i>Isopsetta isolepis</i></td>
+<td>
+Butter Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDDE03010">AFDDE03010</a></td>
+<td>
+<i>Isurus oxyrinchus</i></td>
+<td>
+Shortfin Mako</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E33010">AFC4E33010</a></td>
+<td>
+<i>Jordania zonope</i></td>
+<td>
+Longfin Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS309010">AFCS309010</a></td>
+<td>
+<i>Katsuwonus pelamis</i></td>
+<td>
+Skipjack Tuna</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDDE04010">AFDDE04010</a></td>
+<td>
+<i>Lamna ditropis</i></td>
+<td>
+Salmon Shark</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCVH04030">AFCVH04030</a></td>
+<td>
+<i>Lampanyctus jordani</i></td>
+<td>
+Brokenline Lanternfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFBAA02030">AFBAA02030</a></td>
+<td>
+<i>Lampetra ayresii</i></td>
+<td>
+River Lamprey</td>
+<td>
+ </td>
+<td>
+S5? (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFBAA02180">AFBAA02180</a></td>
+<td>
+<i>Lampetra richardsoni</i></td>
+<td>
+Western Brook Lamprey</td>
+<td>
+ </td>
+<td>
+S4 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G4G5 (2012)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFBAA02092">AFBAA02092</a></td>
+<td>
+<i>Lampetra richardsoni</i> pop. 1</td>
+<td>
+Western Brook Lamprey (Morrison Creek Population)</td>
+<td>
+CWH</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G4G5T1Q (2005)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC2A01010">AFC2A01010</a></td>
+<td>
+<i>Lampris guttatus</i></td>
+<td>
+Opah</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQN21010">AFCQN21010</a></td>
+<td>
+<i>Lepidogobius lepidus</i></td>
+<td>
+Bay Goby</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB16080">AFCTB16080</a></td>
+<td>
+<i>Lepidopsetta bilineata</i></td>
+<td>
+Rock Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB24010">AFCTB24010</a></td>
+<td>
+<i>Lepidopsetta polyxystra</i></td>
+<td>
+Northern Rock Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQB11030">AFCQB11030</a></td>
+<td>
+<i>Lepomis gibbosus</i></td>
+<td>
+Pumpkinseed</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQB11060">AFCQB11060</a></td>
+<td>
+<i>Lepomis macrochirus</i></td>
+<td>
+Bluegill</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F14010">AFC4F14010</a></td>
+<td>
+<i>Leptagonus frenatus</i></td>
+<td>
+Sawback Poacher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC12030">AFCSC12030</a></td>
+<td>
+<i>Leptoclinus maculatus</i></td>
+<td>
+Daubed Shanny</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E03010">AFC4E03010</a></td>
+<td>
+<i>Leptocottus armatus</i></td>
+<td>
+Pacific Staghorn Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC8D03010">AFC8D03010</a></td>
+<td>
+<i>Lestidiops ringens</i></td>
+<td>
+Slender Barracudina</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHF01020">AFCHF01020</a></td>
+<td>
+<i>Leuroglossus schmidti</i></td>
+<td>
+Northern Smoothtongue</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHF01010">AFCHF01010</a></td>
+<td>
+<i>Leuroglossus stilbius</i></td>
+<td>
+California Smoothtongue</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB16020">AFCTB16020</a></td>
+<td>
+<i>Limanda aspera</i></td>
+<td>
+Yellowfin Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G07020">AFC4G07020</a></td>
+<td>
+<i>Liparis callyodon</i></td>
+<td>
+Spotted Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G07040">AFC4G07040</a></td>
+<td>
+<i>Liparis cyclopus</i></td>
+<td>
+Ribbon Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G07060">AFC4G07060</a></td>
+<td>
+<i>Liparis dennyi</i></td>
+<td>
+Marbled Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G07070">AFC4G07070</a></td>
+<td>
+<i>Liparis florae</i></td>
+<td>
+Tidepool Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G07080">AFC4G07080</a></td>
+<td>
+<i>Liparis fucensis</i></td>
+<td>
+Slipskin Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G07050">AFC4G07050</a></td>
+<td>
+<i>Liparis gibbus</i></td>
+<td>
+Varigated Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G07180">AFC4G07180</a></td>
+<td>
+<i>Liparis greeni</i></td>
+<td>
+Lobefin Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G07130">AFC4G07130</a></td>
+<td>
+<i>Liparis mucosus</i></td>
+<td>
+Slimy Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G07140">AFC4G07140</a></td>
+<td>
+<i>Liparis pulchellus</i></td>
+<td>
+Showy Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G07150">AFC4G07150</a></td>
+<td>
+<i>Liparis rutteri</i></td>
+<td>
+Ringtail Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G20010">AFC4G20010</a></td>
+<td>
+<i>Lipariscus nanus</i></td>
+<td>
+Pygmy Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHF03010">AFCHF03010</a></td>
+<td>
+<i>Lipolagus ochotensis</i></td>
+<td>
+Popeye Blacksmelt</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMA01010">AFCMA01010</a></td>
+<td>
+<i>Lota lota</i></td>
+<td>
+Burbot</td>
+<td>
+ </td>
+<td>
+S4S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMA01011">AFCMA01011</a></td>
+<td>
+<i>Lota lota</i> pop. 1</td>
+<td>
+Burbot (Lower Kootenay Population)</td>
+<td>
+ICH</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G5T1Q (2001)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC11010">AFCSC11010</a></td>
+<td>
+<i>Lumpenella longirostris</i></td>
+<td>
+Longsnout Prickleback</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC12050">AFCSC12050</a></td>
+<td>
+<i>Lumpenus sagitta</i></td>
+<td>
+Snake Prickleback</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSN01010">AFCSN01010</a></td>
+<td>
+<i>Luvarus imperialis</i></td>
+<td>
+Louvar</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG04040">AFCMG04040</a></td>
+<td>
+<i>Lycenchelys camchatica</i></td>
+<td>
+Kamchatka Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG04020">AFCMG04020</a></td>
+<td>
+<i>Lycenchelys crotalinus</i></td>
+<td>
+Snakehead Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG04030">AFCMG04030</a></td>
+<td>
+<i>Lycenchelys jordani</i></td>
+<td>
+Shortjaw Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG04050">AFCMG04050</a></td>
+<td>
+<i>Lycenchelys micropora</i></td>
+<td>
+Manytoothed Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG05060">AFCMG05060</a></td>
+<td>
+<i>Lycodapus dermatinus</i></td>
+<td>
+Looseskin Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG05040">AFCMG05040</a></td>
+<td>
+<i>Lycodapus endemoscotus</i></td>
+<td>
+Deepwater Slipskin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG05010">AFCMG05010</a></td>
+<td>
+<i>Lycodapus fierasfer</i></td>
+<td>
+Blackmouth Slipskin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG05020">AFCMG05020</a></td>
+<td>
+<i>Lycodapus mandibularis</i></td>
+<td>
+Pallid Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG05050">AFCMG05050</a></td>
+<td>
+<i>Lycodapus pachysoma</i></td>
+<td>
+Stout Slipskin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG05030">AFCMG05030</a></td>
+<td>
+<i>Lycodapus parviceps</i></td>
+<td>
+Smallhead Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS805040">AFCS805040</a></td>
+<td>
+<i>Lycodapus psarostomatus</i></td>
+<td>
+Specklemouth Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS806010">AFCS806010</a></td>
+<td>
+<i>Lycodes brevipes</i></td>
+<td>
+Shortfin Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS806160">AFCS806160</a></td>
+<td>
+<i>Lycodes cortezianus</i></td>
+<td>
+Bigfin Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS806020">AFCS806020</a></td>
+<td>
+<i>Lycodes diapterus</i></td>
+<td>
+Black Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG07010">AFCMG07010</a></td>
+<td>
+<i>Lycodes pacificus</i></td>
+<td>
+Blackbelly Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS806050">AFCS806050</a></td>
+<td>
+<i>Lycodes palearis</i></td>
+<td>
+Wattled Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB04020">AFCTB04020</a></td>
+<td>
+<i>Lyopsetta exilis</i></td>
+<td>
+Slender Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHG01010">AFCHG01010</a></td>
+<td>
+<i>Macropinna microstoma</i></td>
+<td>
+Barreleye</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC8D01010">AFC8D01010</a></td>
+<td>
+<i>Magnisudis atlantica</i></td>
+<td>
+Duckbill Barracudina</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E36010">AFC4E36010</a></td>
+<td>
+<i>Malacocottus kincaidi</i></td>
+<td>
+Blackfin Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E36020">AFC4E36020</a></td>
+<td>
+<i>Malacocottus zonurus</i></td>
+<td>
+Darkfin Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHB06010">AFCHB06010</a></td>
+<td>
+<i>Mallotus villosus</i></td>
+<td>
+Capelin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2008)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB54020">AFCJB54020</a></td>
+<td>
+<i>Margariscus nachtriebi</i></td>
+<td>
+Pearl Dace</td>
+<td>
+ </td>
+<td>
+S4 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHK02010">AFCHK02010</a></td>
+<td>
+<i>Maulisia argipalla</i></td>
+<td>
+Pitted Tubeshoulder</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCRN04010">AFCRN04010</a></td>
+<td>
+<i>Medialuna californiensis</i></td>
+<td>
+Halfmoon</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC9C01010">AFC9C01010</a></td>
+<td>
+<i>Melamphaes lugubris</i></td>
+<td>
+Highsnout Ridgehead</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMJ01010">AFCMJ01010</a></td>
+<td>
+<i>Melanonus zugmayeri</i></td>
+<td>
+Arrowtail</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS811020">AFCS811020</a></td>
+<td>
+<i>Melanostigma pammelas</i></td>
+<td>
+Pacific Soft Pout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMA10020">AFCMA10020</a></td>
+<td>
+<i>Merluccius productus</i></td>
+<td>
+Pacific Hake</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMA02020">AFCMA02020</a></td>
+<td>
+<i>Microgadus proximus</i></td>
+<td>
+Pacific Tomcod</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQB12020">AFCQB12020</a></td>
+<td>
+<i>Micropterus dolomieu</i></td>
+<td>
+Smallmouth Bass</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQB12050">AFCQB12050</a></td>
+<td>
+<i>Micropterus salmoides</i></td>
+<td>
+Largemouth Bass</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB14010">AFCTB14010</a></td>
+<td>
+<i>Microstomus pacificus</i></td>
+<td>
+Dover Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJD01010">AFCJD01010</a></td>
+<td>
+<i>Misgurnus anguillicaudatus</i></td>
+<td>
+Oriental Weatherfish</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (1996)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC3F01020">AFC3F01020</a></td>
+<td>
+<i>Mola mola</i></td>
+<td>
+Ocean Sunfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC3F01030">AFC3F01030</a></td>
+<td>
+<i>Mola tecta</i></td>
+<td>
+Hoodwinker Sunfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB24010">AFCJB24010</a></td>
+<td>
+<i>Mylocheilus caurinus</i></td>
+<td>
+Peamouth</td>
+<td>
+ </td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E04070">AFC4E04070</a></td>
+<td>
+<i>Myoxocephalus polyacanthocephalus</i></td>
+<td>
+Great Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E04100">AFC4E04100</a></td>
+<td>
+<i>Myoxocephalus scorpius</i></td>
+<td>
+Shorthorn Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCVH04010">AFCVH04010</a></td>
+<td>
+<i>Nannobrachium regale</i></td>
+<td>
+Pinpoint Lanternfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCVH13010">AFCVH13010</a></td>
+<td>
+<i>Nannobrachium ritteri</i></td>
+<td>
+Broadfin Lanternfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHJ01010">AFCHJ01010</a></td>
+<td>
+<i>Nansenia candida</i></td>
+<td>
+Bluethroat Argentine</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQZ07010">AFCQZ07010</a></td>
+<td>
+<i>Naucrates ductor</i></td>
+<td>
+Pilotfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E05010">AFC4E05010</a></td>
+<td>
+<i>Nautichthys oculofasciatus</i></td>
+<td>
+Sailfin Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E05030">AFC4E05030</a></td>
+<td>
+<i>Nautichthys robustus</i></td>
+<td>
+Shortmast Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G14010">AFC4G14010</a></td>
+<td>
+<i>Nectoliparis pelagicus</i></td>
+<td>
+Tadpole Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCEJ01010">AFCEJ01010</a></td>
+<td>
+<i>Nemichthys scolopaceus</i></td>
+<td>
+Slender Snipe Eel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCVJ01010">AFCVJ01010</a></td>
+<td>
+<i>Neoscopelus macrolepidotus</i></td>
+<td>
+Glowingfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMC02030">AFCMC02030</a></td>
+<td>
+<i>Nezumia stelgidolepis</i></td>
+<td>
+California Grenadier</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCUA01010">AFCUA01010</a></td>
+<td>
+<i>Notacanthus chemnitzii</i></td>
+<td>
+Largescale Tapirfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDBB02010">AFDBB02010</a></td>
+<td>
+<i>Notorynchus cepedianus</i></td>
+<td>
+Broadnose Sevengill Shark</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCVH05040">AFCVH05040</a></td>
+<td>
+<i>Notoscopelus japonicus</i></td>
+<td>
+Spiny Lanternfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB28120">AFCJB28120</a></td>
+<td>
+<i>Notropis atherinoides</i></td>
+<td>
+Emerald Shiner</td>
+<td>
+ </td>
+<td>
+SU (2019)</td>
+<td>
+Unknown</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB28550">AFCJB28550</a></td>
+<td>
+<i>Notropis hudsonius</i></td>
+<td>
+Spottail Shiner</td>
+<td>
+BWBS</td>
+<td>
+S1S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F10010">AFC4F10010</a></td>
+<td>
+<i>Odontopyxis trispinosa</i></td>
+<td>
+Pygmy Poacher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E06010">AFC4E06010</a></td>
+<td>
+<i>Oligocottus maculosus</i></td>
+<td>
+Tidepool Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E06020">AFC4E06020</a></td>
+<td>
+<i>Oligocottus rimensis</i></td>
+<td>
+Saddleback Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E06040">AFC4E06040</a></td>
+<td>
+<i>Oligocottus snyderi</i></td>
+<td>
+Fluffy Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA02080">AFCHA02080</a></td>
+<td>
+<i>Oncorhynchus clarkii</i></td>
+<td>
+Cutthroat Trout</td>
+<td>
+ </td>
+<td>
+S4 (2000)</td>
+<td>
+No Status</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0208A">AFCHA0208A</a></td>
+<td>
+<i>Oncorhynchus clarkii clarkii</i></td>
+<td>
+Cutthroat Trout, <i>clarkii</i> subspecies</td>
+<td>
+BWBS; CDF; CWH; ICH; SBS</td>
+<td>
+S3S4 (2004)</td>
+<td>
+Blue</td>
+<td>
+G5T4 (1997)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA02088">AFCHA02088</a></td>
+<td>
+<i>Oncorhynchus clarkii lewisi</i></td>
+<td>
+Cutthroat Trout, <i>lewisi</i> subspecies</td>
+<td>
+BWBS; ESSF; ICH; IDF; MS; SBS</td>
+<td>
+S2S3 (2018)</td>
+<td>
+Blue</td>
+<td>
+G5T4 (2013)</td>
+<td>
+SC</td>
+<td>
+1-SC (2010)</td>
+<td>
+Y</td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA02010">AFCHA02010</a></td>
+<td>
+<i>Oncorhynchus gorbuscha</i></td>
+<td>
+Pink Salmon</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA02020">AFCHA02020</a></td>
+<td>
+<i>Oncorhynchus keta</i></td>
+<td>
+Chum Salmon</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA02030">AFCHA02030</a></td>
+<td>
+<i>Oncorhynchus kisutch</i></td>
+<td>
+Coho Salmon</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA02037">AFCHA02037</a></td>
+<td>
+<i>Oncorhynchus kisutch</i> pop. 7</td>
+<td>
+Coho Salmon (Interior Fraser Population)</td>
+<td>
+ </td>
+<td>
+SNR (2016)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+T</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA02090">AFCHA02090</a></td>
+<td>
+<i>Oncorhynchus mykiss</i></td>
+<td>
+Rainbow Trout/Steelhead</td>
+<td>
+ </td>
+<td>
+S5 (2011)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2022)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0213E">AFCHA0213E</a></td>
+<td>
+<i>Oncorhynchus mykiss - coastal lineage</i></td>
+<td>
+Rainbow Trout/Steelhead - Coastal Lineage</td>
+<td>
+ </td>
+<td>
+SNR (2010)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5T3Q (2009)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0213D">AFCHA0213D</a></td>
+<td>
+<i>Oncorhynchus mykiss - interior lineage</i></td>
+<td>
+Rainbow Trout/Steelhead - Interior Lineage</td>
+<td>
+ </td>
+<td>
+SNR (2010)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5T3Q (2009)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0213F">AFCHA0213F</a></td>
+<td>
+<i>Oncorhynchus mykiss - large lake piscivore ecotype</i></td>
+<td>
+Rainbow Trout - Large Lake Piscivore Ecotype</td>
+<td>
+ </td>
+<td>
+S4 (2012)</td>
+<td>
+Yellow</td>
+<td>
+G5TNRQ</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0213M">AFCHA0213M</a></td>
+<td>
+<i>Oncorhynchus mykiss</i> pop. 46</td>
+<td>
+Steelhead Trout - Thompson River Population</td>
+<td>
+ </td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G5TNRQ</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0213N">AFCHA0213N</a></td>
+<td>
+<i>Oncorhynchus mykiss</i> pop. 47</td>
+<td>
+Steelhead Trout - Chilcotin River Population</td>
+<td>
+ </td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G5TNRQ</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA02040">AFCHA02040</a></td>
+<td>
+<i>Oncorhynchus nerka</i></td>
+<td>
+Sockeye Salmon</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2022)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204B">AFCHA0204B</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 10</td>
+<td>
+Sockeye Salmon - Bowron-ES Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204C">AFCHA0204C</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 11</td>
+<td>
+Sockeye Salmon - Chilliwack-ES Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204D">AFCHA0204D</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 12</td>
+<td>
+Sockeye Salmon - Francois-Fraser-S Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+SC</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204E">AFCHA0204E</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 13</td>
+<td>
+Sockeye Salmon - Nadina-Francois-ES Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204F">AFCHA0204F</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 14</td>
+<td>
+Sockeye Salmon - Harrison (D/S)-L Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+SC</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204G">AFCHA0204G</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 15</td>
+<td>
+Sockeye Salmon - Harrison (U/S)-L Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204H">AFCHA0204H</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 16</td>
+<td>
+Sockeye Salmon - Kamloops-ES Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+SC</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204J">AFCHA0204J</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 17</td>
+<td>
+Sockeye Salmon - Lillooet-Harrison-L Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+SC</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204K">AFCHA0204K</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 18</td>
+<td>
+Sockeye Salmon - Nahatlatch-ES Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+SC</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204L">AFCHA0204L</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 19</td>
+<td>
+Sockeye Salmon - North Barriere-ES Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+T</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204M">AFCHA0204M</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 20</td>
+<td>
+Sockeye Salmon - Pitt-ES Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204N">AFCHA0204N</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 21</td>
+<td>
+Sockeye Salmon - Quesnel-S Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204P">AFCHA0204P</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 22</td>
+<td>
+Sockeye Salmon - Seton-L Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204Q">AFCHA0204Q</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 23</td>
+<td>
+Sockeye Salmon - Shuswap Complex-L Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204R">AFCHA0204R</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 24</td>
+<td>
+Sockeye Salmon - Shuswap-ES Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204S">AFCHA0204S</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 25</td>
+<td>
+Sockeye Salmon - Takla-Trembleur-EStu Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204T">AFCHA0204T</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 26</td>
+<td>
+Sockeye Salmon - Takla-Trembleur-Stuart-S Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204U">AFCHA0204U</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 27</td>
+<td>
+Sockeye Salmon - Taseko-ES Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204V">AFCHA0204V</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 28</td>
+<td>
+Sockeye Salmon - Harrison River (River-Type) Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204W">AFCHA0204W</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 29</td>
+<td>
+Sockeye Salmon - Widgeon (River-Type) Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+T</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA02048">AFCHA02048</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 7</td>
+<td>
+Sockeye Salmon - Cultus Lake Population</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5T1Q (2005)</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA02049">AFCHA02049</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 8</td>
+<td>
+Sockeye Salmon - Sakinaw Lake Population</td>
+<td>
+ </td>
+<td>
+S1 (2020)</td>
+<td>
+No Status</td>
+<td>
+G5T1Q (2005)</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0204A">AFCHA0204A</a></td>
+<td>
+<i>Oncorhynchus nerka</i> pop. 9</td>
+<td>
+Sockeye Salmon - Anderson-Seton-ES Population</td>
+<td>
+ </td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA02050">AFCHA02050</a></td>
+<td>
+<i>Oncorhynchus tshawytscha</i></td>
+<td>
+Chinook Salmon</td>
+<td>
+BAFA; BG; BWBS; CDF; CWH; ESSF; ICH; IDF; MH; MS; PP; SBPS; SBS; SWB</td>
+<td>
+SNR (2019)</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+E/T/SC/DD/NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCYH02010">AFCYH02010</a></td>
+<td>
+<i>Oneirodes bulbosus</i></td>
+<td>
+Bulbous Dreamer</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCYH02020">AFCYH02020</a></td>
+<td>
+<i>Oneirodes thompsoni</i></td>
+<td>
+Alaska Dreamer</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4D02010">AFC4D02010</a></td>
+<td>
+<i>Ophiodon elongatus</i></td>
+<td>
+Lingcod</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC7B07010">AFC7B07010</a></td>
+<td>
+<i>Opostomias mitsuii</i></td>
+<td>
+Pitgum Lanternfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHB02040">AFCHB02040</a></td>
+<td>
+<i>Osmerus dentex</i></td>
+<td>
+Rainbow Smelt</td>
+<td>
+ </td>
+<td>
+SU (2019)</td>
+<td>
+Unknown</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G22010">AFC4G22010</a></td>
+<td>
+<i>Osteodiscus cascadiae</i></td>
+<td>
+Bigtail Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4D03010">AFC4D03010</a></td>
+<td>
+<i>Oxylebius pictus</i></td>
+<td>
+Painted Greenling</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG03010">AFCMG03010</a></td>
+<td>
+<i>Pachycara bulbiceps</i></td>
+<td>
+Abyssal Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG03020">AFCMG03020</a></td>
+<td>
+<i>Pachycara gymninium</i></td>
+<td>
+Nakedneck Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG03030">AFCMG03030</a></td>
+<td>
+<i>Pachycara lepinium</i></td>
+<td>
+Scalyneck Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F11010">AFC4F11010</a></td>
+<td>
+<i>Pallasina barbata</i></td>
+<td>
+Tubenose Poacher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G15040">AFC4G15040</a></td>
+<td>
+<i>Paraliparis cephalus</i></td>
+<td>
+Swellhead Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G15010">AFC4G15010</a></td>
+<td>
+<i>Paraliparis deani</i></td>
+<td>
+Prickly Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G15050">AFC4G15050</a></td>
+<td>
+<i>Paraliparis latifrons</i></td>
+<td>
+Bigpored Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G15080">AFC4G15080</a></td>
+<td>
+<i>Paraliparis melanobranchus</i></td>
+<td>
+Phantom Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G15060">AFC4G15060</a></td>
+<td>
+<i>Paraliparis paucidens</i></td>
+<td>
+Toothless Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G15070">AFC4G15070</a></td>
+<td>
+<i>Paraliparis rosaceus</i></td>
+<td>
+Pink Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E08010">AFC4E08010</a></td>
+<td>
+<i>Paricelinus hopliticus</i></td>
+<td>
+Thornback Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB16100">AFCTB16100</a></td>
+<td>
+<i>Parophrys vetulus</i></td>
+<td>
+English Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS401030">AFCS401030</a></td>
+<td>
+<i>Peprilus simillimus</i></td>
+<td>
+Pacific Pompano</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQC03010">AFCQC03010</a></td>
+<td>
+<i>Perca flavescens</i></td>
+<td>
+Yellow Perch</td>
+<td>
+ </td>
+<td>
+SU (2019)</td>
+<td>
+Unknown</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCLC01010">AFCLC01010</a></td>
+<td>
+<i>Percopsis omiscomaycus</i></td>
+<td>
+Trout-perch</td>
+<td>
+ </td>
+<td>
+S4S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQK09020">AFCQK09020</a></td>
+<td>
+<i>Phanerodon furcatus</i></td>
+<td>
+White Seaperch</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQR01020">AFCQR01020</a></td>
+<td>
+<i>Pholis clemensi</i></td>
+<td>
+Longfin Gunnel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQR01070">AFCQR01070</a></td>
+<td>
+<i>Pholis laeta</i></td>
+<td>
+Crescent Gunnel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2008)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQR01010">AFCQR01010</a></td>
+<td>
+<i>Pholis ornata</i></td>
+<td>
+Saddleback Gunnel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQR01090">AFCQR01090</a></td>
+<td>
+<i>Pholis schultzi</i></td>
+<td>
+Red Gunnel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC13010">AFCSC13010</a></td>
+<td>
+<i>Phytichthys chirus</i></td>
+<td>
+Ribbon Prickleback</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB32020">AFCJB32020</a></td>
+<td>
+<i>Pimephales promelas</i></td>
+<td>
+Fathead Minnow</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB01010">AFCTB01010</a></td>
+<td>
+<i>Platichthys stellatus</i></td>
+<td>
+Starry Flounder</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB57010">AFCJB57010</a></td>
+<td>
+<i>Platygobio gracilis</i></td>
+<td>
+Flathead Chub</td>
+<td>
+ </td>
+<td>
+S4 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC15010">AFCSC15010</a></td>
+<td>
+<i>Plectobranchus evides</i></td>
+<td>
+Bluebarred Prickleback</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4D04010">AFC4D04010</a></td>
+<td>
+<i>Pleurogrammus monopterygius</i></td>
+<td>
+Atka Mackerel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB17010">AFCTB17010</a></td>
+<td>
+<i>Pleuronichthys coenosus</i></td>
+<td>
+C-O Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB17020">AFCTB17020</a></td>
+<td>
+<i>Pleuronichthys decurrens</i></td>
+<td>
+Curlfin Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F13010">AFC4F13010</a></td>
+<td>
+<i>Podothecus accipenserinus</i></td>
+<td>
+Sturgeon Poacher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCUA02010">AFCUA02010</a></td>
+<td>
+<i>Polyacanthonotus challengeri</i></td>
+<td>
+Longnose Tapirfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQB13020">AFCQB13020</a></td>
+<td>
+<i>Pomoxis nigromaculatus</i></td>
+<td>
+Black Crappie</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCWA02020">AFCWA02020</a></td>
+<td>
+<i>Porichthys notatus</i></td>
+<td>
+Plainfin Midshipman</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC16010">AFCSC16010</a></td>
+<td>
+<i>Poroclinus rothrocki</i></td>
+<td>
+Whitebarred Prickleback</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC9C02010">AFC9C02010</a></td>
+<td>
+<i>Poromitra crassiceps</i></td>
+<td>
+Crested Ridgehead</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDDG05010">AFDDG05010</a></td>
+<td>
+<i>Prionace glauca</i></td>
+<td>
+Blue Shark</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA03020">AFCHA03020</a></td>
+<td>
+<i>Prosopium coulterii</i></td>
+<td>
+Pygmy Whitefish</td>
+<td>
+ </td>
+<td>
+S4 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2008)</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA03021">AFCHA03021</a></td>
+<td>
+<i>Prosopium coulterii </i>pop. 1</td>
+<td>
+Pygmy Whitefish - Southwestern Yukon Beringian Populations</td>
+<td>
+ </td>
+<td>
+S2S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G5TNRQ</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA03023">AFCHA03023</a></td>
+<td>
+<i>Prosopium coulterii</i> pop. 3</td>
+<td>
+Pygmy Whitefish - Pacific Populations</td>
+<td>
+ </td>
+<td>
+S4 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5TNRQ</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA03030">AFCHA03030</a></td>
+<td>
+<i>Prosopium cylindraceum</i></td>
+<td>
+Round Whitefish</td>
+<td>
+ </td>
+<td>
+S4 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA03060">AFCHA03060</a></td>
+<td>
+<i>Prosopium williamsoni</i></td>
+<td>
+Mountain Whitefish</td>
+<td>
+ </td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2022)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCVH06010">AFCVH06010</a></td>
+<td>
+<i>Protomyctophum crockeri</i></td>
+<td>
+California Flashlightfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCVH06020">AFCVH06020</a></td>
+<td>
+<i>Protomyctophum thompsoni</i></td>
+<td>
+Bigeye Flashlightfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB18010">AFCTB18010</a></td>
+<td>
+<i>Psettichthys melanostictus</i></td>
+<td>
+Sand Sole</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHF02010">AFCHF02010</a></td>
+<td>
+<i>Pseudobathylagus milleri</i></td>
+<td>
+Stout Blacksmelt</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCRR01020">AFCRR01020</a></td>
+<td>
+<i>Pseudopentaceros wheeleri</i></td>
+<td>
+North Pacific Pelagic Armorhead</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E10010">AFC4E10010</a></td>
+<td>
+<i>Psychrolutes paradoxus</i></td>
+<td>
+Tadpole Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E10030">AFC4E10030</a></td>
+<td>
+<i>Psychrolutes phrictus</i></td>
+<td>
+Blob Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E10020">AFC4E10020</a></td>
+<td>
+<i>Psychrolutes sigalutes</i></td>
+<td>
+Soft Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDFE01060">AFDFE01060</a></td>
+<td>
+<i>Pteroplatytrygon violacea</i></td>
+<td>
+Pelagic Stingray</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSE01010">AFCSE01010</a></td>
+<td>
+<i>Ptilichthys goodei</i></td>
+<td>
+Quillfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB35030">AFCJB35030</a></td>
+<td>
+<i>Ptychocheilus oregonensis</i></td>
+<td>
+Northern Pikeminnow</td>
+<td>
+ </td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPA04010">AFCPA04010</a></td>
+<td>
+<i>Pungitius pungitius</i></td>
+<td>
+Ninespine Stickleback</td>
+<td>
+ </td>
+<td>
+SU (2018)</td>
+<td>
+Unknown</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E11010">AFC4E11010</a></td>
+<td>
+<i>Radulinus asprellus</i></td>
+<td>
+Slim Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E11020">AFC4E11020</a></td>
+<td>
+<i>Radulinus boleoides</i></td>
+<td>
+Darter Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDFD01020">AFDFD01020</a></td>
+<td>
+<i>Raja binoculata</i></td>
+<td>
+Big Skate</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDFD01120">AFDFD01120</a></td>
+<td>
+<i>Raja rhina</i></td>
+<td>
+Longnose Skate</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTB20010">AFCTB20010</a></td>
+<td>
+<i>Reinhardtius hippoglossoides</i></td>
+<td>
+Greeenland Halibut</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSZ03010">AFCSZ03010</a></td>
+<td>
+<i>Remora australis</i></td>
+<td>
+Whalesucker</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQK10020">AFCQK10020</a></td>
+<td>
+<i>Rhacochilus vacca</i></td>
+<td>
+Pile Perch</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E12010">AFC4E12010</a></td>
+<td>
+<i>Rhamphocottus richardsonii</i></td>
+<td>
+Grunt Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB37020">AFCJB37020</a></td>
+<td>
+<i>Rhinichthys cataractae</i></td>
+<td>
+Longnose Dace</td>
+<td>
+ </td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB37110">AFCJB37110</a></td>
+<td>
+<i>Rhinichthys cataractae - Chehalis lineage</i></td>
+<td>
+Nooksack Dace</td>
+<td>
+CWH</td>
+<td>
+S1 (2019)</td>
+<td>
+Red</td>
+<td>
+G3 (1996)</td>
+<td>
+E</td>
+<td>
+1-E (2003)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB37040">AFCJB37040</a></td>
+<td>
+<i>Rhinichthys falcatus</i></td>
+<td>
+Leopard Dace</td>
+<td>
+ </td>
+<td>
+S5? (2019)</td>
+<td>
+Yellow</td>
+<td>
+G4 (2016)</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB37050">AFCJB37050</a></td>
+<td>
+<i>Rhinichthys osculus</i></td>
+<td>
+Speckled Dace</td>
+<td>
+IDF; PP</td>
+<td>
+S3? (2019)</td>
+<td>
+Blue</td>
+<td>
+G5 (1996)</td>
+<td>
+E</td>
+<td>
+1-E (2009)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB37120">AFCJB37120</a></td>
+<td>
+<i>Rhinichthys umatilla</i></td>
+<td>
+Umatilla Dace</td>
+<td>
+BG; ICH; IDF</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G4 (1992)</td>
+<td>
+T</td>
+<td>
+3 (2005)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQN15060">AFCQN15060</a></td>
+<td>
+<i>Rhinogobiops nicholsii</i></td>
+<td>
+Blackeye Goby</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4G23010">AFC4G23010</a></td>
+<td>
+<i>Rhinoliparis attenuatus</i></td>
+<td>
+Slim Snailfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB39010">AFCJB39010</a></td>
+<td>
+<i>Richardsonius balteatus</i></td>
+<td>
+Redside Shiner</td>
+<td>
+ </td>
+<td>
+S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCXA03020">AFCXA03020</a></td>
+<td>
+<i>Rimicola muscarum</i></td>
+<td>
+Kelp Clingfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCRY03010">AFCRY03010</a></td>
+<td>
+<i>Ronquilus jordani</i></td>
+<td>
+Northern Ronquil</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E40020">AFC4E40020</a></td>
+<td>
+<i>Ruscarius meanyi</i></td>
+<td>
+Puget Sound Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHK03010">AFCHK03010</a></td>
+<td>
+<i>Sagamichthys abei</i></td>
+<td>
+Shining Tubeshoulder</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA04060">AFCHA04060</a></td>
+<td>
+<i>Salmo salar</i></td>
+<td>
+Atlantic Salmon</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA04070">AFCHA04070</a></td>
+<td>
+<i>Salmo trutta</i></td>
+<td>
+Brown Trout</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (1996)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA05020">AFCHA05020</a></td>
+<td>
+<i>Salvelinus confluentus</i></td>
+<td>
+Bull Trout</td>
+<td>
+BG; BWBS; CWH; ESSF; ICH; IDF; MS; PP; SBPS; SBS; SWB</td>
+<td>
+S3S4 (2018)</td>
+<td>
+Blue</td>
+<td>
+G5 (2017)</td>
+<td>
+SC</td>
+<td>
+</td>
+<td>
+Y</td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA05122">AFCHA05122</a></td>
+<td>
+<i>Salvelinus confluentus </i>pop. 10</td>
+<td>
+Bull Trout - Western Arctic Populations</td>
+<td>
+ </td>
+<td>
+S3 (2018)</td>
+<td>
+Blue</td>
+<td>
+G5TNRQ</td>
+<td>
+SC</td>
+<td>
+1-SC (2019)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA05124">AFCHA05124</a></td>
+<td>
+<i>Salvelinus confluentus </i>pop. 12</td>
+<td>
+Bull Trout - Upper Yukon Watershed Populations</td>
+<td>
+ </td>
+<td>
+SU (2018)</td>
+<td>
+No Status</td>
+<td>
+G5TNRQ</td>
+<td>
+DD</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0502N">AFCHA0502N</a></td>
+<td>
+<i>Salvelinus confluentus</i> pop. 26</td>
+<td>
+Bull Trout - Pacific Populations</td>
+<td>
+ </td>
+<td>
+S3S4 (2018)</td>
+<td>
+Blue</td>
+<td>
+G5T3Q (2015)</td>
+<td>
+NAR</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA0502Q">AFCHA0502Q</a></td>
+<td>
+<i>Salvelinus confluentus</i> pop. 28</td>
+<td>
+Bull Trout - South Coast Population</td>
+<td>
+CDF; CWH; MH</td>
+<td>
+S2S3 (2018)</td>
+<td>
+Blue</td>
+<td>
+G5T3Q (2015)</td>
+<td>
+SC</td>
+<td>
+1-SC (2019)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA05030">AFCHA05030</a></td>
+<td>
+<i>Salvelinus fontinalis</i></td>
+<td>
+Brook Trout</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA05040">AFCHA05040</a></td>
+<td>
+<i>Salvelinus malma</i></td>
+<td>
+Dolly Varden</td>
+<td>
+ </td>
+<td>
+S4 (2012)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA05042">AFCHA05042</a></td>
+<td>
+<i>Salvelinus malma - northern lineage</i></td>
+<td>
+Dolly Varden - Northern Lineage</td>
+<td>
+ </td>
+<td>
+S4S5 (2012)</td>
+<td>
+Yellow</td>
+<td>
+G5T4T5Q (2011)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA05041">AFCHA05041</a></td>
+<td>
+<i>Salvelinus malma - southern lineage</i></td>
+<td>
+Dolly Varden - Southern Lineage</td>
+<td>
+ </td>
+<td>
+S4 (2012)</td>
+<td>
+Yellow</td>
+<td>
+G5TNRQ</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA05050">AFCHA05050</a></td>
+<td>
+<i>Salvelinus namaycush</i></td>
+<td>
+Lake Trout</td>
+<td>
+ </td>
+<td>
+S4 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQC05020">AFCQC05020</a></td>
+<td>
+<i>Sander vitreus</i></td>
+<td>
+Walleye</td>
+<td>
+ </td>
+<td>
+S4S5 (2019)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS306010">AFCS306010</a></td>
+<td>
+<i>Sarda chiliensis</i></td>
+<td>
+Pacific Bonito</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCFA10010">AFCFA10010</a></td>
+<td>
+<i>Sardinops sagax</i></td>
+<td>
+Pacific Sardine</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+NAR</td>
+<td>
+3</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS307010">AFCS307010</a></td>
+<td>
+<i>Scomber japonicus</i></td>
+<td>
+Pacific Chub Mackerel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC9C03010">AFC9C03010</a></td>
+<td>
+<i>Scopelogadus mizolepis</i></td>
+<td>
+Flabby Ridgehead</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC8H01010">AFC8H01010</a></td>
+<td>
+<i>Scopelosaurus harryi</i></td>
+<td>
+Scaly Waryfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E13010">AFC4E13010</a></td>
+<td>
+<i>Scorpaenichthys marmoratus</i></td>
+<td>
+Cabezon</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSG01010">AFCSG01010</a></td>
+<td>
+<i>Scytalina cerdale</i></td>
+<td>
+Graveldiver</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06010">AFC4A06010</a></td>
+<td>
+<i>Sebastes aleutianus</i></td>
+<td>
+Rougheye Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+SC</td>
+<td>
+1-SC (2009)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06020">AFC4A06020</a></td>
+<td>
+<i>Sebastes alutus</i></td>
+<td>
+Pacific Ocean Perch</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06040">AFC4A06040</a></td>
+<td>
+<i>Sebastes auriculatus</i></td>
+<td>
+Brown Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06050">AFC4A06050</a></td>
+<td>
+<i>Sebastes aurora</i></td>
+<td>
+Aurora Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06060">AFC4A06060</a></td>
+<td>
+<i>Sebastes babcocki</i></td>
+<td>
+Redbanded Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06070">AFC4A06070</a></td>
+<td>
+<i>Sebastes borealis</i></td>
+<td>
+Shortraker Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06080">AFC4A06080</a></td>
+<td>
+<i>Sebastes brevispinis</i></td>
+<td>
+Silvergray Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06100">AFC4A06100</a></td>
+<td>
+<i>Sebastes caurinus</i></td>
+<td>
+Copper Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06110">AFC4A06110</a></td>
+<td>
+<i>Sebastes chlorostictus</i></td>
+<td>
+Greenspotted Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06130">AFC4A06130</a></td>
+<td>
+<i>Sebastes ciliatus</i></td>
+<td>
+Dark Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06150">AFC4A06150</a></td>
+<td>
+<i>Sebastes crameri</i></td>
+<td>
+Darkblotched Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+SC</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06720">AFC4A06720</a></td>
+<td>
+<i>Sebastes diaconus</i></td>
+<td>
+Deacon Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06170">AFC4A06170</a></td>
+<td>
+<i>Sebastes diploproa</i></td>
+<td>
+Splitnose Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06180">AFC4A06180</a></td>
+<td>
+<i>Sebastes elongatus</i></td>
+<td>
+Greenstriped Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06190">AFC4A06190</a></td>
+<td>
+<i>Sebastes emphaeus</i></td>
+<td>
+Puget Sound Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06210">AFC4A06210</a></td>
+<td>
+<i>Sebastes entomelas</i></td>
+<td>
+Widow Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06240">AFC4A06240</a></td>
+<td>
+<i>Sebastes flavidus</i></td>
+<td>
+Yellowtail Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06260">AFC4A06260</a></td>
+<td>
+<i>Sebastes goodei</i></td>
+<td>
+Chilipepper</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06270">AFC4A06270</a></td>
+<td>
+<i>Sebastes helvomaculatus</i></td>
+<td>
+Rosethorn Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06290">AFC4A06290</a></td>
+<td>
+<i>Sebastes jordani</i></td>
+<td>
+Shortbelly Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06330">AFC4A06330</a></td>
+<td>
+<i>Sebastes maliger</i></td>
+<td>
+Quillback Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+T</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06350">AFC4A06350</a></td>
+<td>
+<i>Sebastes melanops</i></td>
+<td>
+Black Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06370">AFC4A06370</a></td>
+<td>
+<i>Sebastes melanostomus</i></td>
+<td>
+Blackgill Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06390">AFC4A06390</a></td>
+<td>
+<i>Sebastes miniatus</i></td>
+<td>
+Vermilion Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06410">AFC4A06410</a></td>
+<td>
+<i>Sebastes nebulosus</i></td>
+<td>
+China Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06420">AFC4A06420</a></td>
+<td>
+<i>Sebastes nigrocinctus</i></td>
+<td>
+Tiger Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06440">AFC4A06440</a></td>
+<td>
+<i>Sebastes paucispinis</i></td>
+<td>
+Bocaccio</td>
+<td>
+ </td>
+<td>
+SNR (2002)</td>
+<td>
+Not Reviewed</td>
+<td>
+G4 (2003)</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06460">AFC4A06460</a></td>
+<td>
+<i>Sebastes pinniger</i></td>
+<td>
+Canary Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+T</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06470">AFC4A06470</a></td>
+<td>
+<i>Sebastes polyspinis</i></td>
+<td>
+Northern Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06480">AFC4A06480</a></td>
+<td>
+<i>Sebastes proriger</i></td>
+<td>
+Redstripe Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06500">AFC4A06500</a></td>
+<td>
+<i>Sebastes reedi</i></td>
+<td>
+Yellowmouth Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+T</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06530">AFC4A06530</a></td>
+<td>
+<i>Sebastes ruberrimus</i></td>
+<td>
+Yelloweye Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+T</td>
+<td>
+1-SC</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06560">AFC4A06560</a></td>
+<td>
+<i>Sebastes rufus</i></td>
+<td>
+Bank Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06570">AFC4A06570</a></td>
+<td>
+<i>Sebastes saxicola</i></td>
+<td>
+Stripetail Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06700">AFC4A06700</a></td>
+<td>
+<i>Sebastes variabilis</i></td>
+<td>
+Dusky Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06630">AFC4A06630</a></td>
+<td>
+<i>Sebastes variegatus</i></td>
+<td>
+Harlequin Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06640">AFC4A06640</a></td>
+<td>
+<i>Sebastes wilsoni</i></td>
+<td>
+Pygmy Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A06650">AFC4A06650</a></td>
+<td>
+<i>Sebastes zacentrus</i></td>
+<td>
+Sharpchin Rockfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A07010">AFC4A07010</a></td>
+<td>
+<i>Sebastolobus alascanus</i></td>
+<td>
+Shortspine Thornyhead</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4A07020">AFC4A07020</a></td>
+<td>
+<i>Sebastolobus altivelis</i></td>
+<td>
+Longspine Thornyhead</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+SC</td>
+<td>
+1-SC (2009)</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQZ11040">AFCQZ11040</a></td>
+<td>
+<i>Seriola lalandi</i></td>
+<td>
+Yellowtail</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQH16010">AFCQH16010</a></td>
+<td>
+<i>Seriphus politus</i></td>
+<td>
+Queenfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCEK01010">AFCEK01010</a></td>
+<td>
+<i>Serrivomer jesperseni</i></td>
+<td>
+Crossthroat Sawpalate</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDEA06020">AFDEA06020</a></td>
+<td>
+<i>Somniosus pacificus</i></td>
+<td>
+Pacific Sleeper Shark</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMD08010">AFCMD08010</a></td>
+<td>
+<i>Spectrunculus grandis</i></td>
+<td>
+Giant Cusk-eel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQV01010">AFCQV01010</a></td>
+<td>
+<i>Sphyraena argentea</i></td>
+<td>
+Pacific Barracuda</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHB03030">AFCHB03030</a></td>
+<td>
+<i>Spirinchus</i> sp. 1</td>
+<td>
+Pygmy Longfin Smelt</td>
+<td>
+CWH</td>
+<td>
+S2 (2019)</td>
+<td>
+Red</td>
+<td>
+G5T2Q (2019)</td>
+<td>
+DD</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHB03020">AFCHB03020</a></td>
+<td>
+<i>Spirinchus starksi</i></td>
+<td>
+Night Smelt</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHB03010">AFCHB03010</a></td>
+<td>
+<i>Spirinchus thaleichthys</i></td>
+<td>
+Longfin Smelt</td>
+<td>
+CDF; CWH</td>
+<td>
+S3? (2019)</td>
+<td>
+Blue</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDEA07040">AFDEA07040</a></td>
+<td>
+<i>Squalus suckleyi</i></td>
+<td>
+Spiny Dogfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+SC</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F15010">AFC4F15010</a></td>
+<td>
+<i>Stellerina xyosterna</i></td>
+<td>
+Pixie Poacher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCVH07010">AFCVH07010</a></td>
+<td>
+<i>Stenobrachius leucopsarus</i></td>
+<td>
+Northern Lampfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCVH07020">AFCVH07020</a></td>
+<td>
+<i>Stenobrachius nannochir</i></td>
+<td>
+Garnet Lanternfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA06010">AFCHA06010</a></td>
+<td>
+<i>Stenodus leucichthys</i></td>
+<td>
+Inconnu</td>
+<td>
+BWBS; CWH</td>
+<td>
+S3 (2019)</td>
+<td>
+Blue</td>
+<td>
+G5 (2016)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center">Y</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC7C02010">AFC7C02010</a></td>
+<td>
+<i>Sternoptyx pseudobscura</i></td>
+<td>
+Highlight Hatchetface</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC17010">AFCSC17010</a></td>
+<td>
+<i>Stichaeus punctatus</i></td>
+<td>
+Arctic Shanny</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCVH14010">AFCVH14010</a></td>
+<td>
+<i>Symbolophorus californiensis</i></td>
+<td>
+Bigfin Lanternfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCTC04020">AFCTC04020</a></td>
+<td>
+<i>Symphurus atricaudus</i></td>
+<td>
+California Tonguefish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E15010">AFC4E15010</a></td>
+<td>
+<i>Synchirus gilli</i></td>
+<td>
+Manacled Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCPB010D0">AFCPB010D0</a></td>
+<td>
+<i>Syngnathus leptorhynchus</i></td>
+<td>
+Bay Pipefish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC8B02030">AFC8B02030</a></td>
+<td>
+<i>Synodus lucioceps</i></td>
+<td>
+Smallscale Lizardfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC7B02010">AFC7B02010</a></td>
+<td>
+<i>Tactostoma macropus</i></td>
+<td>
+Longfin Dragonfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHH01010">AFCHH01010</a></td>
+<td>
+<i>Talismania bifurcata</i></td>
+<td>
+Threadfin Slickhead</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCRH03010">AFCRH03010</a></td>
+<td>
+<i>Taractes asper</i></td>
+<td>
+Rough Pomfret</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMG06010">AFCMG06010</a></td>
+<td>
+<i>Taranetzella lyoderma</i></td>
+<td>
+Ghostly Eelpout</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2009)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCVH08010">AFCVH08010</a></td>
+<td>
+<i>Tarletonbeania crenularis</i></td>
+<td>
+Blue Lanternfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCVH08020">AFCVH08020</a></td>
+<td>
+<i>Tarletonbeania taylori</i></td>
+<td>
+Taillight Lanternfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS409020">AFCS409020</a></td>
+<td>
+<i>Tetragonurus cuvieri</i></td>
+<td>
+Smalleye Squaretail</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCEC04010">AFCEC04010</a></td>
+<td>
+<i>Thalassenchelys coheni</i></td>
+<td>
+Transparent Eel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHB04010">AFCHB04010</a></td>
+<td>
+<i>Thaleichthys pacificus</i></td>
+<td>
+Eulachon</td>
+<td>
+CWH</td>
+<td>
+S2S3 (2004)</td>
+<td>
+Blue</td>
+<td>
+G5 (2005)</td>
+<td>
+E/T</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHB04011">AFCHB04011</a></td>
+<td>
+<i>Thaleichthys pacificus </i>pop. 1</td>
+<td>
+Eulachon - Central Pacific Coast population</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHB04012">AFCHB04012</a></td>
+<td>
+<i>Thaleichthys pacificus </i>pop. 2</td>
+<td>
+Eulachon - Fraser River Population</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+E</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHB04013">AFCHB04013</a></td>
+<td>
+<i>Thaleichthys pacificus </i>pop. 3</td>
+<td>
+Eulachon - Nass / Skeena Rivers Population</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5TNRQ</td>
+<td>
+SC</td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCMA14010">AFCMA14010</a></td>
+<td>
+<i>Theragra chalcogramma</i></td>
+<td>
+Walleye Pollock</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS308010">AFCS308010</a></td>
+<td>
+<i>Thunnus alalunga</i></td>
+<td>
+Albacore</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCS308060">AFCS308060</a></td>
+<td>
+<i>Thunnus orientalis</i></td>
+<td>
+Pacific Bluefin Tuna</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA07010">AFCHA07010</a></td>
+<td>
+<i>Thymallus arcticus</i></td>
+<td>
+Arctic Grayling</td>
+<td>
+ </td>
+<td>
+S4 (2004)</td>
+<td>
+Yellow</td>
+<td>
+G5 (2015)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA07013">AFCHA07013</a></td>
+<td>
+<i>Thymallus arcticus - Nahanni lineage</i></td>
+<td>
+Arctic Grayling - Nahanni Lineage</td>
+<td>
+ </td>
+<td>
+S3? (2012)</td>
+<td>
+Blue</td>
+<td>
+G5TNRQ</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCHA07014">AFCHA07014</a></td>
+<td>
+<i>Thymallus arcticus - Southern Beringean lineage</i></td>
+<td>
+Arctic Grayling - Southern Beringean lineage</td>
+<td>
+ </td>
+<td>
+S4? (2012)</td>
+<td>
+Yellow</td>
+<td>
+G5TNRQ</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCJB43010">AFCJB43010</a></td>
+<td>
+<i>Tinca tinca</i></td>
+<td>
+Tench</td>
+<td>
+ </td>
+<td>
+SNA (2019)</td>
+<td>
+Exotic</td>
+<td>
+G5 (1996)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFDFB02010">AFDFB02010</a></td>
+<td>
+<i>Torpedo californica</i></td>
+<td>
+Pacific Electric Ray</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC2C02010">AFC2C02010</a></td>
+<td>
+<i>Trachipterus altivelis</i></td>
+<td>
+King-of-the-salmon</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCQZ13020">AFCQZ13020</a></td>
+<td>
+<i>Trachurus symmetricus</i></td>
+<td>
+Jack Mackerel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCRW02010">AFCRW02010</a></td>
+<td>
+<i>Trichodon trichodon</i></td>
+<td>
+Pacific Sandfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E16020">AFC4E16020</a></td>
+<td>
+<i>Triglops macellus</i></td>
+<td>
+Roughspine Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4E16050">AFC4E16050</a></td>
+<td>
+<i>Triglops pingelii</i></td>
+<td>
+Ribbed Sculpin</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F16010">AFC4F16010</a></td>
+<td>
+<i>Xeneretmus latifrons</i></td>
+<td>
+Blacktip Poacher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F16020">AFC4F16020</a></td>
+<td>
+<i>Xeneretmus leiops</i></td>
+<td>
+Smootheye Poacher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4F16040">AFC4F16040</a></td>
+<td>
+<i>Xeneretmus triacanthus</i></td>
+<td>
+Bluespotted Poacher</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCEG09020">AFCEG09020</a></td>
+<td>
+<i>Xenomystax atrarius</i></td>
+<td>
+Twinpored Eel</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSM01010">AFCSM01010</a></td>
+<td>
+<i>Xiphias gladius</i></td>
+<td>
+Swordfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G5 (2017)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC19010">AFCSC19010</a></td>
+<td>
+<i>Xiphister atropurpureus</i></td>
+<td>
+Black Prickleback</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSC19020">AFCSC19020</a></td>
+<td>
+<i>Xiphister mucosus</i></td>
+<td>
+Rock Prickleback</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFC4D05020">AFC4D05020</a></td>
+<td>
+<i>Zaniolepis latipinnis</i></td>
+<td>
+Longspine Combfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+GNR</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>
+<a href="/pub/eswp/reports.do?elcode=AFCSH01010">AFCSH01010</a></td>
+<td>
+<i>Zaprora silenus</i></td>
+<td>
+Prowfish</td>
+<td>
+ </td>
+<td>
+SNR</td>
+<td>
+Not Reviewed</td>
+<td>
+G4G5 (2008)</td>
+<td>
+ </td>
+<td>
+</td>
+<td>
+ </td>
+<td>
+&nbsp;</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+
+</table>
+<table>
+    <tr><td>&nbsp;</td></tr>
+    <tr bgcolor='#8080FF'><td>Search Criteria</td></tr>
+    <tr><td>Fish, Freshwater OR Fish, Marine<BR>Sort Order:Scientific Name Ascending</td></tr>
+    <tr><td><a href='https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc'>Open Government License&ndash;&nbsp;BC</a></td></tr>
+</table>
+
+</body>
+</html>
