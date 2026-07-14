@@ -10,7 +10,9 @@
 fbc_common_name <- function(x) {
   stopifnot(is.vector(x, "character"))
 
-  if(!length(x)) return(character(0))
+  if (!length(x)) {
+    return(character(0))
+  }
 
   y <- fishbc::freshwaterfish$CommonName
   names(y) <- fishbc::freshwaterfish$Code
