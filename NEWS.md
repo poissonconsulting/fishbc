@@ -1,7 +1,8 @@
 <!-- NEWS.md is maintained by https://fledge.cynkra.com, contributors should not edit this file -->
 
-# fishbc 0.2.2
+# fishbc 0.2.2 (2026-07-14)
 
+- Maintainer has been changed to Sarah Lyons
 - Update Evan Amies-Galonski email to personal address
 - Add/correct author ORCID(s) in DESCRIPTION
 - Add CODEOWNERS assigning @SarahLy9
