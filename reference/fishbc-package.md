@@ -8,7 +8,7 @@ fishes will be added in a future release.
 
 Useful links:
 
-- <https://github.com/poissonconsulting/fishbc>
+- <https://poissonconsulting.github.io/fishbc>
 
 - Report bugs at <https://github.com/poissonconsulting/fishbc/issues>
 
@@ -18,9 +18,6 @@ Useful links:
 ([ORCID](https://orcid.org/0000-0002-6745-6796))
 
 Authors:
-
-- Sarah Lyons <sarah@poissonconsulting.ca>
-  ([ORCID](https://orcid.org/0000-0002-6745-6796))
 
 - Evan Amies-Galonski <evanamiesgalonski@gmail.com>
   ([ORCID](https://orcid.org/0000-0003-1096-2089))

@@ -26,7 +26,7 @@ The search criteria were `Fish, Freshwater OR Fish, Marine` and the sort
 order was `Scientific Name Ascending`.
 
 The data is released under the [Open Government Licence - British
-Columbia](https://www2.gov.bc.ca/gov/content/data/policy-standards/data-policies/open-data/open-government-licence-bc)
+Columbia](https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc)
 
 ## References
 
