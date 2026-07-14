@@ -8,7 +8,7 @@ fishes will be added in a future release.
 
 Useful links:
 
-- <https://poissonconsulting.github.io/fishbc>
+- <https://poissonconsulting.github.io/fishbc/>
 
 - Report bugs at <https://github.com/poissonconsulting/fishbc/issues>
 

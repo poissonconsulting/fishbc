@@ -79,7 +79,7 @@
 <div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://tibble.tidyverse.org/" class="external-link">tibble</a></span><span class="op">)</span> <span class="co"># for tidy printing</span></span>
 <span><span class="fu">fishbc</span><span class="fu">::</span><span class="va"><a href="reference/freshwaterfish.html">freshwaterfish</a></span></span>
-<span><span class="co">#&gt; # A tibble: 161 × 18</span></span>
+<span><span class="co">#&gt; # A tibble: 161 × 17</span></span>
 <span><span class="co">#&gt;    Code  CommonName  Class Order Family Genus Species Subspecies Species2 Extant</span></span>
 <span><span class="co">#&gt;    &lt;chr&gt; &lt;chr&gt;       &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;  &lt;chr&gt; &lt;chr&gt;   &lt;chr&gt;      &lt;chr&gt;    &lt;lgl&gt; </span></span>
 <span><span class="co">#&gt;  1 AF    All Fish    &lt;NA&gt;  &lt;NA&gt;  &lt;NA&gt;   &lt;NA&gt;  &lt;NA&gt;    &lt;NA&gt;       &lt;NA&gt;     TRUE  </span></span>
@@ -93,8 +93,8 @@
 <span><span class="co">#&gt;  9 BSU   Bridgelip … Acti… Cypr… Catos… Cato… columb… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span></span>
 <span><span class="co">#&gt; 10 WSU   White Suck… Acti… Cypr… Catos… Cato… commer… &lt;NA&gt;       &lt;NA&gt;     TRUE  </span></span>
 <span><span class="co">#&gt; # ℹ 151 more rows</span></span>
-<span><span class="co">#&gt; # ℹ 8 more variables: Native &lt;lgl&gt;, Marine &lt;lgl&gt;, Yellow &lt;lgl&gt;, Blue &lt;lgl&gt;,</span></span>
-<span><span class="co">#&gt; #   Red &lt;lgl&gt;, CDCode &lt;chr&gt;, ABCode &lt;chr&gt;, Ktunaxa &lt;chr&gt;</span></span></code></pre></div>
+<span><span class="co">#&gt; # ℹ 7 more variables: Native &lt;lgl&gt;, Marine &lt;lgl&gt;, Yellow &lt;lgl&gt;, Blue &lt;lgl&gt;,</span></span>
+<span><span class="co">#&gt; #   Red &lt;lgl&gt;, CDCode &lt;chr&gt;, ABCode &lt;chr&gt;</span></span></code></pre></div>
 <p>Get the common names for fish codes.</p>
 <div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu">fishbc</span><span class="fu">::</span><span class="fu"><a href="reference/fbc_common_name.html">fbc_common_name</a></span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="st">"AF"</span>, <span class="st">"WSG"</span>, <span class="cn">NA</span>, <span class="st">"AF"</span>, <span class="st">"NOTACODE"</span><span class="op">)</span><span class="op">)</span></span>

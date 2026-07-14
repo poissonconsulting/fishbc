@@ -40,7 +40,7 @@ Get the curated freshwater fish of BC fish codes.
 
 library(tibble) # for tidy printing
 fishbc::freshwaterfish
-#> # A tibble: 161 × 18
+#> # A tibble: 161 × 17
 #>    Code  CommonName  Class Order Family Genus Species Subspecies Species2 Extant
 #>    <chr> <chr>       <chr> <chr> <chr>  <chr> <chr>   <chr>      <chr>    <lgl> 
 #>  1 AF    All Fish    <NA>  <NA>  <NA>   <NA>  <NA>    <NA>       <NA>     TRUE  
@@ -54,8 +54,8 @@ fishbc::freshwaterfish
 #>  9 BSU   Bridgelip … Acti… Cypr… Catos… Cato… columb… <NA>       <NA>     TRUE  
 #> 10 WSU   White Suck… Acti… Cypr… Catos… Cato… commer… <NA>       <NA>     TRUE  
 #> # ℹ 151 more rows
-#> # ℹ 8 more variables: Native <lgl>, Marine <lgl>, Yellow <lgl>, Blue <lgl>,
-#> #   Red <lgl>, CDCode <chr>, ABCode <chr>, Ktunaxa <chr>
+#> # ℹ 7 more variables: Native <lgl>, Marine <lgl>, Yellow <lgl>, Blue <lgl>,
+#> #   Red <lgl>, CDCode <chr>, ABCode <chr>
 ```
 
 Get the common names for fish codes.
