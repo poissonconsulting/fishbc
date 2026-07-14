@@ -8,7 +8,7 @@
 #'
 #' @references AB Fisheries and Wildlife Management Information System (FWMIS). 2021.
 #' AB Environ. and Parks Edmonton, AB
-#' Available: <https://www.alberta.ca/fisheries-loadforms.aspx>
+#' Available: <https://www.alberta.ca/fisheries-loadforms>
 #' (accessed Feb 9, 2021).
 #' @format A tbl data frame that includes:
 #' \describe{

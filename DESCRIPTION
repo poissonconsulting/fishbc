@@ -24,7 +24,7 @@ Description: Provides raw and curated data on the codes, classification
     and conservation status of freshwater fishes in British Columbia.
     Marine fishes will be added in a future release.
 License: CC BY 4.0
-URL: https://poissonconsulting.github.io/fishbc
+URL:https://poissonconsulting.github.io/fishbc/
 BugReports: https://github.com/poissonconsulting/fishbc/issues
 Depends: 
     R (>= 3.4)
