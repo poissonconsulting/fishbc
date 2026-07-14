@@ -21,7 +21,7 @@ Official raw BC Conservation Data Centre (CDC) fish data.
 The search criteria were \verb{Fish, Freshwater OR Fish, Marine}
 and the sort order was \verb{Scientific Name Ascending}.
 
-The data is released under the \href{https://www2.gov.bc.ca/gov/content/data/policy-standards/data-policies/open-data/open-government-licence-bc}{Open Government Licence - British Columbia}
+The data is released under the \href{https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc}{Open Government Licence - British Columbia}
 }
 \examples{
 head(cdc)
