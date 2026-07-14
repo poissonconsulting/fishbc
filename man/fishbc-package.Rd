@@ -11,7 +11,7 @@ Provides raw and curated data on the codes, classification and conservation stat
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/poissonconsulting/fishbc}
+  \item \url{https://poissonconsulting.github.io/fishbc}
   \item Report bugs at \url{https://github.com/poissonconsulting/fishbc/issues}
 }
 
