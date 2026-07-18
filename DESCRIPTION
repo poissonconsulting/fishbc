@@ -1,6 +1,6 @@
 Package: fishbc
 Title: Fishes of British Columbia
-Version: 0.2.2
+Version: 0.2.2.9000
 Authors@R: c(
     person("Evan", "Amies-Galonski", , "evanamiesgalonski@gmail.com", role = "aut",
            comment = c(ORCID = "0000-0003-1096-2089")),
@@ -24,7 +24,7 @@ Description: Provides raw and curated data on the codes, classification
     and conservation status of freshwater fishes in British Columbia.
     Marine fishes will be added in a future release.
 License: CC BY 4.0
-URL:https://poissonconsulting.github.io/fishbc/
+URL: https://poissonconsulting.github.io/fishbc/
 BugReports: https://github.com/poissonconsulting/fishbc/issues
 Depends: 
     R (>= 3.4)

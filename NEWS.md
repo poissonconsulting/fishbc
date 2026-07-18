@@ -1,3 +1,26 @@
+<!-- NEWS.md is maintained by https://cynkra.github.io/fledge, do not edit -->
+
+# fishbc 0.2.2.9000 (2026-07-18)
+
+* Add fledge-bump workflow
+* Add fledge-tag-on-merge workflow
+* Point fledge-bump caller at the .yaml reusable
+* Point fledge-tag-on-merge caller at the .yaml reusable
+* ci: Test all R versions on branches that start with cran-
+* ci: Tweaks
+* ci: Fix comment
+* ci: Use workflows for fledge
+* ci: Review env vers when installing, more careful foreign runs, format with `clang-format`
+* ci: Sync
+* ci: Sync
+* ci: Always use `_R_CHECK_FORCE_SUGGESTS_=false`
+* ci: Only fail covr builds if token is given
+* ci: Sync
+* ci: Fix
+* ci: Add xml2 for covr, print testthat results
+* ci: Explain
+
+
 <!-- NEWS.md is maintained by https://fledge.cynkra.com, contributors should not edit this file -->
 
 # fishbc 0.2.2 (2026-07-14)
