@@ -1,5 +1,10 @@
 <!-- NEWS.md is maintained by https://cynkra.github.io/fledge, do not edit -->
 
+# fishbc 0.2.2.9001 (2026-07-20)
+
+- Same as previous version.
+
+
 # fishbc 0.2.2.9000 (2026-07-18)
 
 * Add fledge-bump workflow
