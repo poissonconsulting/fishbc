@@ -40,16 +40,16 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/poissonconsulting/fishbc/blob/main/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/poissonconsulting/fishbc/blob/v0.2.2/DESCRIPTION)
 
 Amies-Galonski E, Thorley J, Hussein N (2026). *fishbc: Fishes of
-British Columbia*. R package version 0.2.2.9001,
+British Columbia*. R package version 0.2.2,
 <https://poissonconsulting.github.io/fishbc/>.
 
     @Manual{,
       title = {fishbc: Fishes of British Columbia},
       author = {Evan Amies-Galonski and Joe Thorley and Nadine Hussein},
       year = {2026},
-      note = {R package version 0.2.2.9001},
+      note = {R package version 0.2.2},
       url = {https://poissonconsulting.github.io/fishbc/},
     }
