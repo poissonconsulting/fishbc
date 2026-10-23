@@ -31,7 +31,7 @@ Other contributors:
   \item Bronwen Lewis [contributor]
   \item Jesse Patterson [contributor]
   \item Gordon Oliphant [contributor]
-  \item Seb Dalgarno [contributor]
+  \item Seb Dalgarno (\href{https://orcid.org/0000-0002-3658-4517}{ORCID}) [contributor]
   \item Simon Norris [contributor]
   \item Allan Irvine [contributor]
   \item Poisson Consulting [copyright holder, funder]
