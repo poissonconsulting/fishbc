@@ -1,5 +1,9 @@
 # Changelog
 
+## fishbc 0.2.2.9002 (2026-10-27)
+
+- Internal changes only.
+
 ## fishbc 0.2.2.9001 (2026-07-20)
 
 - Same as previous version.
