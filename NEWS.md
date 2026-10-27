@@ -1,4 +1,9 @@
-<!-- NEWS.md is maintained by https://cynkra.github.io/fledge, do not edit -->
+<!-- NEWS.md is maintained by https://fledge.cynkra.com, contributors should not edit this file -->
+
+# fishbc 0.2.2.9002 (2026-10-27)
+
+- Internal changes only.
+
 
 # fishbc 0.2.2.9001 (2026-07-20)
 
