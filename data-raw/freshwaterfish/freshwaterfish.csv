@@ -7,28 +7,28 @@ WSG,White Sturgeon,Actinopterygii,Acipenseriformes,Acipenseridae,Acipenser,trans
 SH,American Shad,Actinopterygii,Clupeiformes,Clupeidae,Alosa,sapidissima,NA,NA,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,F-ALSA,NA
 SU,Sucker (General),Actinopterygii,Cypriniformes,Catostomidae,NA,NA,NA,NA,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,NA,DPSC
 LSU,Longnose Sucker,Actinopterygii,Cypriniformes,Catostomidae,Catostomus,catostomus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-CACT,LNSC
-BSU,Bridgelip Sucker,Actinopterygii,Cypriniformes,Catostomidae,Catostomus,columbianus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-CACO,NA
+BSU,Bridgelip Sucker,Actinopterygii,Cypriniformes,Catostomidae,Pantosteus,columbianus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-CACO,NA
 WSU,White Sucker,Actinopterygii,Cypriniformes,Catostomidae,Catostomus,commersonii,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-CACM,WHSC
 CSU,Largescale Sucker,Actinopterygii,Cypriniformes,Catostomidae,Catostomus,macrocheilus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-CAMA,LRSC
 MSU,Northern Mountain Sucker,Actinopterygii,Cypriniformes,Catostomidae,Catostomus,platyrhynchus,NA,NA,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,F-CAPL,MNSC
 SSU,Salish Sucker,Actinopterygii,Cypriniformes,Catostomidae,Catostomus,sp. 4,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-CASP-04,NA
-OWF,Oriental Weatherfish,Actinopterygii,Cypriniformes,Cobitidae,Misgurnus,anguillicaudatus,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,FAMCATO
+OWF,Pond Loach,Actinopterygii,Cypriniformes,Cobitidae,Misgurnus,anguillicaudatus,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,FAMCATO
 C,Minnow (General),Actinopterygii,Cypriniformes,Cyprinidae,NA,NA,NA,NA,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,NA,FAMCYPR
 CBC,Chub (General),Actinopterygii,Cypriniformes,Cyprinidae,NA,NA,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,NA,NA
 CPG,Carp (General),Actinopterygii,Cypriniformes,Cyprinidae,NA,NA,NA,NA,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,NA,NA
 DC,Dace (General),Actinopterygii,Cypriniformes,Cyprinidae,NA,NA,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,NA,SPLA
-CMC,Chiselmouth,Actinopterygii,Cypriniformes,Cyprinidae,Acrocheilus,alutaceus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-ACAL,NA
+CMC,Chiselmouth,Actinopterygii,Cypriniformes,Cyprinidae,Gila,alutacea,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-ACAL,NA
 GC,Goldfish,Actinopterygii,Cypriniformes,Cyprinidae,Carassius,auratus,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-CAAU,GOFS
 RDC,Northern Redbelly Dace,Actinopterygii,Cypriniformes,Cyprinidae,Chrosomus,eos,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-CHEO,NRDC
 XDC,Northern Redbelly Dace x Finescale Dace,Actinopterygii,Cypriniformes,Cyprinidae,Chrosomus,eos,NA,neogaeus,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-CHEOxCHNE,NFDC
 FDC,Finescale Dace,Actinopterygii,Cypriniformes,Cyprinidae,Chrosomus,neogaeus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-CHNE,FNDC
 LKC,Lake Chub,Actinopterygii,Cypriniformes,Cyprinidae,Couesius,plumbeus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-COPL,LKCH
-CP,Carp,Actinopterygii,Cypriniformes,Cyprinidae,Cyprinus,carpio,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-CYCA,NA
+CP,Common Carp,Actinopterygii,Cypriniformes,Cyprinidae,Cyprinus,carpio,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-CYCA,NA
 BMC,Brassy Minnow,Actinopterygii,Cypriniformes,Cyprinidae,Hybognathus,hankinsoni,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,F-HYHA,BRMN
 PDC,Northern Pearl Dace,Actinopterygii,Cypriniformes,Cyprinidae,Margariscus,margarita,NA,nachtriebi,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,NA,NA
-PCC,Peamouth Chub,Actinopterygii,Cypriniformes,Cyprinidae,Mylocheilus,caurinus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-MYCA,PMCH
+PCC,Peamouth,Actinopterygii,Cypriniformes,Cyprinidae,Mylocheilus,caurinus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-MYCA,PMCH
 ESC,Emerald Shiner,Actinopterygii,Cypriniformes,Cyprinidae,Notropis,atherinoides,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,F-NOAT,EMSH
-STC,Spottail Shiner,Actinopterygii,Cypriniformes,Cyprinidae,Notropis,hudsonius,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-NOHU,SPSH
+STC,Spottail Shiner,Actinopterygii,Cypriniformes,Cyprinidae,Hudsonius,hudsonius,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-NOHU,SPSH
 FM,Fathead Minnow,Actinopterygii,Cypriniformes,Cyprinidae,Pimephales,promelas,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-PIPR,FTMN
 FHC,Flathead Chub,Actinopterygii,Cypriniformes,Cyprinidae,Platygobio,gracilis,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-PLGR,FLCH
 NSC,Northern Pikeminnow,Actinopterygii,Cypriniformes,Cyprinidae,Ptychocheilus,oregonensis,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-PTOR,NRSQ
@@ -39,7 +39,7 @@ SDC,Speckled Dace,Actinopterygii,Cypriniformes,Cyprinidae,Rhinichthys,osculus,NA
 UDC,Umatilla Dace,Actinopterygii,Cypriniformes,Cyprinidae,Rhinichthys,umatilla,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-RHUM,NA
 RSC,Redside Shiner,Actinopterygii,Cypriniformes,Cyprinidae,Richardsonius,balteatus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-RIBA,RDSH
 TC,Tench,Actinopterygii,Cypriniformes,Cyprinidae,Tinca,tinca,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-TITI,NA
-GAM,Mosquitofish,Actinopterygii,Cyprinodontiformes,Poeciliidae,Gambusia,affinis,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA
+GAM,Western Mosquitofish,Actinopterygii,Cyprinodontiformes,Poeciliidae,Gambusia,affinis,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA
 NP,Northern Pike,Actinopterygii,Esociformes,Esocidae,Esox,lucius,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-ESLU,NRPK
 TMP,Tiger Muskellunge,Actinopterygii,Esociformes,Esocidae,Esox,lucius,NA,masquinongy,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,NA,NA
 BB,Burbot,Actinopterygii,Gadiformes,Gadidae,Lota,lota,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,F-LOLO,BURB
@@ -70,20 +70,20 @@ SM,Smelt (General),Actinopterygii,Osmeriformes,Osmeridae,NA,NA,NA,NA,TRUE,TRUE,T
 SSM,Surf Smelt,Actinopterygii,Osmeriformes,Osmeridae,Hypomesus,pretiosus,NA,NA,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,F-HYPR,NA
 RSM,Rainbow Smelt,Actinopterygii,Osmeriformes,Osmeridae,Osmerus,dentex,NA,mordax,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,F-OSDE,NA
 LSM,Longfin Smelt,Actinopterygii,Osmeriformes,Osmeridae,Spirinchus,thaleichthys,NA,NA,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,F-SPTH,NA
-PLS,Pygmy Longfin Smelt,Actinopterygii,Osmeriformes,Osmeridae,Spirincus,sp. 1,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-SPSP-01,NA
+PLS,Pygmy Longfin Smelt,Actinopterygii,Osmeriformes,Osmeridae,Spirinchus,sp. 1,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-SPSP-01,NA
 EU,Eulachon,Actinopterygii,Osmeriformes,Osmeridae,Thaleichthys,pacificus,NA,NA,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,F-THPA,NA
 BS,Bass/Sunfish (General),Actinopterygii,Perciformes,Centrarchidae,NA,NA,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA
 PMB,Pumpkinseed,Actinopterygii,Perciformes,Centrarchidae,Lepomis,gibbosus,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-LEGI,NA
 BG,Bluegill,Actinopterygii,Perciformes,Centrarchidae,Lepomis,macrochirus,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-LPMA,NA
-SMB,Smallmouth Bass,Actinopterygii,Perciformes,Centrarchidae,Micropterus,dolomieui,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-MIDO,SMBS
-LMB,Largemouth Bass,Actinopterygii,Perciformes,Centrarchidae,Micropterus,salmoides,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-MISA,NA
+SMB,Smallmouth Bass,Actinopterygii,Perciformes,Centrarchidae,Micropterus,dolomieu,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-MIDO,SMBS
+LMB,Largemouth Bass,Actinopterygii,Perciformes,Centrarchidae,Micropterus,nigricans,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-MISA,NA
 BCB,Black Crappie,Actinopterygii,Perciformes,Centrarchidae,Pomoxis,nigromaculatus,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-PONI,NA
 CHMC,Blotched Snakehead,Actinopterygii,Perciformes,Channidae,Channa,maculata,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA
 CYAG,Shiner Perch,Actinopterygii,Perciformes,Embiotocidae,Cymatogaster,aggregata,NA,NA,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,F-CYAG,NA
 P,Perch (General),Actinopterygii,Perciformes,Percidae,NA,NA,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,NA,NA
 YP,Yellow Perch,Actinopterygii,Perciformes,Percidae,Perca,flavescens,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-PEFL,YLPR
 WP,Walleye,Actinopterygii,Perciformes,Percidae,Sander,vitreus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-SAVI,WALL
-TP,Trout-Perch,Actinopterygii,Percopsiformes,Percopsidae,Percopsis,omiscomaycus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-PEOM,TRPR
+TP,Trout-perch,Actinopterygii,Percopsiformes,Percopsidae,Percopsis,omiscomaycus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-PEOM,TRPR
 SA,Salmon (General),Actinopterygii,Salmoniformes,Salmonidae,NA,NA,NA,NA,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,NA,NA
 TR,Unidentifiable Trout - only fry <70mm in length,Actinopterygii,Salmoniformes,Salmonidae,NA,NA,NA,NA,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,NA,NA
 WF,Whitefish (General),Actinopterygii,Salmoniformes,Salmonidae,NA,NA,NA,NA,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,NA,NA
@@ -114,9 +114,9 @@ SK,Sockeye Salmon,Actinopterygii,Salmoniformes,Salmonidae,Oncorhynchus,nerka,NA,
 CH,Chinook Salmon,Actinopterygii,Salmoniformes,Salmonidae,Oncorhynchus,tshawytscha,NA,NA,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,F-ONTS,NA
 GPW,Giant Pygmy Whitefish,Actinopterygii,Salmoniformes,Salmonidae,Prosopium,coulterii,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-PRCO-03,NA
 PW,Pygmy Whitefish,Actinopterygii,Salmoniformes,Salmonidae,Prosopium,coulterii,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-PRCO,PGWH
-RW,Round Whitefish,Actinopterygii,Salmoniformes,Salmonidae,Prosopium,cyclindraceum,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-PRCY,RNWH
+RW,Round Whitefish,Actinopterygii,Salmoniformes,Salmonidae,Prosopium,cylindraceum,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-PRCY,RNWH
 MW,Mountain Whitefish,Actinopterygii,Salmoniformes,Salmonidae,Prosopium,williamsoni,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-PRWI,MNWH
-MWxRW,Mountain x Round Whitefish hybrid,Actinopterygii,Salmoniformes,Salmonidae,Prosopium,williamsoni,NA,cyclindraceum,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,NA,NA
+MWxRW,Mountain x Round Whitefish hybrid,Actinopterygii,Salmoniformes,Salmonidae,Prosopium,williamsoni,NA,cylindraceum,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,NA,NA
 AS,Atlantic Salmon,Actinopterygii,Salmoniformes,Salmonidae,Salmo,salar,NA,NA,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,F-SASA,NA
 AGB,Brown Trout (Anadromous),Actinopterygii,Salmoniformes,Salmonidae,Salmo,trutta,NA,NA,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,F-SATR,BNTR
 GB,Brown Trout,Actinopterygii,Salmoniformes,Salmonidae,Salmo,trutta,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-SATR,BNTR
@@ -136,27 +136,27 @@ GR,Arctic Grayling,Actinopterygii,Salmoniformes,Salmonidae,Thymallus,arcticus,NA
 MG,Montana Grayling,Actinopterygii,Salmoniformes,Salmonidae,Thymallus,arcticus,montanus,NA,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,NA,NA
 CC,Sculpin (General),Actinopterygii,Scorpaeniformes,Cottidae,NA,NA,NA,NA,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,NA,NA
 CCA,Sharpnose Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Clinocottus,acuticeps,NA,NA,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,F-CLAC,NA
-CAL,Coastrange Sculpin (formerly Aleutian Sculpin),Actinopterygii,Scorpaeniformes,Cottidae,Cottus,aleuticus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-COAL,NA
+CAL,Coastrange Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,aleuticus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-COAL,NA
 CCL,Cultus Lake Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,aleuticus,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-COSP-02,NA
 CAS,Prickly Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,asper,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-COAS,PRSC
-CBA,Mottled Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,bairdi,NA,NA,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,NA,NA
-CMM,Malheur Mottled Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,bendirei,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,NA,NA
+CBA,Mottled Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,bairdii,NA,NA,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,NA,NA
+CMM,Malheur Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,bendirei,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,NA,NA
 CCG,Slimy Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,cognatus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-COCO,SLSC
 CCN,Shorthead Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,confusus,NA,NA,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,F-COCN,NA
 CCH,Columbia Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,hubbsi,NA,NA,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,F-COHU,NA
 CRH,Torrent Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,rhotheus,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-CORH,NA
 CRI,Spoonhead Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,ricei,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-CORI,SPSC
 CRM,Rocky Mountain Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Cottus,sp. 9,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-COSP-04,RMSC
-CLA,Staghorn Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Leptocottus,armatus,NA,NA,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,F-LEAR,NA
-CMT,Deepwater Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,thompsoni,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,NA,NA
+CLA,Pacific Staghorn Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Leptocottus,armatus,NA,NA,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,F-LEAR,NA
+CMT,Deepwater Sculpin,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,thompsonii,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,NA,NA
 BH,Bullhead (General),Actinopterygii,Siluriformes,Ictaluridae,Ameiurus,NA,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA
 BKH,Black Bullhead,Actinopterygii,Siluriformes,Ictaluridae,Ameiurus,melas,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-AMME,NA
 YB,Yellow Bullhead,Actinopterygii,Siluriformes,Ictaluridae,Ameiurus,natalis,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-ICNA,NA
 BNH,Brown Bullhead,Actinopterygii,Siluriformes,Ictaluridae,Ameiurus,nebulosus,NA,NA,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,F-AMNE,NA
 L,Lamprey (General),Petromyzontida,Petromyzontiformes,NA,NA,NA,NA,NA,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,NA,NA
-RL,River Lamprey,Petromyzontida,Petromyzontiformes,Petromyzontidae,Lampetra,ayresii,NA,NA,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,F-LAAY,NA
-LL,Cowichan Lake Lamprey,Petromyzontida,Petromyzontiformes,Petromyzontidae,Lampetra,macrostoma,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-ENMA,NA
+RL,Western River Lamprey,Petromyzontida,Petromyzontiformes,Petromyzontidae,Lampetra,ayresii,NA,NA,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,F-LAAY,NA
+LL,Vancouver Lamprey,Petromyzontida,Petromyzontiformes,Petromyzontidae,Entosphenus,macrostoma,NA,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-ENMA,NA
 BL,Western Brook Lamprey,Petromyzontida,Petromyzontiformes,Petromyzontidae,Lampetra,richardsoni,NA,NA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,F-LARC,NA
 MCL,Morrison Creek Lamprey,Petromyzontida,Petromyzontiformes,Petromyzontidae,Lampetra,richardsoni,marifaga,NA,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,F-LARC-01,NA
 AL,Arctic Lamprey,Petromyzontida,Petromyzontiformes,Petromyzontidae,Lampetra,sp,NA,NA,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,NA,NA
-PL,Pacific Lamprey,Petromyzontida,Petromyzontiformes,Petromyzontidae,Lampetra,tridentata,NA,NA,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,F-ENTR,NA
+PL,Pacific Lamprey,Petromyzontida,Petromyzontiformes,Petromyzontidae,Entosphenus,tridentatus,NA,NA,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,F-ENTR,NA
