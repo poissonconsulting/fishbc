@@ -1,5 +1,19 @@
 # Changelog
 
+## fishbc 0.2.2.9003 (2026-11-11)
+
+### Features
+
+- Breaking change: Use AFS common and scientific names in freshwaterfish
+  ([\#55](https://github.com/poissonconsulting/fishbc/issues/55),
+  [\#56](https://github.com/poissonconsulting/fishbc/issues/56)).
+
+### Breaking changes
+
+- Breaking change: Use AFS common and scientific names in freshwaterfish
+  ([\#55](https://github.com/poissonconsulting/fishbc/issues/55),
+  [\#56](https://github.com/poissonconsulting/fishbc/issues/56)).
+
 ## fishbc 0.2.2.9002 (2026-10-27)
 
 - Internal changes only.
